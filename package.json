@@ -1,0 +1,87 @@
+{
+  "name": "dhis2-app-template",
+  "description": "DHIS2 App Template",
+  "version": "3.0.0",
+  "license": "GPL-3.0",
+  "author": "EyeSeeTea team",
+  "homepage": ".",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SferaDev/dhis2-app-template"
+  },
+  "dependencies": {
+    "@dhis2/app-runtime": "^1.5.1",
+    "@dhis2/d2-i18n": "^1.0.5",
+    "@dhis2/d2-i18n-extract": "^1.0.8",
+    "@dhis2/d2-i18n-generate": "^1.1.1",
+    "@dhis2/ui-widgets": "^1.0.8",
+    "@material-ui/core": "^4.3.3",
+    "@material-ui/icons": "^4.2.1",
+    "@material-ui/styles": "^4.3.3",
+    "axios": "^0.19.0",
+    "d2-ui-components": "^0.0.24",
+    "lodash": "^4.17.15",
+    "material-ui": "^0.20.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-jss": "^8.6.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "^3.1.1"
+  },
+  "scripts": {
+    "prestart": "yarn localize && d2-manifest package.json manifest.webapp",
+    "start": "react-scripts start",
+    "build": "rm -rf build/ && yarn localize && d2-manifest package.json manifest.webapp && react-scripts build && yarn run manifest && cp -r i18n icon.png build",
+    "build-webapp": "yarn build && rm -f $npm_package_name.zip && cd build && zip -r ../$npm_package_name.zip *",
+    "lint": "eslint src",
+    "prettify": "prettier \"{src,config}/**/*.{js,jsx,ts,tsx,json,css}\" --write",
+    "extract-pot": "d2-i18n-extract -p src/ -o i18n/",
+    "localize": "yarn extract-pot && d2-i18n-generate -n est-landing-page -p ./i18n/ -o ./src/locales/",
+    "update-po": "yarn extract-pot && for pofile in i18n/*.po; do msgmerge --backup=off -U $pofile i18n/en.pot; done"
+  },
+  "husky": {
+    "hooks": {
+      "pre-push": "yarn prettify && yarn lint && yarn extract-pot"
+    }
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-typescript": "^7.3.3",
+    "@types/lodash": "^4.14.137",
+    "@types/node": "^12.7.2",
+    "@types/react": "^16.9.2",
+    "@types/react-dom": "^16.9.0",
+    "@typescript-eslint/eslint-plugin": "^2.0.0",
+    "@typescript-eslint/parser": "^2.0.0",
+    "babel-eslint": "^10.0.3",
+    "d2-manifest": "^1.0.0",
+    "eslint": "^6.2.2",
+    "eslint-config-prettier": "^6.1.0",
+    "eslint-config-react-app": "^5.0.1",
+    "eslint-plugin-flowtype": "^4.2.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-hooks": "^2.0.1",
+    "husky": "^3.0.4",
+    "prettier": "^1.18.2",
+    "prop-types": "^15.7.2",
+    "typescript": "3.5.3"
+  },
+  "manifest.webapp": {
+    "name": "Excel Data Importer",
+    "description": "Excel Data Importer",
+    "icons": {
+      "48": "icon.png"
+    },
+    "developer": {
+      "url": "https://www.eyeseetea.com/",
+      "name": "EyeSeeTea team"
+    },
+    "activities": {
+      "dhis": {
+        "href": "*"
+      }
+    }
+  }
+}
