@@ -1,0 +1,32 @@
+export const styles = () => ({
+    loader: {
+        position: "fixed",
+        width: "100%",
+        height: "100%",
+        background: "rgba(0, 0, 0, 0.7)",
+        zIndex: "20000",
+    },
+    loaderMsg: {
+        position: "absolute",
+        width: "100%",
+        height: "35px",
+        bottom: "0px",
+        background: "#444",
+        backgroundSize: "100% 100%",
+        textAlign: "center",
+        color: "#ccc",
+        fontSize: "15px",
+        paddingTop: "7px",
+    },
+    loaderWheel: {
+        position: "absolute",
+        width: "150px",
+        height: "150px",
+        top: "50%",
+        left: "50%",
+        marginTop: "-75px",
+        marginLeft: "-75px",
+        background: `url("img/loader.gif")`,
+        backgroundSize: "100% 100%",
+    },
+});

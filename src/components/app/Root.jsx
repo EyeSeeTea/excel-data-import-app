@@ -1,10 +1,12 @@
 import React from "react";
 import { Route, Switch } from "react-router-dom";
 
+import { LandingPage } from "../pages";
+
 const Root = () => {
     return (
         <Switch>
-            <Route render={() => <p>{"Hello world"}</p>} />
+            <Route render={() => <LandingPage />} />
         </Switch>
     );
 };

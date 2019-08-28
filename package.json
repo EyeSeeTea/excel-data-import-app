@@ -1,13 +1,13 @@
 {
-  "name": "dhis2-app-template",
-  "description": "DHIS2 App Template",
+  "name": "excel-data-import-app",
+  "description": "Excel Data Import App",
   "version": "3.0.0",
   "license": "GPL-3.0",
   "author": "EyeSeeTea team",
   "homepage": ".",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SferaDev/dhis2-app-template"
+    "url": "git+https://github.com/EyeSeeTea/excel-data-import-app"
   },
   "dependencies": {
     "@dhis2/app-runtime": "^1.5.1",
@@ -26,7 +26,8 @@
     "react-dom": "^16.9.0",
     "react-jss": "^8.6.1",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "^3.1.1"
+    "react-scripts": "^3.1.1",
+    "xlsx": "^0.15.1"
   },
   "scripts": {
     "prestart": "yarn localize && d2-manifest package.json manifest.webapp",

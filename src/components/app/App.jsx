@@ -10,6 +10,7 @@ import { HeaderBar } from "@dhis2/ui-widgets";
 import i18n from "@dhis2/d2-i18n";
 
 import Root from "./Root";
+import Footer from "../footer";
 import { muiTheme } from "./themes/dhis2.theme";
 import muiThemeLegacy from "./themes/dhis2-legacy.theme";
 
@@ -58,8 +59,9 @@ const App = () => {
                 <MuiThemeProvider theme={muiTheme}>
                     <OldMuiThemeProvider muiTheme={muiThemeLegacy}>
                         <React.Fragment>
-                            <HeaderBar appName="Template application" />
+                            <HeaderBar appName="Excel Data Importer" />
                             <Root />
+                            <Footer />
                         </React.Fragment>
                     </OldMuiThemeProvider>
                 </MuiThemeProvider>
