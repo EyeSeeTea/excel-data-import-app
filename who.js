@@ -22362,7 +22362,7 @@ var whoTemplate = {
     },
     {
       "name": "Module 7 Template",
-      "file": "NHWA_Module_7.xlsx",
+      "file": "Module_7_Template.xlsx",
       "sheets": [
           {
               "sheet_type": "AGGREGATE_STATIC",
@@ -22508,6 +22508,13 @@ var whoTemplate = {
                       "name": "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Medical Doctors"
                   },
                   {
+                      "deuid": "BCjjT4Xujzu",
+                      "cocuid": "aBpbcEgtzgw",
+                      "cell_no": "G10",
+                      "total": false,
+                      "name": "total median earnings HWF Medical Doctors"
+                  },
+                  {
                       "deuid": "oTcSBrUk1hs",
                       "cocuid": "aBpbcEgtzgw",
                       "cell_no": "H10",
@@ -22541,6 +22548,13 @@ var whoTemplate = {
                       "cell_no": "F11",
                       "total": false,
                       "name": "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Generalist Medical Practitioner"
+                  },
+                  {
+                      "deuid": "BCjjT4Xujzu",
+                      "cocuid": "LHbCtHlZr3Y",
+                      "cell_no": "G11",
+                      "total": false,
+                      "name": "total median earnings HWF Generalist Medical Practitioner"
                   },
                   {
                       "deuid": "oTcSBrUk1hs",
@@ -22578,6 +22592,13 @@ var whoTemplate = {
                       "name": "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Specialist Medical Practitioner"
                   },
                   {
+                      "deuid": "BCjjT4Xujzu",
+                      "cocuid": "VtVkbvygJnm",
+                      "cell_no": "G12",
+                      "total": false,
+                      "name": "total median earnings HWF Specialist Medical Practitioner"
+                  },
+                  {
                       "deuid": "oTcSBrUk1hs",
                       "cocuid": "VtVkbvygJnm",
                       "cell_no": "H12",
@@ -22611,6 +22632,13 @@ var whoTemplate = {
                       "cell_no": "F13",
                       "total": false,
                       "name": "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Nursing Professional"
+                  },
+                  {
+                      "deuid": "BCjjT4Xujzu",
+                      "cocuid": "fGOgbIqsxDn",
+                      "cell_no": "G13",
+                      "total": false,
+                      "name": "total median earnings HWF Nursing Professional"
                   },
                   {
                       "deuid": "oTcSBrUk1hs",
@@ -22648,6 +22676,13 @@ var whoTemplate = {
                       "name": "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Midwifery Professional"
                   },
                   {
+                      "deuid": "BCjjT4Xujzu",
+                      "cocuid": "MPzyVWiSFF2",
+                      "cell_no": "G14",
+                      "total": false,
+                      "name": "total median earnings HWF Midwifery Professional"
+                  },
+                  {
                       "deuid": "oTcSBrUk1hs",
                       "cocuid": "MPzyVWiSFF2",
                       "cell_no": "H14",
@@ -22683,6 +22718,13 @@ var whoTemplate = {
                       "name": "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Dentist"
                   },
                   {
+                      "deuid": "BCjjT4Xujzu",
+                      "cocuid": "ALBRKpJsddQ",
+                      "cell_no": "G15",
+                      "total": false,
+                      "name": "total median earnings HWF Dentist"
+                  },
+                  {
                       "deuid": "oTcSBrUk1hs",
                       "cocuid": "ALBRKpJsddQ",
                       "cell_no": "H15",
@@ -22716,6 +22758,13 @@ var whoTemplate = {
                       "cell_no": "F16",
                       "total": false,
                       "name": "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Pharmacist"
+                  },
+                  {
+                      "deuid": "BCjjT4Xujzu",
+                      "cocuid": "iWRW6jXAzvP",
+                      "cell_no": "G16",
+                      "total": false,
+                      "name": "total median earnings HWF Pharmacist"
                   },
                   {
                       "deuid": "oTcSBrUk1hs",

@@ -7,7 +7,7 @@ const rawMetadata = await (await fetch(
 
 const metadata = new Map();
 
-const rows = [
+const customRows = [
   {
     row: 8,
     nrOfElements: 1
@@ -91,7 +91,7 @@ function getDataElementsCustomRows(
 let dataElementsSheet1 = getDataElementsCustomRows(
   "#tab0",
   ["D", "E", "F", "G"],
-  rows
+  customRows
 );
 
 let sheet1 = {
@@ -109,7 +109,7 @@ let sheet1 = {
 
 let dataElementsSheet2 = getDataElements(
   "#tab1",
-  ["D", "E", "F", "H", "I"],
+  ["D", "E", "F", "G", "H", "I"],
   10
 );
 
