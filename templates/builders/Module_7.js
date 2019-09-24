@@ -128,7 +128,7 @@ let sheet2 = {
 
 const module7 = {
   name: "Module 7 Template",
-  file: "Module_7_Template.xlsx",
+  file: "NHWA_Module_7.xlsx",
   sheets: [sheet1, sheet2]
 };
 
