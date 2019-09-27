@@ -8,8 +8,8 @@ for (const type in rawMetadata) {
     if (Array.isArray(elements)) elements.map(element => metadata.set(element.id, element));
 }
 
-let getDataElements = (tabSelector, letters, dataRowStart, type = "entryfield") => {
-    return Array.from(document.querySelector(tabSelector).querySelectorAll(`input.${type}`)).map((input, i) => {
+let getDataElements = (tabSelector, letters, dataRowStart,  element = "input", type = "entryfield") => {
+    return Array.from(document.querySelector(tabSelector).querySelectorAll(`${element}.${type}`)).map((input, i) => {
         const id = input.getAttribute("id");
         const data = id.split("-");
 
@@ -25,9 +25,11 @@ let getDataElements = (tabSelector, letters, dataRowStart, type = "entryfield") 
 
 let dataTab0Numeric = getDataElements("#tab0", ["D", "E", "F", "G"], 9);
 
-let dataTab0Checks = getDataElements("#tab0", [ "Q", "R", "S"], 18, "entrytrueonly");
+let dataTab0Checks = getDataElements("#tab0", [ "Q", "R", "S"], 18, "input", "entrytrueonly");
 
-let dataElementsSheet1 = [...dataTab0Numeric, ...dataTab0Checks]
+let dataTab0Comments = getDataElements("#tab0", ["F"], 15, "textarea");
+
+let dataElementsSheet1 = [...dataTab0Numeric, ...dataTab0Checks, ...dataTab0Comments]
 
 let sheet1 = {
     sheet_type: "AGGREGATE_STATIC",
@@ -92,7 +94,7 @@ let sheet4 = {
 
 let module4 = {
     name: "Module 4 Template",
-    file: "Module_4_Template.xlsx",
+    file: "NHWA_Module_4.xlsx",
     sheets: [sheet1,sheet2,sheet3,sheet4],
 };
 

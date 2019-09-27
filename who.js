@@ -20570,6 +20570,14 @@ var whoTemplate = {
               total: false,
               name:
                 "Existence of national health workforce strategies and national institutional financing reforms that identify and commit adequate budgetary resources for transformative education No"
+            },
+            {
+              deuid: "fXxS36qL9Vt",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "F15",
+              total: false,
+              name:
+                "Comment of existence of national health workforce strategies and national institutional financing reforms that identify and commit adequate budgetary resources for transformative education default"
             }
           ]
         },
@@ -20618,7 +20626,7 @@ var whoTemplate = {
               cell_no: "D10",
               total: false,
               name:
-                "Tuition Fee by Student enrolled Generalist Medical Practitioner"
+                "Tuition Fee by Student enrolled General Medical Practitioner"
             },
             {
               deuid: "FQpontg7YBJ",
@@ -20626,7 +20634,7 @@ var whoTemplate = {
               cell_no: "E10",
               total: false,
               name:
-                "Public Expenditure on HWF education Generalist Medical Practitioner"
+                "Public Expenditure on HWF education General Medical Practitioner"
             },
             {
               deuid: "tsRGEPI6G9W",
@@ -20634,7 +20642,7 @@ var whoTemplate = {
               cell_no: "F10",
               total: false,
               name:
-                "Private Expenditure on HWF education Generalist Medical Practitioner"
+                "Private Expenditure on HWF education General Medical Practitioner"
             },
             {
               deuid: "FM20fzfsNov",
@@ -20642,7 +20650,7 @@ var whoTemplate = {
               cell_no: "G10",
               total: false,
               name:
-                "Recurrent costs of qualified educators Generalist Medical Practitioner"
+                "Recurrent costs of qualified educators General Medical Practitioner"
             },
             {
               deuid: "EI6IOp5v4dR",
@@ -21095,7 +21103,7 @@ var whoTemplate = {
               cell_no: "D12",
               total: false,
               name:
-                "Public expenditure on Continuing Professional Development Generalist Medical Practitioner"
+                "Public expenditure on Continuing Professional Development General Medical Practitioner"
             },
             {
               deuid: "go9xficYy4f",
@@ -21103,7 +21111,7 @@ var whoTemplate = {
               cell_no: "E12",
               total: false,
               name:
-                "Out of Pockets expenditure on Continuing Professional Development Generalist Medical Practitioner"
+                "Out of Pockets expenditure on Continuing Professional Development General Medical Practitioner"
             },
             {
               deuid: "BMJGeU5QjPU",
@@ -21111,7 +21119,7 @@ var whoTemplate = {
               cell_no: "F12",
               total: false,
               name:
-                "Official Development Assistanc expenditure on Continuing Professional Development Generalist Medical Practitioner"
+                "Official Development Assistanc expenditure on Continuing Professional Development General Medical Practitioner"
             },
             {
               deuid: "hUqp2FZFNGA",
@@ -21119,7 +21127,7 @@ var whoTemplate = {
               cell_no: "G12",
               total: false,
               name:
-                "Others expenditure on Continuing Professional Development Generalist Medical Practitioner"
+                "Others expenditure on Continuing Professional Development General Medical Practitioner"
             },
             {
               deuid: "k31vRXPe1UA",
@@ -22361,438 +22369,468 @@ var whoTemplate = {
       ]
     },
     {
-      "name": "Module 7 Template",
-      "file": "NHWA_Module_7.xlsx",
-      "sheets": [
+      name: "Module 7 Template",
+      file: "NHWA_Module_7.xlsx",
+      sheets: [
         {
-          "sheet_type": "AGGREGATE_STATIC",
-          "sheet_no": 1,
-          "sheet_name": "Expenditure",
-          "orgUnitIdScheme": "UID",
-          "dataElementIdScheme": "UID",
-          "idScheme": "UID",
-          "oucode_cell": "V2",
-          "year_cell": "I4",
-          "last_data_column": "ZZ",
-          "agg_des": [
+          sheet_type: "AGGREGATE_STATIC",
+          sheet_no: 1,
+          sheet_name: "Expenditure",
+          orgUnitIdScheme: "UID",
+          dataElementIdScheme: "UID",
+          idScheme: "UID",
+          oucode_cell: "V2",
+          year_cell: "I4",
+          last_data_column: "ZZ",
+          agg_des: [
             {
-              "deuid": "Wgfv9IaDiWM",
-              "cocuid": "Xr12mI7VPn3",
-              "cell_no": "D8",
-              "total": false,
-              "name": "Financial income received from official development assistance and allocated to HWF default"
+              deuid: "Wgfv9IaDiWM",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "D8",
+              total: false,
+              name:
+                "Financial income received from official development assistance and allocated to HWF default"
             },
             {
-              "deuid": "gNDFctqpNyv",
-              "cocuid": "IMqululFzhP",
-              "cell_no": "D12",
-              "total": false,
-              "name": "Expenditure on health workforce Public"
+              deuid: "gNDFctqpNyv",
+              cocuid: "IMqululFzhP",
+              cell_no: "D12",
+              total: false,
+              name: "Expenditure on health workforce Public"
             },
             {
-              "deuid": "gNDFctqpNyv",
-              "cocuid": "N3nYJ6ScaYx",
-              "cell_no": "E12",
-              "total": false,
-              "name": "Expenditure on health workforce Private not for profit"
+              deuid: "gNDFctqpNyv",
+              cocuid: "N3nYJ6ScaYx",
+              cell_no: "E12",
+              total: false,
+              name: "Expenditure on health workforce Private not for profit"
             },
             {
-              "deuid": "gNDFctqpNyv",
-              "cocuid": "UKbfaRlqkpY",
-              "cell_no": "F12",
-              "total": false,
-              "name": "Expenditure on health workforce Private for profit"
+              deuid: "gNDFctqpNyv",
+              cocuid: "UKbfaRlqkpY",
+              cell_no: "F12",
+              total: false,
+              name: "Expenditure on health workforce Private for profit"
             },
             {
-              "deuid": "xWfKWoc4ggg",
-              "cocuid": "cFkpPfqFrJW",
-              "cell_no": "D16",
-              "total": false,
-              "name": "Public expenditure on health workforce Compensation"
+              deuid: "xWfKWoc4ggg",
+              cocuid: "cFkpPfqFrJW",
+              cell_no: "D16",
+              total: false,
+              name: "Public expenditure on health workforce Compensation"
             },
             {
-              "deuid": "xWfKWoc4ggg",
-              "cocuid": "TQ5H1Za7ZMR",
-              "cell_no": "E16",
-              "total": false,
-              "name": "Public expenditure on health workforce Training"
+              deuid: "xWfKWoc4ggg",
+              cocuid: "TQ5H1Za7ZMR",
+              cell_no: "E16",
+              total: false,
+              name: "Public expenditure on health workforce Training"
             },
             {
-              "deuid": "xWfKWoc4ggg",
-              "cocuid": "dVpd180cEmo",
-              "cell_no": "F16",
-              "total": false,
-              "name": "Public expenditure on health workforce Others"
+              deuid: "xWfKWoc4ggg",
+              cocuid: "dVpd180cEmo",
+              cell_no: "F16",
+              total: false,
+              name: "Public expenditure on health workforce Others"
             },
             {
-              "deuid": "l5RPrypr3Wg",
-              "cocuid": "LfoJLP7BbDk",
-              "cell_no": "D20",
-              "total": false,
-              "name": "Public expenditure on compensation of employees Wages and Salary"
+              deuid: "l5RPrypr3Wg",
+              cocuid: "LfoJLP7BbDk",
+              cell_no: "D20",
+              total: false,
+              name:
+                "Public expenditure on compensation of employees Wages and Salary"
             },
             {
-              "deuid": "l5RPrypr3Wg",
-              "cocuid": "hL8lKfXNzln",
-              "cell_no": "E20",
-              "total": false,
-              "name": "Public expenditure on compensation of employees Social contribution"
+              deuid: "l5RPrypr3Wg",
+              cocuid: "hL8lKfXNzln",
+              cell_no: "E20",
+              total: false,
+              name:
+                "Public expenditure on compensation of employees Social contribution"
             },
             {
-              "deuid": "l5RPrypr3Wg",
-              "cocuid": "VWIQFya88eZ",
-              "cell_no": "F20",
-              "total": false,
-              "name": "Public expenditure on compensation of employees Others"
+              deuid: "l5RPrypr3Wg",
+              cocuid: "VWIQFya88eZ",
+              cell_no: "F20",
+              total: false,
+              name: "Public expenditure on compensation of employees Others"
             },
             {
-              "deuid": "CvaGFNVhuQl",
-              "cocuid": "HQPWV8cT7li",
-              "cell_no": "D24",
-              "total": false,
-              "name": "Total expenditure on compensation of employees Government"
+              deuid: "CvaGFNVhuQl",
+              cocuid: "HQPWV8cT7li",
+              cell_no: "D24",
+              total: false,
+              name: "Total expenditure on compensation of employees Government"
             },
             {
-              "deuid": "CvaGFNVhuQl",
-              "cocuid": "FiRcnmXF1Yg",
-              "cell_no": "E24",
-              "total": false,
-              "name": "Total expenditure on compensation of employees Out of Pocket"
+              deuid: "CvaGFNVhuQl",
+              cocuid: "FiRcnmXF1Yg",
+              cell_no: "E24",
+              total: false,
+              name:
+                "Total expenditure on compensation of employees Out of Pocket"
             },
             {
-              "deuid": "CvaGFNVhuQl",
-              "cocuid": "QKhM7ublqzd",
-              "cell_no": "F24",
-              "total": false,
-              "name": "Total expenditure on compensation of employees Official Development Assistance"
+              deuid: "CvaGFNVhuQl",
+              cocuid: "QKhM7ublqzd",
+              cell_no: "F24",
+              total: false,
+              name:
+                "Total expenditure on compensation of employees Official Development Assistance"
             },
             {
-              "deuid": "CvaGFNVhuQl",
-              "cocuid": "txxKPnVUGvV",
-              "cell_no": "G24",
-              "total": false,
-              "name": "Total expenditure on compensation of employees Others"
+              deuid: "CvaGFNVhuQl",
+              cocuid: "txxKPnVUGvV",
+              cell_no: "G24",
+              total: false,
+              name: "Total expenditure on compensation of employees Others"
             }
           ]
         },
         {
-          "sheet_type": "AGGREGATE_STATIC",
-          "sheet_no": 2,
-          "sheet_name": "Remuneration",
-          "orgUnitIdScheme": "UID",
-          "dataElementIdScheme": "UID",
-          "idScheme": "UID",
-          "oucode_cell": "N2",
-          "year_cell": "I4",
-          "last_data_column": "ZZ",
-          "agg_des": [
+          sheet_type: "AGGREGATE_STATIC",
+          sheet_no: 2,
+          sheet_name: "Remuneration",
+          orgUnitIdScheme: "UID",
+          dataElementIdScheme: "UID",
+          idScheme: "UID",
+          oucode_cell: "N2",
+          year_cell: "I4",
+          last_data_column: "ZZ",
+          agg_des: [
             {
-              "deuid": "FVANVRToxVF",
-              "cocuid": "aBpbcEgtzgw",
-              "cell_no": "D10",
-              "total": false,
-              "name": "Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Medical Doctors"
+              deuid: "FVANVRToxVF",
+              cocuid: "aBpbcEgtzgw",
+              cell_no: "D10",
+              total: false,
+              name:
+                "Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Medical Doctors"
             },
             {
-              "deuid": "BOsqct4iCpa",
-              "cocuid": "aBpbcEgtzgw",
-              "cell_no": "E10",
-              "total": false,
-              "name": "Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Medical Doctors"
+              deuid: "BOsqct4iCpa",
+              cocuid: "aBpbcEgtzgw",
+              cell_no: "E10",
+              total: false,
+              name:
+                "Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Medical Doctors"
             },
             {
-              "deuid": "H6pdAoosHWN",
-              "cocuid": "aBpbcEgtzgw",
-              "cell_no": "F10",
-              "total": false,
-              "name": "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Medical Doctors"
+              deuid: "H6pdAoosHWN",
+              cocuid: "aBpbcEgtzgw",
+              cell_no: "F10",
+              total: false,
+              name:
+                "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Medical Doctors"
             },
             {
-              "deuid": "BCjjT4Xujzu",
-              "cocuid": "aBpbcEgtzgw",
-              "cell_no": "G10",
-              "total": false,
-              "name": "total median earnings HWF Medical Doctors"
+              deuid: "BCjjT4Xujzu",
+              cocuid: "aBpbcEgtzgw",
+              cell_no: "G10",
+              total: false,
+              name: "total median earnings HWF Medical Doctors"
             },
             {
-              "deuid": "oTcSBrUk1hs",
-              "cocuid": "aBpbcEgtzgw",
-              "cell_no": "H10",
-              "total": false,
-              "name": "median earnings of men HWF Medical Doctors"
+              deuid: "oTcSBrUk1hs",
+              cocuid: "aBpbcEgtzgw",
+              cell_no: "H10",
+              total: false,
+              name: "median earnings of men HWF Medical Doctors"
             },
             {
-              "deuid": "kOWad32u5xr",
-              "cocuid": "aBpbcEgtzgw",
-              "cell_no": "I10",
-              "total": false,
-              "name": "median earnings of female HWF Medical Doctors"
+              deuid: "kOWad32u5xr",
+              cocuid: "aBpbcEgtzgw",
+              cell_no: "I10",
+              total: false,
+              name: "median earnings of female HWF Medical Doctors"
             },
             {
-              "deuid": "FVANVRToxVF",
-              "cocuid": "LHbCtHlZr3Y",
-              "cell_no": "D11",
-              "total": false,
-              "name": "Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Generalist Medical Practitioner"
+              deuid: "FVANVRToxVF",
+              cocuid: "LHbCtHlZr3Y",
+              cell_no: "D11",
+              total: false,
+              name:
+                "Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Generalist Medical Practitioner"
             },
             {
-              "deuid": "BOsqct4iCpa",
-              "cocuid": "LHbCtHlZr3Y",
-              "cell_no": "E11",
-              "total": false,
-              "name": "Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Generalist Medical Practitioner"
+              deuid: "BOsqct4iCpa",
+              cocuid: "LHbCtHlZr3Y",
+              cell_no: "E11",
+              total: false,
+              name:
+                "Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Generalist Medical Practitioner"
             },
             {
-              "deuid": "H6pdAoosHWN",
-              "cocuid": "LHbCtHlZr3Y",
-              "cell_no": "F11",
-              "total": false,
-              "name": "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Generalist Medical Practitioner"
+              deuid: "H6pdAoosHWN",
+              cocuid: "LHbCtHlZr3Y",
+              cell_no: "F11",
+              total: false,
+              name:
+                "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Generalist Medical Practitioner"
             },
             {
-              "deuid": "BCjjT4Xujzu",
-              "cocuid": "LHbCtHlZr3Y",
-              "cell_no": "G11",
-              "total": false,
-              "name": "total median earnings HWF Generalist Medical Practitioner"
+              deuid: "BCjjT4Xujzu",
+              cocuid: "LHbCtHlZr3Y",
+              cell_no: "G11",
+              total: false,
+              name: "total median earnings HWF Generalist Medical Practitioner"
             },
             {
-              "deuid": "oTcSBrUk1hs",
-              "cocuid": "LHbCtHlZr3Y",
-              "cell_no": "H11",
-              "total": false,
-              "name": "median earnings of men HWF Generalist Medical Practitioner"
+              deuid: "oTcSBrUk1hs",
+              cocuid: "LHbCtHlZr3Y",
+              cell_no: "H11",
+              total: false,
+              name: "median earnings of men HWF Generalist Medical Practitioner"
             },
             {
-              "deuid": "kOWad32u5xr",
-              "cocuid": "LHbCtHlZr3Y",
-              "cell_no": "I11",
-              "total": false,
-              "name": "median earnings of female HWF Generalist Medical Practitioner"
+              deuid: "kOWad32u5xr",
+              cocuid: "LHbCtHlZr3Y",
+              cell_no: "I11",
+              total: false,
+              name:
+                "median earnings of female HWF Generalist Medical Practitioner"
             },
             {
-              "deuid": "FVANVRToxVF",
-              "cocuid": "VtVkbvygJnm",
-              "cell_no": "D12",
-              "total": false,
-              "name": "Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Specialist Medical Practitioner"
+              deuid: "FVANVRToxVF",
+              cocuid: "VtVkbvygJnm",
+              cell_no: "D12",
+              total: false,
+              name:
+                "Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Specialist Medical Practitioner"
             },
             {
-              "deuid": "BOsqct4iCpa",
-              "cocuid": "VtVkbvygJnm",
-              "cell_no": "E12",
-              "total": false,
-              "name": "Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Specialist Medical Practitioner"
+              deuid: "BOsqct4iCpa",
+              cocuid: "VtVkbvygJnm",
+              cell_no: "E12",
+              total: false,
+              name:
+                "Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Specialist Medical Practitioner"
             },
             {
-              "deuid": "H6pdAoosHWN",
-              "cocuid": "VtVkbvygJnm",
-              "cell_no": "F12",
-              "total": false,
-              "name": "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Specialist Medical Practitioner"
+              deuid: "H6pdAoosHWN",
+              cocuid: "VtVkbvygJnm",
+              cell_no: "F12",
+              total: false,
+              name:
+                "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Specialist Medical Practitioner"
             },
             {
-              "deuid": "BCjjT4Xujzu",
-              "cocuid": "VtVkbvygJnm",
-              "cell_no": "G12",
-              "total": false,
-              "name": "total median earnings HWF Specialist Medical Practitioner"
+              deuid: "BCjjT4Xujzu",
+              cocuid: "VtVkbvygJnm",
+              cell_no: "G12",
+              total: false,
+              name: "total median earnings HWF Specialist Medical Practitioner"
             },
             {
-              "deuid": "oTcSBrUk1hs",
-              "cocuid": "VtVkbvygJnm",
-              "cell_no": "H12",
-              "total": false,
-              "name": "median earnings of men HWF Specialist Medical Practitioner"
+              deuid: "oTcSBrUk1hs",
+              cocuid: "VtVkbvygJnm",
+              cell_no: "H12",
+              total: false,
+              name: "median earnings of men HWF Specialist Medical Practitioner"
             },
             {
-              "deuid": "kOWad32u5xr",
-              "cocuid": "VtVkbvygJnm",
-              "cell_no": "I12",
-              "total": false,
-              "name": "median earnings of female HWF Specialist Medical Practitioner"
+              deuid: "kOWad32u5xr",
+              cocuid: "VtVkbvygJnm",
+              cell_no: "I12",
+              total: false,
+              name:
+                "median earnings of female HWF Specialist Medical Practitioner"
             },
             {
-              "deuid": "FVANVRToxVF",
-              "cocuid": "fGOgbIqsxDn",
-              "cell_no": "D13",
-              "total": false,
-              "name": "Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Nursing Professional"
+              deuid: "FVANVRToxVF",
+              cocuid: "fGOgbIqsxDn",
+              cell_no: "D13",
+              total: false,
+              name:
+                "Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Nursing Professional"
             },
             {
-              "deuid": "BOsqct4iCpa",
-              "cocuid": "fGOgbIqsxDn",
-              "cell_no": "E13",
-              "total": false,
-              "name": "Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Nursing Professional"
+              deuid: "BOsqct4iCpa",
+              cocuid: "fGOgbIqsxDn",
+              cell_no: "E13",
+              total: false,
+              name:
+                "Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Nursing Professional"
             },
             {
-              "deuid": "H6pdAoosHWN",
-              "cocuid": "fGOgbIqsxDn",
-              "cell_no": "F13",
-              "total": false,
-              "name": "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Nursing Professional"
+              deuid: "H6pdAoosHWN",
+              cocuid: "fGOgbIqsxDn",
+              cell_no: "F13",
+              total: false,
+              name:
+                "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Nursing Professional"
             },
             {
-              "deuid": "BCjjT4Xujzu",
-              "cocuid": "fGOgbIqsxDn",
-              "cell_no": "G13",
-              "total": false,
-              "name": "total median earnings HWF Nursing Professional"
+              deuid: "BCjjT4Xujzu",
+              cocuid: "fGOgbIqsxDn",
+              cell_no: "G13",
+              total: false,
+              name: "total median earnings HWF Nursing Professional"
             },
             {
-              "deuid": "oTcSBrUk1hs",
-              "cocuid": "fGOgbIqsxDn",
-              "cell_no": "H13",
-              "total": false,
-              "name": "median earnings of men HWF Nursing Professional"
+              deuid: "oTcSBrUk1hs",
+              cocuid: "fGOgbIqsxDn",
+              cell_no: "H13",
+              total: false,
+              name: "median earnings of men HWF Nursing Professional"
             },
             {
-              "deuid": "kOWad32u5xr",
-              "cocuid": "fGOgbIqsxDn",
-              "cell_no": "I13",
-              "total": false,
-              "name": "median earnings of female HWF Nursing Professional"
+              deuid: "kOWad32u5xr",
+              cocuid: "fGOgbIqsxDn",
+              cell_no: "I13",
+              total: false,
+              name: "median earnings of female HWF Nursing Professional"
             },
             {
-              "deuid": "FVANVRToxVF",
-              "cocuid": "MPzyVWiSFF2",
-              "cell_no": "D14",
-              "total": false,
-              "name": "Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Midwifery Professional"
+              deuid: "FVANVRToxVF",
+              cocuid: "MPzyVWiSFF2",
+              cell_no: "D14",
+              total: false,
+              name:
+                "Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Midwifery Professional"
             },
             {
-              "deuid": "BOsqct4iCpa",
-              "cocuid": "MPzyVWiSFF2",
-              "cell_no": "E14",
-              "total": false,
-              "name": "Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Midwifery Professional"
+              deuid: "BOsqct4iCpa",
+              cocuid: "MPzyVWiSFF2",
+              cell_no: "E14",
+              total: false,
+              name:
+                "Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Midwifery Professional"
             },
             {
-              "deuid": "H6pdAoosHWN",
-              "cocuid": "MPzyVWiSFF2",
-              "cell_no": "F14",
-              "total": false,
-              "name": "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Midwifery Professional"
+              deuid: "H6pdAoosHWN",
+              cocuid: "MPzyVWiSFF2",
+              cell_no: "F14",
+              total: false,
+              name:
+                "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Midwifery Professional"
             },
             {
-              "deuid": "BCjjT4Xujzu",
-              "cocuid": "MPzyVWiSFF2",
-              "cell_no": "G14",
-              "total": false,
-              "name": "total median earnings HWF Midwifery Professional"
+              deuid: "BCjjT4Xujzu",
+              cocuid: "MPzyVWiSFF2",
+              cell_no: "G14",
+              total: false,
+              name: "total median earnings HWF Midwifery Professional"
             },
             {
-              "deuid": "oTcSBrUk1hs",
-              "cocuid": "MPzyVWiSFF2",
-              "cell_no": "H14",
-              "total": false,
-              "name": "median earnings of men HWF Midwifery Professional"
+              deuid: "oTcSBrUk1hs",
+              cocuid: "MPzyVWiSFF2",
+              cell_no: "H14",
+              total: false,
+              name: "median earnings of men HWF Midwifery Professional"
             },
             {
-              "deuid": "kOWad32u5xr",
-              "cocuid": "MPzyVWiSFF2",
-              "cell_no": "I14",
-              "total": false,
-              "name": "median earnings of female HWF Midwifery Professional"
+              deuid: "kOWad32u5xr",
+              cocuid: "MPzyVWiSFF2",
+              cell_no: "I14",
+              total: false,
+              name: "median earnings of female HWF Midwifery Professional"
             },
             {
-              "deuid": "FVANVRToxVF",
-              "cocuid": "ALBRKpJsddQ",
-              "cell_no": "D15",
-              "total": false,
-              "name": "Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Dentist"
+              deuid: "FVANVRToxVF",
+              cocuid: "ALBRKpJsddQ",
+              cell_no: "D15",
+              total: false,
+              name:
+                "Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Dentist"
             },
             {
-              "deuid": "BOsqct4iCpa",
-              "cocuid": "ALBRKpJsddQ",
-              "cell_no": "E15",
-              "total": false,
-              "name": "Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Dentist"
+              deuid: "BOsqct4iCpa",
+              cocuid: "ALBRKpJsddQ",
+              cell_no: "E15",
+              total: false,
+              name:
+                "Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Dentist"
             },
             {
-              "deuid": "H6pdAoosHWN",
-              "cocuid": "ALBRKpJsddQ",
-              "cell_no": "F15",
-              "total": false,
-              "name": "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Dentist"
+              deuid: "H6pdAoosHWN",
+              cocuid: "ALBRKpJsddQ",
+              cell_no: "F15",
+              total: false,
+              name:
+                "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Dentist"
             },
             {
-              "deuid": "BCjjT4Xujzu",
-              "cocuid": "ALBRKpJsddQ",
-              "cell_no": "G15",
-              "total": false,
-              "name": "total median earnings HWF Dentist"
+              deuid: "BCjjT4Xujzu",
+              cocuid: "ALBRKpJsddQ",
+              cell_no: "G15",
+              total: false,
+              name: "total median earnings HWF Dentist"
             },
             {
-              "deuid": "oTcSBrUk1hs",
-              "cocuid": "ALBRKpJsddQ",
-              "cell_no": "H15",
-              "total": false,
-              "name": "median earnings of men HWF Dentist"
+              deuid: "oTcSBrUk1hs",
+              cocuid: "ALBRKpJsddQ",
+              cell_no: "H15",
+              total: false,
+              name: "median earnings of men HWF Dentist"
             },
             {
-              "deuid": "kOWad32u5xr",
-              "cocuid": "ALBRKpJsddQ",
-              "cell_no": "I15",
-              "total": false,
-              "name": "median earnings of female HWF Dentist"
+              deuid: "kOWad32u5xr",
+              cocuid: "ALBRKpJsddQ",
+              cell_no: "I15",
+              total: false,
+              name: "median earnings of female HWF Dentist"
             },
             {
-              "deuid": "FVANVRToxVF",
-              "cocuid": "iWRW6jXAzvP",
-              "cell_no": "D16",
-              "total": false,
-              "name": "Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Pharmacist"
+              deuid: "FVANVRToxVF",
+              cocuid: "iWRW6jXAzvP",
+              cell_no: "D16",
+              total: false,
+              name:
+                "Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Pharmacist"
             },
             {
-              "deuid": "BOsqct4iCpa",
-              "cocuid": "iWRW6jXAzvP",
-              "cell_no": "E16",
-              "total": false,
-              "name": "Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Pharmacist"
+              deuid: "BOsqct4iCpa",
+              cocuid: "iWRW6jXAzvP",
+              cell_no: "E16",
+              total: false,
+              name:
+                "Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Pharmacist"
             },
             {
-              "deuid": "H6pdAoosHWN",
-              "cocuid": "iWRW6jXAzvP",
-              "cell_no": "F16",
-              "total": false,
-              "name": "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Pharmacist"
+              deuid: "H6pdAoosHWN",
+              cocuid: "iWRW6jXAzvP",
+              cell_no: "F16",
+              total: false,
+              name:
+                "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Pharmacist"
             },
             {
-              "deuid": "BCjjT4Xujzu",
-              "cocuid": "iWRW6jXAzvP",
-              "cell_no": "G16",
-              "total": false,
-              "name": "total median earnings HWF Pharmacist"
+              deuid: "BCjjT4Xujzu",
+              cocuid: "iWRW6jXAzvP",
+              cell_no: "G16",
+              total: false,
+              name: "total median earnings HWF Pharmacist"
             },
             {
-              "deuid": "oTcSBrUk1hs",
-              "cocuid": "iWRW6jXAzvP",
-              "cell_no": "H16",
-              "total": false,
-              "name": "median earnings of men HWF Pharmacist"
+              deuid: "oTcSBrUk1hs",
+              cocuid: "iWRW6jXAzvP",
+              cell_no: "H16",
+              total: false,
+              name: "median earnings of men HWF Pharmacist"
             },
             {
-              "deuid": "kOWad32u5xr",
-              "cocuid": "iWRW6jXAzvP",
-              "cell_no": "I16",
-              "total": false,
-              "name": "median earnings of female HWF Pharmacist"
+              deuid: "kOWad32u5xr",
+              cocuid: "iWRW6jXAzvP",
+              cell_no: "I16",
+              total: false,
+              name: "median earnings of female HWF Pharmacist"
             },
             {
-              "deuid": "M7R7LVsXlAN",
-              "cocuid": "Xr12mI7VPn3",
-              "cell_no": "N20",
-              "total": false,
-              "name": "Existence of national/subnational policies or standards on public sector wage ceiling default"
+              deuid: "M7R7LVsXlAN",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "N20",
+              total: false,
+              name:
+                "Existence of national/subnational policies or standards on public sector wage ceiling default"
             },
             {
-              "deuid": "cXn60b9eotz",
-              "cocuid": "Xr12mI7VPn3",
-              "cell_no": "E20",
-              "total": false,
-              "name": "Comment of Existence of national/subnational policies or standards on public sector wage ceiling  default"
+              deuid: "cXn60b9eotz",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E20",
+              total: false,
+              name:
+                "Comment of Existence of national/subnational policies or standards on public sector wage ceiling  default"
             }
           ]
         }
