@@ -22835,6 +22835,478 @@ var whoTemplate = {
           ]
         }
       ]
-    }
+    },
+    {
+      "name": "Module 8-10 Template",
+      "file": "NHWA_Module_8_10.xlsx",
+      "sheets": [
+          {
+              "sheet_type": "AGGREGATE_STATIC",
+              "sheet_no": 1,
+              "sheet_name": "Cost per program",
+              "orgUnitIdScheme": "UID",
+              "dataElementIdScheme": "UID",
+              "idScheme": "UID",
+              "oucode_cell": "V2",
+              "year_cell": "I4",
+              "last_data_column": "ZZ",
+              "agg_des": [
+                  {
+                      "deuid": "LW954y3FqL8",
+                      "cocuid": "Xr12mI7VPn3",
+                      "cell_no": "D8",
+                      "total": false,
+                      "name": "Percentage of HWF at the hospitals default"
+                  },
+                  {
+                      "deuid": "fxBC5D01Iem",
+                      "cocuid": "Xr12mI7VPn3",
+                      "cell_no": "D9",
+                      "total": false,
+                      "name": "Percentage of HWF working in residential long-term care facilities default"
+                  },
+                  {
+                      "deuid": "EWJZZN7T9IW",
+                      "cocuid": "Xr12mI7VPn3",
+                      "cell_no": "D10",
+                      "total": false,
+                      "name": "Percentage of HWF working in ambulatory health care default"
+                  },
+                  {
+                      "deuid": "zozZbvSo4Bz",
+                      "cocuid": "Xr12mI7VPn3",
+                      "cell_no": "D11",
+                      "total": false,
+                      "name": "Number of specialist surgical workers default"
+                  },
+                  {
+                      "deuid": "XEj0ILIlbWO",
+                      "cocuid": "Xr12mI7VPn3",
+                      "cell_no": "D12",
+                      "total": false,
+                      "name": "Number of family medicine practioners default"
+                  },
+                  {
+                      "deuid": "tKr3k3lbnJJ",
+                      "cocuid": "I93t0K7b1oN",
+                      "cell_no": "U13",
+                      "total": false,
+                      "name": "Existence of advanced nursing roles Yes"
+                  },
+                  {
+                      "deuid": "tKr3k3lbnJJ",
+                      "cocuid": "Xgr3PJxcWfJ",
+                      "cell_no": "V13",
+                      "total": false,
+                      "name": "Existence of advanced nursing roles Partial"
+                  },
+                  {
+                      "deuid": "tKr3k3lbnJJ",
+                      "cocuid": "Y7EAGQA1bfv",
+                      "cell_no": "W13",
+                      "total": false,
+                      "name": "Existence of advanced nursing roles No"
+                  },
+                  {
+                      "deuid": "jlJcFRt3mmg",
+                      "cocuid": "Xr12mI7VPn3",
+                      "cell_no": "E13",
+                      "total": false,
+                      "name": "Comment of existence of advanced nursing roles default"
+                  }
+              ]
+          },
+          {
+              "sheet_type": "AGGREGATE_STATIC",
+              "sheet_no": 2,
+              "sheet_name": "M09 - Governance and policies",
+              "orgUnitIdScheme": "UID",
+              "dataElementIdScheme": "UID",
+              "idScheme": "UID",
+              "oucode_cell": "N2",
+              "year_cell": "I4",
+              "last_data_column": "ZZ",
+              "agg_des": [
+                  {
+                      "deuid": "ROVoulCcT0j",
+                      "cocuid": "I93t0K7b1oN",
+                      "cell_no": "Q9",
+                      "total": false,
+                      "name": "Existence of institutional mechanisms to coordinate an intersectoral health workforce agenda Yes"
+                  },
+                  {
+                      "deuid": "ROVoulCcT0j",
+                      "cocuid": "Xgr3PJxcWfJ",
+                      "cell_no": "R9",
+                      "total": false,
+                      "name": "Existence of institutional mechanisms to coordinate an intersectoral health workforce agenda Partial"
+                  },
+                  {
+                      "deuid": "ROVoulCcT0j",
+                      "cocuid": "Y7EAGQA1bfv",
+                      "cell_no": "S9",
+                      "total": false,
+                      "name": "Existence of institutional mechanisms to coordinate an intersectoral health workforce agenda No"
+                  },
+                  {
+                      "deuid": "yqQBUxeuga4",
+                      "cocuid": "I93t0K7b1oN",
+                      "cell_no": "Q10",
+                      "total": false,
+                      "name": "Existence of a health workforce unit responsible for developing and monitoring policies and plans on health workforce Yes"
+                  },
+                  {
+                      "deuid": "yqQBUxeuga4",
+                      "cocuid": "Xgr3PJxcWfJ",
+                      "cell_no": "R10",
+                      "total": false,
+                      "name": "Existence of a health workforce unit responsible for developing and monitoring policies and plans on health workforce Partial"
+                  },
+                  {
+                      "deuid": "yqQBUxeuga4",
+                      "cocuid": "Y7EAGQA1bfv",
+                      "cell_no": "S10",
+                      "total": false,
+                      "name": "Existence of a health workforce unit responsible for developing and monitoring policies and plans on health workforce No"
+                  },
+                  {
+                      "deuid": "tdwemEgGckz",
+                      "cocuid": "I93t0K7b1oN",
+                      "cell_no": "Q11",
+                      "total": false,
+                      "name": "Existence of mechanisms and models for health workforce planning Yes"
+                  },
+                  {
+                      "deuid": "tdwemEgGckz",
+                      "cocuid": "Xgr3PJxcWfJ",
+                      "cell_no": "R11",
+                      "total": false,
+                      "name": "Existence of mechanisms and models for health workforce planning Partial"
+                  },
+                  {
+                      "deuid": "tdwemEgGckz",
+                      "cocuid": "Y7EAGQA1bfv",
+                      "cell_no": "S11",
+                      "total": false,
+                      "name": "Existence of mechanisms and models for health workforce planning No"
+                  },
+                  {
+                      "deuid": "wDaqByzsz7p",
+                      "cocuid": "I93t0K7b1oN",
+                      "cell_no": "Q12",
+                      "total": false,
+                      "name": "Existence of national education plans for the health workforce, aligned with the national health plan and the national health workforce strategy Yes"
+                  },
+                  {
+                      "deuid": "wDaqByzsz7p",
+                      "cocuid": "Xgr3PJxcWfJ",
+                      "cell_no": "R12",
+                      "total": false,
+                      "name": "Existence of national education plans for the health workforce, aligned with the national health plan and the national health workforce strategy Partial"
+                  },
+                  {
+                      "deuid": "wDaqByzsz7p",
+                      "cocuid": "Y7EAGQA1bfv",
+                      "cell_no": "S12",
+                      "total": false,
+                      "name": "Existence of national education plans for the health workforce, aligned with the national health plan and the national health workforce strategy No"
+                  },
+                  {
+                      "deuid": "HgQ76w0VONy",
+                      "cocuid": "I93t0K7b1oN",
+                      "cell_no": "Q13",
+                      "total": false,
+                      "name": "Existence of institutional models for assessing and monitoring staffing needs for health services delivery Yes"
+                  },
+                  {
+                      "deuid": "HgQ76w0VONy",
+                      "cocuid": "Xgr3PJxcWfJ",
+                      "cell_no": "R13",
+                      "total": false,
+                      "name": "Existence of institutional models for assessing and monitoring staffing needs for health services delivery Partial"
+                  },
+                  {
+                      "deuid": "HgQ76w0VONy",
+                      "cocuid": "Y7EAGQA1bfv",
+                      "cell_no": "S13",
+                      "total": false,
+                      "name": "Existence of institutional models for assessing and monitoring staffing needs for health services delivery No"
+                  },
+                  {
+                      "deuid": "xtrKmZJKljq",
+                      "cocuid": "Xr12mI7VPn3",
+                      "cell_no": "E9",
+                      "total": false,
+                      "name": "Comment of existence of institutional mechanisms to coordinate an intersectoral health workforce agenda default"
+                  },
+                  {
+                      "deuid": "R6JXOAVTsay",
+                      "cocuid": "Xr12mI7VPn3",
+                      "cell_no": "E10",
+                      "total": false,
+                      "name": "Comment of existence of a health workforce unit responsible for developing and monitoring policies and plans on health workforce default"
+                  },
+                  {
+                      "deuid": "risbLwkLwW5",
+                      "cocuid": "Xr12mI7VPn3",
+                      "cell_no": "E11",
+                      "total": false,
+                      "name": "Comment of existence of mechanisms and models for health workforce planning default"
+                  },
+                  {
+                      "deuid": "oLpoOT6tO7g",
+                      "cocuid": "Xr12mI7VPn3",
+                      "cell_no": "E12",
+                      "total": false,
+                      "name": "Comment of national education plans for the health workforce, aligned with the national health plan and the national health workforce strategy default"
+                  },
+                  {
+                      "deuid": "RM1vy8bSPE8",
+                      "cocuid": "Xr12mI7VPn3",
+                      "cell_no": "E13",
+                      "total": false,
+                      "name": "Comment of Existence of institutional models for assessing and monitoring staffing needs for health service delivery default"
+                  }
+              ]
+          },
+          {
+              "sheet_type": "AGGREGATE_STATIC",
+              "sheet_no": 3,
+              "sheet_name": "M10 - Information Systems",
+              "orgUnitIdScheme": "UID",
+              "dataElementIdScheme": "UID",
+              "idScheme": "UID",
+              "oucode_cell": "N2",
+              "year_cell": "I4",
+              "last_data_column": "ZZ",
+              "agg_des": [
+                  {
+                      "deuid": "f87mpByuPub",
+                      "cocuid": "I93t0K7b1oN",
+                      "cell_no": "Q9",
+                      "total": false,
+                      "name": "Existence of HRHIS for reporting on International Health Regulations Yes"
+                  },
+                  {
+                      "deuid": "f87mpByuPub",
+                      "cocuid": "Xgr3PJxcWfJ",
+                      "cell_no": "R9",
+                      "total": false,
+                      "name": "Existence of HRHIS for reporting on International Health Regulations Partial"
+                  },
+                  {
+                      "deuid": "f87mpByuPub",
+                      "cocuid": "Y7EAGQA1bfv",
+                      "cell_no": "S9",
+                      "total": false,
+                      "name": "Existence of HRHIS for reporting on International Health Regulations No"
+                  },
+                  {
+                      "deuid": "RHokurJAbjS",
+                      "cocuid": "I93t0K7b1oN",
+                      "cell_no": "Q10",
+                      "total": false,
+                      "name": "Existence of HRHIS for reporting on  the WHO Global Code of Practice on the International Recruitment of Health Personnel  Yes"
+                  },
+                  {
+                      "deuid": "RHokurJAbjS",
+                      "cocuid": "Xgr3PJxcWfJ",
+                      "cell_no": "R10",
+                      "total": false,
+                      "name": "Existence of HRHIS for reporting on  the WHO Global Code of Practice on the International Recruitment of Health Personnel  Partial"
+                  },
+                  {
+                      "deuid": "RHokurJAbjS",
+                      "cocuid": "Y7EAGQA1bfv",
+                      "cell_no": "S10",
+                      "total": false,
+                      "name": "Existence of HRHIS for reporting on  the WHO Global Code of Practice on the International Recruitment of Health Personnel  No"
+                  },
+                  {
+                      "deuid": "w8SWd1reRm8",
+                      "cocuid": "I93t0K7b1oN",
+                      "cell_no": "Q11",
+                      "total": false,
+                      "name": "Existence of HRHIS for reporting on Skilled Attendance at Birth requirements Yes"
+                  },
+                  {
+                      "deuid": "w8SWd1reRm8",
+                      "cocuid": "Xgr3PJxcWfJ",
+                      "cell_no": "R11",
+                      "total": false,
+                      "name": "Existence of HRHIS for reporting on Skilled Attendance at Birth requirements Partial"
+                  },
+                  {
+                      "deuid": "w8SWd1reRm8",
+                      "cocuid": "Y7EAGQA1bfv",
+                      "cell_no": "S11",
+                      "total": false,
+                      "name": "Existence of HRHIS for reporting on Skilled Attendance at Birth requirements No"
+                  },
+                  {
+                      "deuid": "IidAimBSgEf",
+                      "cocuid": "I93t0K7b1oN",
+                      "cell_no": "Q12",
+                      "total": false,
+                      "name": "Existence of HRHIS for reporting on outputs from education and training institutions Yes"
+                  },
+                  {
+                      "deuid": "IidAimBSgEf",
+                      "cocuid": "Xgr3PJxcWfJ",
+                      "cell_no": "R12",
+                      "total": false,
+                      "name": "Existence of HRHIS for reporting on outputs from education and training institutions Partial"
+                  },
+                  {
+                      "deuid": "IidAimBSgEf",
+                      "cocuid": "Y7EAGQA1bfv",
+                      "cell_no": "S12",
+                      "total": false,
+                      "name": "Existence of HRHIS for reporting on outputs from education and training institutions No"
+                  },
+                  {
+                      "deuid": "q8CUMlpFLtJ",
+                      "cocuid": "I93t0K7b1oN",
+                      "cell_no": "Q13",
+                      "total": false,
+                      "name": "Existence of HRHIS to track entrants to the labour market Yes"
+                  },
+                  {
+                      "deuid": "q8CUMlpFLtJ",
+                      "cocuid": "Xgr3PJxcWfJ",
+                      "cell_no": "R13",
+                      "total": false,
+                      "name": "Existence of HRHIS to track entrants to the labour market Partial"
+                  },
+                  {
+                      "deuid": "q8CUMlpFLtJ",
+                      "cocuid": "Y7EAGQA1bfv",
+                      "cell_no": "S13",
+                      "total": false,
+                      "name": "Existence of HRHIS to track entrants to the labour market No"
+                  },
+                  {
+                      "deuid": "hR7B1ITcCMe",
+                      "cocuid": "I93t0K7b1oN",
+                      "cell_no": "Q14",
+                      "total": false,
+                      "name": "Existence of HRHIS to track the number of active stock per year Yes"
+                  },
+                  {
+                      "deuid": "hR7B1ITcCMe",
+                      "cocuid": "Xgr3PJxcWfJ",
+                      "cell_no": "R14",
+                      "total": false,
+                      "name": "Existence of HRHIS to track the number of active stock per year Partial"
+                  },
+                  {
+                      "deuid": "hR7B1ITcCMe",
+                      "cocuid": "Y7EAGQA1bfv",
+                      "cell_no": "S14",
+                      "total": false,
+                      "name": "Existence of HRHIS to track the number of active stock per year No"
+                  },
+                  {
+                      "deuid": "qNxAIa6jvmm",
+                      "cocuid": "I93t0K7b1oN",
+                      "cell_no": "Q15",
+                      "total": false,
+                      "name": "Existence of HRHIS to track the number of exits per year Yes"
+                  },
+                  {
+                      "deuid": "qNxAIa6jvmm",
+                      "cocuid": "Xgr3PJxcWfJ",
+                      "cell_no": "R15",
+                      "total": false,
+                      "name": "Existence of HRHIS to track the number of exits per year Partial"
+                  },
+                  {
+                      "deuid": "qNxAIa6jvmm",
+                      "cocuid": "Y7EAGQA1bfv",
+                      "cell_no": "S15",
+                      "total": false,
+                      "name": "Existence of HRHIS to track the number of exits per year No"
+                  },
+                  {
+                      "deuid": "FZYvE3Jdf8L",
+                      "cocuid": "I93t0K7b1oN",
+                      "cell_no": "Q16",
+                      "total": false,
+                      "name": "Existence of HRHIS to produce geo-coded location of health facilities Yes"
+                  },
+                  {
+                      "deuid": "FZYvE3Jdf8L",
+                      "cocuid": "Xgr3PJxcWfJ",
+                      "cell_no": "R16",
+                      "total": false,
+                      "name": "Existence of HRHIS to produce geo-coded location of health facilities Partial"
+                  },
+                  {
+                      "deuid": "FZYvE3Jdf8L",
+                      "cocuid": "Y7EAGQA1bfv",
+                      "cell_no": "S16",
+                      "total": false,
+                      "name": "Existence of HRHIS to produce geo-coded location of health facilities No"
+                  },
+                  {
+                      "deuid": "jieOOtItEQg",
+                      "cocuid": "Xr12mI7VPn3",
+                      "cell_no": "E9",
+                      "total": false,
+                      "name": "Comment of Existence of HRHIS for reporting on International Health Regulations default"
+                  },
+                  {
+                      "deuid": "tASpRJWiyvN",
+                      "cocuid": "Xr12mI7VPn3",
+                      "cell_no": "E10",
+                      "total": false,
+                      "name": "Comment of Existence of HRHIS for reporting on  the WHO Global Code of Practice on the International Recruitment of Health Personnel default"
+                  },
+                  {
+                      "deuid": "aAaUMHvUPv1",
+                      "cocuid": "Xr12mI7VPn3",
+                      "cell_no": "E11",
+                      "total": false,
+                      "name": "Comment of Existence of HRHIS for reporting on Skilled Attendance at Birth requirements default"
+                  },
+                  {
+                      "deuid": "mwwpy9cyOGy",
+                      "cocuid": "Xr12mI7VPn3",
+                      "cell_no": "E12",
+                      "total": false,
+                      "name": "Comment of Existence of HRHIS for reporting on outputs from education and training institutions default"
+                  },
+                  {
+                      "deuid": "AK5r5VIXYOW",
+                      "cocuid": "Xr12mI7VPn3",
+                      "cell_no": "E13",
+                      "total": false,
+                      "name": "Comment of Existence of HRHIS to track entrants to the labour market default"
+                  },
+                  {
+                      "deuid": "QuUK6IgR9oZ",
+                      "cocuid": "Xr12mI7VPn3",
+                      "cell_no": "E14",
+                      "total": false,
+                      "name": "Comment of Existence of HRHIS to track the number of active stock per year default"
+                  },
+                  {
+                      "deuid": "bGA2GtwhrC9",
+                      "cocuid": "Xr12mI7VPn3",
+                      "cell_no": "E15",
+                      "total": false,
+                      "name": "Comment of Existence of HRHIS to track the number of exits per year default"
+                  },
+                  {
+                      "deuid": "cWUu9JeMtg7",
+                      "cocuid": "Xr12mI7VPn3",
+                      "cell_no": "E16",
+                      "total": false,
+                      "name": "Comment of Existence of HRHIS to produce geo-coded location of health facilities default"
+                  }
+              ]
+          }
+      ]
+  }
   ]
 };
