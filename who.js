@@ -20469,6 +20469,2067 @@ var whoTemplate = {
       ]
     },
     {
+      name: "Module 3 Template",
+      file: "NHWA_Module_3.xlsx",
+      sheets: [
+        {
+          sheet_type: "AGGREGATE_STATIC",
+          sheet_no: 1,
+          sheet_name: "Regulation",
+          orgUnitIdScheme: "UID",
+          dataElementIdScheme: "UID",
+          idScheme: "UID",
+          oucode_cell: "X2",
+          year_cell: "L4",
+          last_data_column: "ZZ",
+          agg_des: [
+            {
+              deuid: "afgPWA9EO9d",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "F7",
+              total: false,
+              name:
+                "Existence of national standard on the duration and contents of education and training for Medical Doctors Yes"
+            },
+            {
+              deuid: "afgPWA9EO9d",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "G7",
+              total: false,
+              name:
+                "Existence of national standard on the duration and contents of education and training for Medical Doctors Partial"
+            },
+            {
+              deuid: "afgPWA9EO9d",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "H7",
+              total: false,
+              name:
+                "Existence of national standard on the duration and contents of education and training for Medical Doctors No"
+            },
+            {
+              deuid: "eaxvIzrZDyz",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "F8",
+              total: false,
+              name:
+                "Existence of national standard on the duration and contents of education and training for General Medical Practitioner Yes"
+            },
+            {
+              deuid: "eaxvIzrZDyz",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "G8",
+              total: false,
+              name:
+                "Existence of national standard on the duration and contents of education and training for General Medical Practitioner Partial"
+            },
+            {
+              deuid: "eaxvIzrZDyz",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "H8",
+              total: false,
+              name:
+                "Existence of national standard on the duration and contents of education and training for General Medical Practitioner No"
+            },
+            {
+              deuid: "RQZXBtwBToV",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "F9",
+              total: false,
+              name:
+                "Existence of national standard on the duration and contents of education and training for Specialist Medical Practitioner Yes"
+            },
+            {
+              deuid: "RQZXBtwBToV",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "G9",
+              total: false,
+              name:
+                "Existence of national standard on the duration and contents of education and training for Specialist Medical Practitioner Partial"
+            },
+            {
+              deuid: "RQZXBtwBToV",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "H9",
+              total: false,
+              name:
+                "Existence of national standard on the duration and contents of education and training for Specialist Medical Practitioner No"
+            },
+            {
+              deuid: "h580rDibPjP",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "F10",
+              total: false,
+              name:
+                "Existence of national standard on the duration and contents of education and training for Nursing Professional Yes"
+            },
+            {
+              deuid: "h580rDibPjP",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "G10",
+              total: false,
+              name:
+                "Existence of national standard on the duration and contents of education and training for Nursing Professional Partial"
+            },
+            {
+              deuid: "h580rDibPjP",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "H10",
+              total: false,
+              name:
+                "Existence of national standard on the duration and contents of education and training for Nursing Professional No"
+            },
+            {
+              deuid: "c3tvWVyotti",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "F11",
+              total: false,
+              name:
+                "Existence of national standard on the duration and contents of education and training for Midwifery Professional Yes"
+            },
+            {
+              deuid: "c3tvWVyotti",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "G11",
+              total: false,
+              name:
+                "Existence of national standard on the duration and contents of education and training for Midwifery Professional Partial"
+            },
+            {
+              deuid: "c3tvWVyotti",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "H11",
+              total: false,
+              name:
+                "Existence of national standard on the duration and contents of education and training for Midwifery Professional No"
+            },
+            {
+              deuid: "u06rnfoY988",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "F12",
+              total: false,
+              name:
+                "Existence of national standard on the duration and contents of education and training for Dentist Yes"
+            },
+            {
+              deuid: "u06rnfoY988",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "G12",
+              total: false,
+              name:
+                "Existence of national standard on the duration and contents of education and training for Dentist Partial"
+            },
+            {
+              deuid: "u06rnfoY988",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "H12",
+              total: false,
+              name:
+                "Existence of national standard on the duration and contents of education and training for Dentist No"
+            },
+            {
+              deuid: "LTTnjIq6X6j",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "F13",
+              total: false,
+              name:
+                "Existence of national standard on the duration and contents of education and training for Pharmacist Yes"
+            },
+            {
+              deuid: "LTTnjIq6X6j",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "G13",
+              total: false,
+              name:
+                "Existence of national standard on the duration and contents of education and training for Pharmacist Partial"
+            },
+            {
+              deuid: "LTTnjIq6X6j",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "H13",
+              total: false,
+              name:
+                "Existence of national standard on the duration and contents of education and training for Pharmacist No"
+            },
+            {
+              deuid: "slfNDnwGD4i",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "I7",
+              total: false,
+              name:
+                "Comment of existence of national standard on the duration and contents of education and training for Medical Doctors default"
+            },
+            {
+              deuid: "KM3j2qURZvm",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "I8",
+              total: false,
+              name:
+                "Comment of existence of national standard on the duration and contents of education and training for General Medical Practitioner default"
+            },
+            {
+              deuid: "IRewF07UDgW",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "I9",
+              total: false,
+              name:
+                "Comment of existence of national standard on the duration and contents of education and training for Specialist Medical Practitioner default"
+            },
+            {
+              deuid: "IS6oWwtsElu",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "I10",
+              total: false,
+              name:
+                "Comment of existence of national standard on the duration and contents of education and training for Nursing Professional default"
+            },
+            {
+              deuid: "S0cJazBoB9r",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "I11",
+              total: false,
+              name:
+                "Comment of existence of national standard on the duration and contents of education and training for Midwifery Professional default"
+            },
+            {
+              deuid: "ZVZnw9CazmI",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "I12",
+              total: false,
+              name:
+                "Comment of existence of national standard on the duration and contents of education and training for Dentist default"
+            },
+            {
+              deuid: "RBkF8N37tQl",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "I13",
+              total: false,
+              name:
+                "Comment of existence of national standard on the duration and contents of education and training for Pharmacist default"
+            }
+          ]
+        },
+        {
+          sheet_type: "AGGREGATE_STATIC",
+          sheet_no: 2,
+          sheet_name: "Acreditation",
+          orgUnitIdScheme: "UID",
+          dataElementIdScheme: "UID",
+          idScheme: "UID",
+          oucode_cell: "AT2",
+          year_cell: "AQ4",
+          last_data_column: "ZZ",
+          agg_des: [
+            {
+              deuid: "HZci3ozLEL4",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "F7",
+              total: false,
+              name:
+                "Existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Medical Doctor Yes"
+            },
+            {
+              deuid: "HZci3ozLEL4",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "G7",
+              total: false,
+              name:
+                "Existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Medical Doctor Partial"
+            },
+            {
+              deuid: "HZci3ozLEL4",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "H7",
+              total: false,
+              name:
+                "Existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Medical Doctor No"
+            },
+            {
+              deuid: "aEDrisPWh6i",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "L7",
+              total: false,
+              name:
+                "Existence of national standard on mechanism on social accountability Medical Doctors Yes"
+            },
+            {
+              deuid: "aEDrisPWh6i",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "M7",
+              total: false,
+              name:
+                "Existence of national standard on mechanism on social accountability Medical Doctors Partial"
+            },
+            {
+              deuid: "aEDrisPWh6i",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "N7",
+              total: false,
+              name:
+                "Existence of national standard on mechanism on social accountability Medical Doctors No"
+            },
+            {
+              deuid: "ubXH2Mko823",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "R7",
+              total: false,
+              name:
+                "Effective implementation of national standards on social accountability Medical Doctors Yes"
+            },
+            {
+              deuid: "ubXH2Mko823",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "S7",
+              total: false,
+              name:
+                "Effective implementation of national standards on social accountability Medical Doctors Partial"
+            },
+            {
+              deuid: "ubXH2Mko823",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "T7",
+              total: false,
+              name:
+                "Effective implementation of national standards on social accountability Medical Doctors No"
+            },
+            {
+              deuid: "U5S2sbEnGT9",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "X7",
+              total: false,
+              name:
+                "Existence of national standard for considering social determinants of health accreditation for Medical Doctors Yes"
+            },
+            {
+              deuid: "U5S2sbEnGT9",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "Y7",
+              total: false,
+              name:
+                "Existence of national standard for considering social determinants of health accreditation for Medical Doctors Partial"
+            },
+            {
+              deuid: "U5S2sbEnGT9",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "Z7",
+              total: false,
+              name:
+                "Existence of national standard for considering social determinants of health accreditation for Medical Doctors No"
+            },
+            {
+              deuid: "Qj97xn0ejxd",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "AD7",
+              total: false,
+              name:
+                "Existence of national standard on interprofessional education in accreditation standards Medical Doctors Yes"
+            },
+            {
+              deuid: "Qj97xn0ejxd",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "AE7",
+              total: false,
+              name:
+                "Existence of national standard on interprofessional education in accreditation standards Medical Doctors Partial"
+            },
+            {
+              deuid: "Qj97xn0ejxd",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "AF7",
+              total: false,
+              name:
+                "Existence of national standard on interprofessional education in accreditation standards Medical Doctors No"
+            },
+            {
+              deuid: "j4pHY4ToKPi",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "AJ7",
+              total: false,
+              name:
+                "Existence of cooperation between education and training institutions and health professional regulators to agree on the standards Medical Doctors Yes"
+            },
+            {
+              deuid: "j4pHY4ToKPi",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "AK7",
+              total: false,
+              name:
+                "Existence of cooperation between education and training institutions and health professional regulators to agree on the standards Medical Doctors Partial"
+            },
+            {
+              deuid: "j4pHY4ToKPi",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "AL7",
+              total: false,
+              name:
+                "Existence of cooperation between education and training institutions and health professional regulators to agree on the standards Medical Doctors No"
+            },
+            {
+              deuid: "QcMU3E5D2eN",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "F8",
+              total: false,
+              name:
+                "Existence of national standard on mechanisms for accreditation of education and training institutions and their programmes General Medical Practitioner Yes"
+            },
+            {
+              deuid: "QcMU3E5D2eN",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "G8",
+              total: false,
+              name:
+                "Existence of national standard on mechanisms for accreditation of education and training institutions and their programmes General Medical Practitioner Partial"
+            },
+            {
+              deuid: "QcMU3E5D2eN",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "H8",
+              total: false,
+              name:
+                "Existence of national standard on mechanisms for accreditation of education and training institutions and their programmes General Medical Practitioner No"
+            },
+            {
+              deuid: "KcDPaDGLf9P",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "L8",
+              total: false,
+              name:
+                "Existence of national standard on mechanism on social accountability General Medical Practitioner Yes"
+            },
+            {
+              deuid: "KcDPaDGLf9P",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "M8",
+              total: false,
+              name:
+                "Existence of national standard on mechanism on social accountability General Medical Practitioner Partial"
+            },
+            {
+              deuid: "KcDPaDGLf9P",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "N8",
+              total: false,
+              name:
+                "Existence of national standard on mechanism on social accountability General Medical Practitioner No"
+            },
+            {
+              deuid: "KYNXNZlaQBc",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "R8",
+              total: false,
+              name:
+                "Effective implementation of national standards on social accountability General Medical Practitioner Yes"
+            },
+            {
+              deuid: "KYNXNZlaQBc",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "S8",
+              total: false,
+              name:
+                "Effective implementation of national standards on social accountability General Medical Practitioner Partial"
+            },
+            {
+              deuid: "KYNXNZlaQBc",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "T8",
+              total: false,
+              name:
+                "Effective implementation of national standards on social accountability General Medical Practitioner No"
+            },
+            {
+              deuid: "o64uNjIuRXr",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "X8",
+              total: false,
+              name:
+                "Existence of national standard for considering social determinants of health accreditation for Generalist Medical Practitioner Yes"
+            },
+            {
+              deuid: "o64uNjIuRXr",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "Y8",
+              total: false,
+              name:
+                "Existence of national standard for considering social determinants of health accreditation for Generalist Medical Practitioner Partial"
+            },
+            {
+              deuid: "o64uNjIuRXr",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "Z8",
+              total: false,
+              name:
+                "Existence of national standard for considering social determinants of health accreditation for Generalist Medical Practitioner No"
+            },
+            {
+              deuid: "nwRqq6w8MKq",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "AD8",
+              total: false,
+              name:
+                "Existence of national standard on interprofessional education in accreditation standards Generalist Medical Practitioner Yes"
+            },
+            {
+              deuid: "nwRqq6w8MKq",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "AE8",
+              total: false,
+              name:
+                "Existence of national standard on interprofessional education in accreditation standards Generalist Medical Practitioner Partial"
+            },
+            {
+              deuid: "nwRqq6w8MKq",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "AF8",
+              total: false,
+              name:
+                "Existence of national standard on interprofessional education in accreditation standards Generalist Medical Practitioner No"
+            },
+            {
+              deuid: "Mx06wOF9Edi",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "AJ8",
+              total: false,
+              name:
+                "Existence of cooperation between education and training institutions and health professional regulators to agree on the standards General Medical Practitioner Yes"
+            },
+            {
+              deuid: "Mx06wOF9Edi",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "AK8",
+              total: false,
+              name:
+                "Existence of cooperation between education and training institutions and health professional regulators to agree on the standards General Medical Practitioner Partial"
+            },
+            {
+              deuid: "Mx06wOF9Edi",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "AL8",
+              total: false,
+              name:
+                "Existence of cooperation between education and training institutions and health professional regulators to agree on the standards General Medical Practitioner No"
+            },
+            {
+              deuid: "PPfHCBsbdGU",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "F9",
+              total: false,
+              name:
+                "Existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Specialist Medical Practitioner Yes"
+            },
+            {
+              deuid: "PPfHCBsbdGU",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "G9",
+              total: false,
+              name:
+                "Existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Specialist Medical Practitioner Partial"
+            },
+            {
+              deuid: "PPfHCBsbdGU",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "H9",
+              total: false,
+              name:
+                "Existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Specialist Medical Practitioner No"
+            },
+            {
+              deuid: "zHNwRzmyOeL",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "L9",
+              total: false,
+              name:
+                "Existence of national standard on mechanism on social accountability Specialist Medical Practitioner Yes"
+            },
+            {
+              deuid: "zHNwRzmyOeL",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "M9",
+              total: false,
+              name:
+                "Existence of national standard on mechanism on social accountability Specialist Medical Practitioner Partial"
+            },
+            {
+              deuid: "zHNwRzmyOeL",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "N9",
+              total: false,
+              name:
+                "Existence of national standard on mechanism on social accountability Specialist Medical Practitioner No"
+            },
+            {
+              deuid: "x9MXiBfrfFG",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "R9",
+              total: false,
+              name:
+                "Effective implementation of national standards on social accountability Specialist Medical Practitioner Yes"
+            },
+            {
+              deuid: "x9MXiBfrfFG",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "S9",
+              total: false,
+              name:
+                "Effective implementation of national standards on social accountability Specialist Medical Practitioner Partial"
+            },
+            {
+              deuid: "x9MXiBfrfFG",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "T9",
+              total: false,
+              name:
+                "Effective implementation of national standards on social accountability Specialist Medical Practitioner No"
+            },
+            {
+              deuid: "XQgL1GHsnrT",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "X9",
+              total: false,
+              name:
+                "Existence of national standard for considering social determinants of health accreditation for Specialist Medical Practitioner Yes"
+            },
+            {
+              deuid: "XQgL1GHsnrT",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "Y9",
+              total: false,
+              name:
+                "Existence of national standard for considering social determinants of health accreditation for Specialist Medical Practitioner Partial"
+            },
+            {
+              deuid: "XQgL1GHsnrT",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "Z9",
+              total: false,
+              name:
+                "Existence of national standard for considering social determinants of health accreditation for Specialist Medical Practitioner No"
+            },
+            {
+              deuid: "wqcSEURdLVe",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "AD9",
+              total: false,
+              name:
+                "Existence of national standard on interprofessional education in accreditation standards Specialist Medical Practitioner Yes"
+            },
+            {
+              deuid: "wqcSEURdLVe",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "AE9",
+              total: false,
+              name:
+                "Existence of national standard on interprofessional education in accreditation standards Specialist Medical Practitioner Partial"
+            },
+            {
+              deuid: "wqcSEURdLVe",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "AF9",
+              total: false,
+              name:
+                "Existence of national standard on interprofessional education in accreditation standards Specialist Medical Practitioner No"
+            },
+            {
+              deuid: "hJJOo4gRjQA",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "AJ9",
+              total: false,
+              name:
+                "Existence of cooperation between education and training institutions and health professional regulators to agree on the standards Specialist Medical Practitioner Yes"
+            },
+            {
+              deuid: "hJJOo4gRjQA",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "AK9",
+              total: false,
+              name:
+                "Existence of cooperation between education and training institutions and health professional regulators to agree on the standards Specialist Medical Practitioner Partial"
+            },
+            {
+              deuid: "hJJOo4gRjQA",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "AL9",
+              total: false,
+              name:
+                "Existence of cooperation between education and training institutions and health professional regulators to agree on the standards Specialist Medical Practitioner No"
+            },
+            {
+              deuid: "gs8HWsMAFFl",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "F10",
+              total: false,
+              name:
+                "Existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Nursing Professional Yes"
+            },
+            {
+              deuid: "gs8HWsMAFFl",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "G10",
+              total: false,
+              name:
+                "Existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Nursing Professional Partial"
+            },
+            {
+              deuid: "gs8HWsMAFFl",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "H10",
+              total: false,
+              name:
+                "Existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Nursing Professional No"
+            },
+            {
+              deuid: "PE5XG7ZZgdc",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "L10",
+              total: false,
+              name:
+                "Existence of national standard on mechanism on social accountability Nursing Professional Yes"
+            },
+            {
+              deuid: "PE5XG7ZZgdc",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "M10",
+              total: false,
+              name:
+                "Existence of national standard on mechanism on social accountability Nursing Professional Partial"
+            },
+            {
+              deuid: "PE5XG7ZZgdc",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "N10",
+              total: false,
+              name:
+                "Existence of national standard on mechanism on social accountability Nursing Professional No"
+            },
+            {
+              deuid: "wY9lL47ojb6",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "R10",
+              total: false,
+              name:
+                "Effective implementation of national standards on social accountability Nursing Professional Yes"
+            },
+            {
+              deuid: "wY9lL47ojb6",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "S10",
+              total: false,
+              name:
+                "Effective implementation of national standards on social accountability Nursing Professional Partial"
+            },
+            {
+              deuid: "wY9lL47ojb6",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "T10",
+              total: false,
+              name:
+                "Effective implementation of national standards on social accountability Nursing Professional No"
+            },
+            {
+              deuid: "Dn2P7GXFCTr",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "X10",
+              total: false,
+              name:
+                "Existence of national standard for considering social determinants of health accreditation for Nursing Professional Yes"
+            },
+            {
+              deuid: "Dn2P7GXFCTr",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "Y10",
+              total: false,
+              name:
+                "Existence of national standard for considering social determinants of health accreditation for Nursing Professional Partial"
+            },
+            {
+              deuid: "Dn2P7GXFCTr",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "Z10",
+              total: false,
+              name:
+                "Existence of national standard for considering social determinants of health accreditation for Nursing Professional No"
+            },
+            {
+              deuid: "EGGz5kkdVNl",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "AD10",
+              total: false,
+              name:
+                "Existence of national standard on interprofessional education in accreditation standards Nursing Professional Yes"
+            },
+            {
+              deuid: "EGGz5kkdVNl",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "AE10",
+              total: false,
+              name:
+                "Existence of national standard on interprofessional education in accreditation standards Nursing Professional Partial"
+            },
+            {
+              deuid: "EGGz5kkdVNl",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "AF10",
+              total: false,
+              name:
+                "Existence of national standard on interprofessional education in accreditation standards Nursing Professional No"
+            },
+            {
+              deuid: "GNErbB4poQO",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "AJ10",
+              total: false,
+              name:
+                "Existence of cooperation between education and training institutions and health professional regulators to agree on the standards Nursing Professional Yes"
+            },
+            {
+              deuid: "GNErbB4poQO",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "AK10",
+              total: false,
+              name:
+                "Existence of cooperation between education and training institutions and health professional regulators to agree on the standards Nursing Professional Partial"
+            },
+            {
+              deuid: "GNErbB4poQO",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "AL10",
+              total: false,
+              name:
+                "Existence of cooperation between education and training institutions and health professional regulators to agree on the standards Nursing Professional No"
+            },
+            {
+              deuid: "Km3h0ydFI2j",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "F11",
+              total: false,
+              name:
+                "Existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Midwifery Professional Yes"
+            },
+            {
+              deuid: "Km3h0ydFI2j",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "G11",
+              total: false,
+              name:
+                "Existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Midwifery Professional Partial"
+            },
+            {
+              deuid: "Km3h0ydFI2j",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "H11",
+              total: false,
+              name:
+                "Existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Midwifery Professional No"
+            },
+            {
+              deuid: "qZ9h4jv9cgO",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "L11",
+              total: false,
+              name:
+                "Existence of national standard on mechanism on social accountability Midwifery Professional Yes"
+            },
+            {
+              deuid: "qZ9h4jv9cgO",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "M11",
+              total: false,
+              name:
+                "Existence of national standard on mechanism on social accountability Midwifery Professional Partial"
+            },
+            {
+              deuid: "qZ9h4jv9cgO",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "N11",
+              total: false,
+              name:
+                "Existence of national standard on mechanism on social accountability Midwifery Professional No"
+            },
+            {
+              deuid: "OBs444qCCU9",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "R11",
+              total: false,
+              name:
+                "Effective implementation of national standards on social accountability Midwifery Professional Yes"
+            },
+            {
+              deuid: "OBs444qCCU9",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "S11",
+              total: false,
+              name:
+                "Effective implementation of national standards on social accountability Midwifery Professional Partial"
+            },
+            {
+              deuid: "OBs444qCCU9",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "T11",
+              total: false,
+              name:
+                "Effective implementation of national standards on social accountability Midwifery Professional No"
+            },
+            {
+              deuid: "pnySnJ6om1A",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "X11",
+              total: false,
+              name:
+                "Existence of national standard for considering social determinants of health accreditation for Midwifery Professional Yes"
+            },
+            {
+              deuid: "pnySnJ6om1A",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "Y11",
+              total: false,
+              name:
+                "Existence of national standard for considering social determinants of health accreditation for Midwifery Professional Partial"
+            },
+            {
+              deuid: "pnySnJ6om1A",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "Z11",
+              total: false,
+              name:
+                "Existence of national standard for considering social determinants of health accreditation for Midwifery Professional No"
+            },
+            {
+              deuid: "l1U9oBgd2Pg",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "AD11",
+              total: false,
+              name:
+                "Existence of national standard on interprofessional education in accreditation standards Midwifery Professional Yes"
+            },
+            {
+              deuid: "l1U9oBgd2Pg",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "AE11",
+              total: false,
+              name:
+                "Existence of national standard on interprofessional education in accreditation standards Midwifery Professional Partial"
+            },
+            {
+              deuid: "l1U9oBgd2Pg",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "AF11",
+              total: false,
+              name:
+                "Existence of national standard on interprofessional education in accreditation standards Midwifery Professional No"
+            },
+            {
+              deuid: "bq7cDa5kIgG",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "AJ11",
+              total: false,
+              name:
+                "Existence of cooperation between education and training institutions and health professional regulators to agree on the standards Midwifery Professional Yes"
+            },
+            {
+              deuid: "bq7cDa5kIgG",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "AK11",
+              total: false,
+              name:
+                "Existence of cooperation between education and training institutions and health professional regulators to agree on the standards Midwifery Professional Partial"
+            },
+            {
+              deuid: "bq7cDa5kIgG",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "AL11",
+              total: false,
+              name:
+                "Existence of cooperation between education and training institutions and health professional regulators to agree on the standards Midwifery Professional No"
+            },
+            {
+              deuid: "fLT65oEdyRn",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "F12",
+              total: false,
+              name:
+                "Existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Dentist Yes"
+            },
+            {
+              deuid: "fLT65oEdyRn",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "G12",
+              total: false,
+              name:
+                "Existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Dentist Partial"
+            },
+            {
+              deuid: "fLT65oEdyRn",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "H12",
+              total: false,
+              name:
+                "Existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Dentist No"
+            },
+            {
+              deuid: "TdnUj1l3Z4i",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "L12",
+              total: false,
+              name:
+                "Existence of national standard on mechanism on social accountability Dentist Yes"
+            },
+            {
+              deuid: "TdnUj1l3Z4i",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "M12",
+              total: false,
+              name:
+                "Existence of national standard on mechanism on social accountability Dentist Partial"
+            },
+            {
+              deuid: "TdnUj1l3Z4i",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "N12",
+              total: false,
+              name:
+                "Existence of national standard on mechanism on social accountability Dentist No"
+            },
+            {
+              deuid: "mHNrhvqWd3X",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "R12",
+              total: false,
+              name:
+                "Effective implementation of national standards on social accountability Dentist Yes"
+            },
+            {
+              deuid: "mHNrhvqWd3X",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "S12",
+              total: false,
+              name:
+                "Effective implementation of national standards on social accountability Dentist Partial"
+            },
+            {
+              deuid: "mHNrhvqWd3X",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "T12",
+              total: false,
+              name:
+                "Effective implementation of national standards on social accountability Dentist No"
+            },
+            {
+              deuid: "fhe12emlYec",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "X12",
+              total: false,
+              name:
+                "Existence of national standard for considering social determinants of health accreditation for Dentist Yes"
+            },
+            {
+              deuid: "fhe12emlYec",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "Y12",
+              total: false,
+              name:
+                "Existence of national standard for considering social determinants of health accreditation for Dentist Partial"
+            },
+            {
+              deuid: "fhe12emlYec",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "Z12",
+              total: false,
+              name:
+                "Existence of national standard for considering social determinants of health accreditation for Dentist No"
+            },
+            {
+              deuid: "JLq8DlnnFF9",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "AD12",
+              total: false,
+              name:
+                "Existence of national standard on interprofessional education in accreditation standards Dentist Yes"
+            },
+            {
+              deuid: "JLq8DlnnFF9",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "AE12",
+              total: false,
+              name:
+                "Existence of national standard on interprofessional education in accreditation standards Dentist Partial"
+            },
+            {
+              deuid: "JLq8DlnnFF9",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "AF12",
+              total: false,
+              name:
+                "Existence of national standard on interprofessional education in accreditation standards Dentist No"
+            },
+            {
+              deuid: "Fu0P8tj6k3M",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "AJ12",
+              total: false,
+              name:
+                "Existence of cooperation between education and training institutions and health professional regulators to agree on the standards Dentist Yes"
+            },
+            {
+              deuid: "Fu0P8tj6k3M",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "AK12",
+              total: false,
+              name:
+                "Existence of cooperation between education and training institutions and health professional regulators to agree on the standards Dentist Partial"
+            },
+            {
+              deuid: "Fu0P8tj6k3M",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "AL12",
+              total: false,
+              name:
+                "Existence of cooperation between education and training institutions and health professional regulators to agree on the standards Dentist No"
+            },
+            {
+              deuid: "GEDhlVgull2",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "F13",
+              total: false,
+              name:
+                "Existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Pharmacist Yes"
+            },
+            {
+              deuid: "GEDhlVgull2",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "G13",
+              total: false,
+              name:
+                "Existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Pharmacist Partial"
+            },
+            {
+              deuid: "GEDhlVgull2",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "H13",
+              total: false,
+              name:
+                "Existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Pharmacist No"
+            },
+            {
+              deuid: "WsHpge8yVZM",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "L13",
+              total: false,
+              name:
+                "Existence of national standard on mechanism on social accountability Pharmacist Yes"
+            },
+            {
+              deuid: "WsHpge8yVZM",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "M13",
+              total: false,
+              name:
+                "Existence of national standard on mechanism on social accountability Pharmacist Partial"
+            },
+            {
+              deuid: "WsHpge8yVZM",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "N13",
+              total: false,
+              name:
+                "Existence of national standard on mechanism on social accountability Pharmacist No"
+            },
+            {
+              deuid: "cemAvj8TkMX",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "R13",
+              total: false,
+              name:
+                "Effective implementation of national standards on social accountability Pharmacist Yes"
+            },
+            {
+              deuid: "cemAvj8TkMX",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "S13",
+              total: false,
+              name:
+                "Effective implementation of national standards on social accountability Pharmacist Partial"
+            },
+            {
+              deuid: "cemAvj8TkMX",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "T13",
+              total: false,
+              name:
+                "Effective implementation of national standards on social accountability Pharmacist No"
+            },
+            {
+              deuid: "wTTVz32PAOn",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "X13",
+              total: false,
+              name:
+                "Existence of national standard for considering social determinants of health accreditation for Pharmacist Yes"
+            },
+            {
+              deuid: "wTTVz32PAOn",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "Y13",
+              total: false,
+              name:
+                "Existence of national standard for considering social determinants of health accreditation for Pharmacist Partial"
+            },
+            {
+              deuid: "wTTVz32PAOn",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "Z13",
+              total: false,
+              name:
+                "Existence of national standard for considering social determinants of health accreditation for Pharmacist No"
+            },
+            {
+              deuid: "YDkIX98NArQ",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "AD13",
+              total: false,
+              name:
+                "Existence of national standard on interprofessional education in accreditation standards Pharmacist Yes"
+            },
+            {
+              deuid: "YDkIX98NArQ",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "AE13",
+              total: false,
+              name:
+                "Existence of national standard on interprofessional education in accreditation standards Pharmacist Partial"
+            },
+            {
+              deuid: "YDkIX98NArQ",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "AF13",
+              total: false,
+              name:
+                "Existence of national standard on interprofessional education in accreditation standards Pharmacist No"
+            },
+            {
+              deuid: "v6O0oWTXY34",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "AJ13",
+              total: false,
+              name:
+                "Existence of cooperation between education and training institutions and health professional regulators to agree on the standards Pharmacist Yes"
+            },
+            {
+              deuid: "v6O0oWTXY34",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "AK13",
+              total: false,
+              name:
+                "Existence of cooperation between education and training institutions and health professional regulators to agree on the standards Pharmacist Partial"
+            },
+            {
+              deuid: "v6O0oWTXY34",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "AL13",
+              total: false,
+              name:
+                "Existence of cooperation between education and training institutions and health professional regulators to agree on the standards Pharmacist No"
+            },
+            {
+              deuid: "xIdJZgy5GSy",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "I7",
+              total: false,
+              name:
+                "Comment of existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Medical Doctor default"
+            },
+            {
+              deuid: "oTTeFlxkljB",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "O7",
+              total: false,
+              name:
+                "Comment of existence of national standard on mechanism on social accountability Medical Doctors default"
+            },
+            {
+              deuid: "TVuwNm1PyRC",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "U7",
+              total: false,
+              name:
+                "Comment of effective implementation of national standards on social accountability Medical Doctors default"
+            },
+            {
+              deuid: "SUvvKWCJO5S",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "AA7",
+              total: false,
+              name:
+                "Comment of existence of national standard for considering social determinants of health accreditation for Medical Doctors default"
+            },
+            {
+              deuid: "GRpQAAvLFM6",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "AG7",
+              total: false,
+              name:
+                "Comment of existence of national standard on interprofessional education in accreditation standards Medical Doctors default"
+            },
+            {
+              deuid: "Bvwo2Tnwg6K",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "AM7",
+              total: false,
+              name:
+                "Comment of Existence of cooperation between education and training institutions and health professional regulators to agree on the standards Medical Doctors default"
+            },
+            {
+              deuid: "BAYPJS2PaYa",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "I8",
+              total: false,
+              name:
+                "Comment of existence of national standard on mechanisms for accreditation of education and training institutions and their programmes General Medical Practitioner default"
+            },
+            {
+              deuid: "AuztI35M2eU",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "O8",
+              total: false,
+              name:
+                "Comment of existence of national standard on mechanism on social accountability General Medical Practitioner default"
+            },
+            {
+              deuid: "CHeEETUlnlu",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "U8",
+              total: false,
+              name:
+                "Comment of effective implementation of national standards on social accountability General Medical Practitioner default"
+            },
+            {
+              deuid: "hUTcFeRUFve",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "AA8",
+              total: false,
+              name:
+                "Comment of existence of national standard for considering social determinants of health accreditation for Generalist Medical Practitioner default"
+            },
+            {
+              deuid: "aNkwiAZwM7f",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "AG8",
+              total: false,
+              name:
+                "Comment of existence of national standard on interprofessional education in accreditation standards Generalist Medical Practitioner default"
+            },
+            {
+              deuid: "adhcUwpwjrt",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "AM8",
+              total: false,
+              name:
+                "Comment of existence of cooperation between education and training institutions and health professional regulators to agree on the standards General Medical Practitioner default"
+            },
+            {
+              deuid: "EUuaZTsVCUP",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "I9",
+              total: false,
+              name:
+                "Comment of existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Specialist Medical Practitioner default"
+            },
+            {
+              deuid: "HHu5mmkn9nI",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "O9",
+              total: false,
+              name:
+                "Comment of existence of national standard on mechanism on social accountability Specialist Medical Practitioner default"
+            },
+            {
+              deuid: "SvnuCPrV3m8",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "U9",
+              total: false,
+              name:
+                "Comment of effective implementation of national standards on social accountability Specialist Medical Practitioner default"
+            },
+            {
+              deuid: "M09xmOtGx9r",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "AA9",
+              total: false,
+              name:
+                "Comment of existence of national standard for considering social determinants of health accreditation for Specialist Medical Practitioner default"
+            },
+            {
+              deuid: "W1nqjNXF8t7",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "AG9",
+              total: false,
+              name:
+                "Comment of existence of national standard on interprofessional education in accreditation standards Specialist Medical Practitioner default"
+            },
+            {
+              deuid: "vVPyD60zs2c",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "AM9",
+              total: false,
+              name:
+                "Comment of existence of cooperation between education and training institutions and health professional regulators to agree on the standards Specialist Medical Practitioner default"
+            },
+            {
+              deuid: "qDrIfDpZQzJ",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "I10",
+              total: false,
+              name:
+                "Comment of existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Nursing Professional default"
+            },
+            {
+              deuid: "oBOgUPGLDM8",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "O10",
+              total: false,
+              name:
+                "Comment of existence of national standard on mechanism on social accountability Nursing Professional default"
+            },
+            {
+              deuid: "K9YrD3rxhIm",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "U10",
+              total: false,
+              name:
+                "Comment of effective implementation of national standards on social accountability Nursing Professional default"
+            },
+            {
+              deuid: "s6Rrf01L045",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "AA10",
+              total: false,
+              name:
+                "Comment of existence of national standard for considering social determinants of health accreditation for Nursing Professional default"
+            },
+            {
+              deuid: "KI35YVBqwOH",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "AG10",
+              total: false,
+              name:
+                "Comment of existence of national standard on interprofessional education in accreditation standards Nursing Professional default"
+            },
+            {
+              deuid: "Iz9uNISIBW5",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "AM10",
+              total: false,
+              name:
+                "Comment of existence of cooperation between education and training institutions and health professional regulators to agree on the standards Nursing Professional default"
+            },
+            {
+              deuid: "BABcY9z1yhJ",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "I11",
+              total: false,
+              name:
+                "Comment of existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Midwifery Professional default"
+            },
+            {
+              deuid: "kf5mAEgzRro",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "O11",
+              total: false,
+              name:
+                "Comment of existence of national standard on mechanism on social accountability Midwifery Professional default"
+            },
+            {
+              deuid: "Px7yHDZGBQS",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "U11",
+              total: false,
+              name:
+                "Comment of effective implementation of national standards on social accountability Midwifery Professional default"
+            },
+            {
+              deuid: "Jo5JCqQn6a4",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "AA11",
+              total: false,
+              name:
+                "Comment of existence of national standard for considering social determinants of health accreditation for Midwifery Professional default"
+            },
+            {
+              deuid: "HfUw03ynsgX",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "AG11",
+              total: false,
+              name:
+                "Comment of existence of national standard on interprofessional education in accreditation standards Midwifery Professional default"
+            },
+            {
+              deuid: "FbLuOUxYtvW",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "AM11",
+              total: false,
+              name:
+                "Comment of existence of cooperation between education and training institutions and health professional regulators to agree on the standards Midwifery Professional default"
+            },
+            {
+              deuid: "sIxOvk6qfU2",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "I12",
+              total: false,
+              name:
+                "Comment of existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Dentist default"
+            },
+            {
+              deuid: "dNdiNzgxEAO",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "O12",
+              total: false,
+              name:
+                "Comment of Existence of national standard on mechanism on social accountability Dentist default"
+            },
+            {
+              deuid: "H7lhdWUUWxH",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "U12",
+              total: false,
+              name:
+                "Comment of Effective implementation of national standards on social accountability Dentist default"
+            },
+            {
+              deuid: "grFSq6NI6Rv",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "AA12",
+              total: false,
+              name:
+                "Comment of Existence of national standard for considering social determinants of health accreditation for Dentist default"
+            },
+            {
+              deuid: "d5tEbnmf2Yl",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "AG12",
+              total: false,
+              name:
+                "Comment of existence of national standard on interprofessional education in accreditation standards Dentist default"
+            },
+            {
+              deuid: "zJNTztzEUjf",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "AM12",
+              total: false,
+              name:
+                "Comment of Existence of cooperation between education and training institutions and health professional regulators to agree on the standards Dentist default"
+            },
+            {
+              deuid: "klUdBljsnYT",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "I13",
+              total: false,
+              name:
+                "Comment of existence of national standard on mechanisms for accreditation of education and training institutions and their programmes Pharmacist default"
+            },
+            {
+              deuid: "Ye7wRY6LeT4",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "O13",
+              total: false,
+              name:
+                "Comment of existence of national standard on mechanism on social accountability Pharmacist default"
+            },
+            {
+              deuid: "OJ2BPEwWYG9",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "U13",
+              total: false,
+              name:
+                "Comment of effective implementation of national standards on social accountability Pharmacist default"
+            },
+            {
+              deuid: "el5QnfrCW5R",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "AA13",
+              total: false,
+              name:
+                "Comment of existence of national standard for considering social determinants of health accreditation for Pharmacist default"
+            },
+            {
+              deuid: "w3Lz42yCAiU",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "AG13",
+              total: false,
+              name:
+                "Comment of existence of national standard on interprofessional education in accreditation standards Pharmacist default"
+            },
+            {
+              deuid: "uEt3e82IzsK",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "AM13",
+              total: false,
+              name:
+                "Comment of Existence of cooperation between education and training institutions and health professional regulators to agree on the standards Pharmacist default"
+            }
+          ]
+        },
+        {
+          sheet_type: "AGGREGATE_STATIC",
+          sheet_no: 3,
+          sheet_name: "Lifelong Learning",
+          orgUnitIdScheme: "UID",
+          dataElementIdScheme: "UID",
+          idScheme: "UID",
+          oucode_cell: "W2",
+          year_cell: "S4",
+          last_data_column: "ZZ",
+          agg_des: [
+            {
+              deuid: "VCZsq4EzHM1",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "F7",
+              total: false,
+              name:
+                "Existence of national standard for Continuing Professional Development for Medical Doctors Yes"
+            },
+            {
+              deuid: "VCZsq4EzHM1",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "G7",
+              total: false,
+              name:
+                "Existence of national standard for Continuing Professional Development for Medical Doctors Partial"
+            },
+            {
+              deuid: "VCZsq4EzHM1",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "H7",
+              total: false,
+              name:
+                "Existence of national standard for Continuing Professional Development for Medical Doctors No"
+            },
+            {
+              deuid: "m8xYEbXD3Ee",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "L7",
+              total: false,
+              name:
+                "Existence of in-service training as an element of national education plans for the health workforce Medical Doctors Yes"
+            },
+            {
+              deuid: "m8xYEbXD3Ee",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "M7",
+              total: false,
+              name:
+                "Existence of in-service training as an element of national education plans for the health workforce Medical Doctors Partial"
+            },
+            {
+              deuid: "m8xYEbXD3Ee",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "N7",
+              total: false,
+              name:
+                "Existence of in-service training as an element of national education plans for the health workforce Medical Doctors No"
+            },
+            {
+              deuid: "TYtubJjtDDs",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "F8",
+              total: false,
+              name:
+                "Existence of national standard for Continuing Professional Development for General Medical Practitioner Yes"
+            },
+            {
+              deuid: "TYtubJjtDDs",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "G8",
+              total: false,
+              name:
+                "Existence of national standard for Continuing Professional Development for General Medical Practitioner Partial"
+            },
+            {
+              deuid: "TYtubJjtDDs",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "H8",
+              total: false,
+              name:
+                "Existence of national standard for Continuing Professional Development for General Medical Practitioner No"
+            },
+            {
+              deuid: "pWAGDlaDi7y",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "L8",
+              total: false,
+              name:
+                "Existence of in-service training as an element of national education plans for the health workforce General Medical Practitioner Yes"
+            },
+            {
+              deuid: "pWAGDlaDi7y",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "M8",
+              total: false,
+              name:
+                "Existence of in-service training as an element of national education plans for the health workforce General Medical Practitioner Partial"
+            },
+            {
+              deuid: "pWAGDlaDi7y",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "N8",
+              total: false,
+              name:
+                "Existence of in-service training as an element of national education plans for the health workforce General Medical Practitioner No"
+            },
+            {
+              deuid: "kxeieT5f8wy",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "F9",
+              total: false,
+              name:
+                "Existence of national standard for Continuing Professional Development for Specialist Medical Practitioner Yes"
+            },
+            {
+              deuid: "kxeieT5f8wy",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "G9",
+              total: false,
+              name:
+                "Existence of national standard for Continuing Professional Development for Specialist Medical Practitioner Partial"
+            },
+            {
+              deuid: "kxeieT5f8wy",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "H9",
+              total: false,
+              name:
+                "Existence of national standard for Continuing Professional Development for Specialist Medical Practitioner No"
+            },
+            {
+              deuid: "H4L8KbENVVk",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "L9",
+              total: false,
+              name:
+                "Existence of in-service training as an element of national education plans for the health workforce Specialist Medical Practitioner Yes"
+            },
+            {
+              deuid: "H4L8KbENVVk",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "M9",
+              total: false,
+              name:
+                "Existence of in-service training as an element of national education plans for the health workforce Specialist Medical Practitioner Partial"
+            },
+            {
+              deuid: "H4L8KbENVVk",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "N9",
+              total: false,
+              name:
+                "Existence of in-service training as an element of national education plans for the health workforce Specialist Medical Practitioner No"
+            },
+            {
+              deuid: "PG2MTqzwOAT",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "F10",
+              total: false,
+              name:
+                "Existence of national standard for Continuing Professional Development for Nursing Professional Yes"
+            },
+            {
+              deuid: "PG2MTqzwOAT",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "G10",
+              total: false,
+              name:
+                "Existence of national standard for Continuing Professional Development for Nursing Professional Partial"
+            },
+            {
+              deuid: "PG2MTqzwOAT",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "H10",
+              total: false,
+              name:
+                "Existence of national standard for Continuing Professional Development for Nursing Professional No"
+            },
+            {
+              deuid: "KPlsuTaezlc",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "L10",
+              total: false,
+              name:
+                "Existence of in-service training as an element of national education plans for the health workforce Nursing Professional Yes"
+            },
+            {
+              deuid: "KPlsuTaezlc",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "M10",
+              total: false,
+              name:
+                "Existence of in-service training as an element of national education plans for the health workforce Nursing Professional Partial"
+            },
+            {
+              deuid: "KPlsuTaezlc",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "N10",
+              total: false,
+              name:
+                "Existence of in-service training as an element of national education plans for the health workforce Nursing Professional No"
+            },
+            {
+              deuid: "VQk5aenfDR4",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "F11",
+              total: false,
+              name:
+                "Existence of national standard for Continuing Professional Development for Midwifery Professional Yes"
+            },
+            {
+              deuid: "VQk5aenfDR4",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "G11",
+              total: false,
+              name:
+                "Existence of national standard for Continuing Professional Development for Midwifery Professional Partial"
+            },
+            {
+              deuid: "VQk5aenfDR4",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "H11",
+              total: false,
+              name:
+                "Existence of national standard for Continuing Professional Development for Midwifery Professional No"
+            },
+            {
+              deuid: "Pf77Sb5TYCR",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "L11",
+              total: false,
+              name:
+                "Existence of in-service training as an element of national education plans for the health workforce Midwifery Professional Yes"
+            },
+            {
+              deuid: "Pf77Sb5TYCR",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "M11",
+              total: false,
+              name:
+                "Existence of in-service training as an element of national education plans for the health workforce Midwifery Professional Partial"
+            },
+            {
+              deuid: "Pf77Sb5TYCR",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "N11",
+              total: false,
+              name:
+                "Existence of in-service training as an element of national education plans for the health workforce Midwifery Professional No"
+            },
+            {
+              deuid: "pyMHfUIDXRf",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "F12",
+              total: false,
+              name:
+                "Existence of national standard for Continuing Professional Development for Dentist Yes"
+            },
+            {
+              deuid: "pyMHfUIDXRf",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "G12",
+              total: false,
+              name:
+                "Existence of national standard for Continuing Professional Development for Dentist Partial"
+            },
+            {
+              deuid: "pyMHfUIDXRf",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "H12",
+              total: false,
+              name:
+                "Existence of national standard for Continuing Professional Development for Dentist No"
+            },
+            {
+              deuid: "LJNl2upvs8S",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "L12",
+              total: false,
+              name:
+                "Existence of in-service training as an element of national education plans for the health workforce Dentist Yes"
+            },
+            {
+              deuid: "LJNl2upvs8S",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "M12",
+              total: false,
+              name:
+                "Existence of in-service training as an element of national education plans for the health workforce Dentist Partial"
+            },
+            {
+              deuid: "LJNl2upvs8S",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "N12",
+              total: false,
+              name:
+                "Existence of in-service training as an element of national education plans for the health workforce Dentist No"
+            },
+            {
+              deuid: "YVbwt0lb1lA",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "F13",
+              total: false,
+              name:
+                "Existence of national standard for Continuing Professional Development for Pharmacist Yes"
+            },
+            {
+              deuid: "YVbwt0lb1lA",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "G13",
+              total: false,
+              name:
+                "Existence of national standard for Continuing Professional Development for Pharmacist Partial"
+            },
+            {
+              deuid: "YVbwt0lb1lA",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "H13",
+              total: false,
+              name:
+                "Existence of national standard for Continuing Professional Development for Pharmacist No"
+            },
+            {
+              deuid: "vKV2AVBhstz",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "L13",
+              total: false,
+              name:
+                "Existence of in-service training as an element of national education plans for the health workforce Pharmacist Yes"
+            },
+            {
+              deuid: "vKV2AVBhstz",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "M13",
+              total: false,
+              name:
+                "Existence of in-service training as an element of national education plans for the health workforce Pharmacist Partial"
+            },
+            {
+              deuid: "vKV2AVBhstz",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "N13",
+              total: false,
+              name:
+                "Existence of in-service training as an element of national education plans for the health workforce Pharmacist No"
+            },
+            {
+              deuid: "zAN1yQdYbcB",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "I7",
+              total: false,
+              name:
+                "Comment of existence of national standard for Continuing Professional Development for Medical Doctors default"
+            },
+            {
+              deuid: "wTJuvXKZCrz",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "O7",
+              total: false,
+              name:
+                "Comment of existence of in-service training as an element of national education plans for the health workforce Medical Doctors default"
+            },
+            {
+              deuid: "Z6c1T3O7q0S",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "I8",
+              total: false,
+              name:
+                "Comment of existence of national standard for Continuing Professional Development for General Medical Practitioner default"
+            },
+            {
+              deuid: "GrZXd4osOGW",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "O8",
+              total: false,
+              name:
+                "Comment of existence of in-service training as an element of national education plans for the health workforce General Medical Practitioner default"
+            },
+            {
+              deuid: "XQajU8YgbXg",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "I9",
+              total: false,
+              name:
+                "Comment of existence of national standard for Continuing Professional Development for Specialist Medical Practitioner default"
+            },
+            {
+              deuid: "ejraR8DfZPf",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "O9",
+              total: false,
+              name:
+                "Comment of existence of in-service training as an element of national education plans for the health workforce Specialist Medical Practitioner default"
+            },
+            {
+              deuid: "jQ05qNtE9HB",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "I10",
+              total: false,
+              name:
+                "Comment of existence of national standard for Continuing Professional Development for Nursing Professional default"
+            },
+            {
+              deuid: "CPexoOTnUQZ",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "O10",
+              total: false,
+              name:
+                "Comment of existence of in-service training as an element of national education plans for the health workforce Nursing Professional default"
+            },
+            {
+              deuid: "BK0kijGEWMy",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "I11",
+              total: false,
+              name:
+                "Comment of existence of national standard for Continuing Professional Development for Midwifery Professional default"
+            },
+            {
+              deuid: "EgaLdA1UaEV",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "O11",
+              total: false,
+              name:
+                "Comment of existence of in-service training as an element of national education plans for the health workforce Midwifery Professional default"
+            },
+            {
+              deuid: "gytTkeQWyoA",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "I12",
+              total: false,
+              name:
+                "Comment of existence of national standard for Continuing Professional Development for Dentist default"
+            },
+            {
+              deuid: "vRh6cPENAgr",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "O12",
+              total: false,
+              name:
+                "Comment of existence of in-service training as an element of national education plans for the health workforce Dentist default"
+            },
+            {
+              deuid: "kfQaLeZLepq",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "I13",
+              total: false,
+              name:
+                "Comment of existence of national standard for Continuing Professional Development for Pharmacist default"
+            },
+            {
+              deuid: "L8r8I4WDRUp",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "O13",
+              total: false,
+              name:
+                "Comment of existence of in-service training as an element of national education plans for the health workforce Pharmacist default"
+            }
+          ]
+        }
+      ]
+    },
+    {
       name: "Module 4 Template",
       file: "NHWA_Module_4.xlsx",
       sheets: [
