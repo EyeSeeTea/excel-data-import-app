@@ -24430,6 +24430,734 @@ var whoTemplate = {
       ]
     },
     {
+      name: "Module 6 Template",
+      file: "NHWA_Module_6.xlsx",
+      sheets: [
+        {
+          sheet_type: "AGGREGATE_STATIC",
+          sheet_no: 1,
+          sheet_name: "Characteristics",
+          orgUnitIdScheme: "UID",
+          dataElementIdScheme: "UID",
+          idScheme: "UID",
+          oucode_cell: "V2",
+          year_cell: "I4",
+          last_data_column: "ZZ",
+          agg_des: [
+            {
+              deuid: "iM5NIZBqAUL",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "D8",
+              total: false,
+              name: "Standard working hours as per the national law default"
+            },
+            {
+              deuid: "GeY6o2BMvp1",
+              cocuid: "aBpbcEgtzgw",
+              cell_no: "D13",
+              total: false,
+              name: "Standard Working Hours in a week Medical Doctors"
+            },
+            {
+              deuid: "C8MvR5CNwpG",
+              cocuid: "aBpbcEgtzgw",
+              cell_no: "E13",
+              total: false,
+              name:
+                "Health workforce with Part Time Contract in a public owned facilities Medical Doctors"
+            },
+            {
+              deuid: "wsmvhizfctg",
+              cocuid: "aBpbcEgtzgw",
+              cell_no: "F13",
+              total: false,
+              name:
+                "Health workforce with Part Time Contract in a Not-for-profit privately owned facilities Medical Doctors"
+            },
+            {
+              deuid: "KlsBVkjtkkV",
+              cocuid: "aBpbcEgtzgw",
+              cell_no: "G13",
+              total: false,
+              name:
+                "Health workforce with Part Time Contract in a For-profit privately owned owned facilities Medical Doctors"
+            },
+            {
+              deuid: "N6VNhZ2PCG7",
+              cocuid: "aBpbcEgtzgw",
+              cell_no: "H13",
+              total: false,
+              name: "Health workforce Self employed Medical Doctors"
+            },
+            {
+              deuid: "GeY6o2BMvp1",
+              cocuid: "LHbCtHlZr3Y",
+              cell_no: "D14",
+              total: false,
+              name:
+                "Standard Working Hours in a week General Medical Practitioner"
+            },
+            {
+              deuid: "C8MvR5CNwpG",
+              cocuid: "LHbCtHlZr3Y",
+              cell_no: "E14",
+              total: false,
+              name:
+                "Health workforce with Part Time Contract in a public owned facilities General Medical Practitioner"
+            },
+            {
+              deuid: "wsmvhizfctg",
+              cocuid: "LHbCtHlZr3Y",
+              cell_no: "F14",
+              total: false,
+              name:
+                "Health workforce with Part Time Contract in a Not-for-profit privately owned facilities General Medical Practitioner"
+            },
+            {
+              deuid: "KlsBVkjtkkV",
+              cocuid: "LHbCtHlZr3Y",
+              cell_no: "G14",
+              total: false,
+              name:
+                "Health workforce with Part Time Contract in a For-profit privately owned owned facilities General Medical Practitioner"
+            },
+            {
+              deuid: "N6VNhZ2PCG7",
+              cocuid: "LHbCtHlZr3Y",
+              cell_no: "H14",
+              total: false,
+              name:
+                "Health workforce Self employed General Medical Practitioner"
+            },
+            {
+              deuid: "GeY6o2BMvp1",
+              cocuid: "VtVkbvygJnm",
+              cell_no: "D15",
+              total: false,
+              name:
+                "Standard Working Hours in a week Specialist Medical Practitioner"
+            },
+            {
+              deuid: "C8MvR5CNwpG",
+              cocuid: "VtVkbvygJnm",
+              cell_no: "E15",
+              total: false,
+              name:
+                "Health workforce with Part Time Contract in a public owned facilities Specialist Medical Practitioner"
+            },
+            {
+              deuid: "wsmvhizfctg",
+              cocuid: "VtVkbvygJnm",
+              cell_no: "F15",
+              total: false,
+              name:
+                "Health workforce with Part Time Contract in a Not-for-profit privately owned facilities Specialist Medical Practitioner"
+            },
+            {
+              deuid: "KlsBVkjtkkV",
+              cocuid: "VtVkbvygJnm",
+              cell_no: "G15",
+              total: false,
+              name:
+                "Health workforce with Part Time Contract in a For-profit privately owned owned facilities Specialist Medical Practitioner"
+            },
+            {
+              deuid: "N6VNhZ2PCG7",
+              cocuid: "VtVkbvygJnm",
+              cell_no: "H15",
+              total: false,
+              name:
+                "Health workforce Self employed Specialist Medical Practitioner"
+            },
+            {
+              deuid: "GeY6o2BMvp1",
+              cocuid: "fGOgbIqsxDn",
+              cell_no: "D16",
+              total: false,
+              name: "Standard Working Hours in a week Nursing Professional"
+            },
+            {
+              deuid: "C8MvR5CNwpG",
+              cocuid: "fGOgbIqsxDn",
+              cell_no: "E16",
+              total: false,
+              name:
+                "Health workforce with Part Time Contract in a public owned facilities Nursing Professional"
+            },
+            {
+              deuid: "wsmvhizfctg",
+              cocuid: "fGOgbIqsxDn",
+              cell_no: "F16",
+              total: false,
+              name:
+                "Health workforce with Part Time Contract in a Not-for-profit privately owned facilities Nursing Professional"
+            },
+            {
+              deuid: "KlsBVkjtkkV",
+              cocuid: "fGOgbIqsxDn",
+              cell_no: "G16",
+              total: false,
+              name:
+                "Health workforce with Part Time Contract in a For-profit privately owned owned facilities Nursing Professional"
+            },
+            {
+              deuid: "N6VNhZ2PCG7",
+              cocuid: "fGOgbIqsxDn",
+              cell_no: "H16",
+              total: false,
+              name: "Health workforce Self employed Nursing Professional"
+            },
+            {
+              deuid: "GeY6o2BMvp1",
+              cocuid: "MPzyVWiSFF2",
+              cell_no: "D17",
+              total: false,
+              name: "Standard Working Hours in a week Midwifery Professional"
+            },
+            {
+              deuid: "C8MvR5CNwpG",
+              cocuid: "MPzyVWiSFF2",
+              cell_no: "E17",
+              total: false,
+              name:
+                "Health workforce with Part Time Contract in a public owned facilities Midwifery Professional"
+            },
+            {
+              deuid: "wsmvhizfctg",
+              cocuid: "MPzyVWiSFF2",
+              cell_no: "F17",
+              total: false,
+              name:
+                "Health workforce with Part Time Contract in a Not-for-profit privately owned facilities Midwifery Professional"
+            },
+            {
+              deuid: "KlsBVkjtkkV",
+              cocuid: "MPzyVWiSFF2",
+              cell_no: "G17",
+              total: false,
+              name:
+                "Health workforce with Part Time Contract in a For-profit privately owned owned facilities Midwifery Professional"
+            },
+            {
+              deuid: "N6VNhZ2PCG7",
+              cocuid: "MPzyVWiSFF2",
+              cell_no: "H17",
+              total: false,
+              name: "Health workforce Self employed Midwifery Professional"
+            },
+            {
+              deuid: "GeY6o2BMvp1",
+              cocuid: "ALBRKpJsddQ",
+              cell_no: "D18",
+              total: false,
+              name: "Standard Working Hours in a week Dentist"
+            },
+            {
+              deuid: "C8MvR5CNwpG",
+              cocuid: "ALBRKpJsddQ",
+              cell_no: "E18",
+              total: false,
+              name:
+                "Health workforce with Part Time Contract in a public owned facilities Dentist"
+            },
+            {
+              deuid: "wsmvhizfctg",
+              cocuid: "ALBRKpJsddQ",
+              cell_no: "F18",
+              total: false,
+              name:
+                "Health workforce with Part Time Contract in a Not-for-profit privately owned facilities Dentist"
+            },
+            {
+              deuid: "KlsBVkjtkkV",
+              cocuid: "ALBRKpJsddQ",
+              cell_no: "G18",
+              total: false,
+              name:
+                "Health workforce with Part Time Contract in a For-profit privately owned owned facilities Dentist"
+            },
+            {
+              deuid: "N6VNhZ2PCG7",
+              cocuid: "ALBRKpJsddQ",
+              cell_no: "H18",
+              total: false,
+              name: "Health workforce Self employed Dentist"
+            },
+            {
+              deuid: "GeY6o2BMvp1",
+              cocuid: "iWRW6jXAzvP",
+              cell_no: "D19",
+              total: false,
+              name: "Standard Working Hours in a week Pharmacist"
+            },
+            {
+              deuid: "C8MvR5CNwpG",
+              cocuid: "iWRW6jXAzvP",
+              cell_no: "E19",
+              total: false,
+              name:
+                "Health workforce with Part Time Contract in a public owned facilities Pharmacist"
+            },
+            {
+              deuid: "wsmvhizfctg",
+              cocuid: "iWRW6jXAzvP",
+              cell_no: "F19",
+              total: false,
+              name:
+                "Health workforce with Part Time Contract in a Not-for-profit privately owned facilities Pharmacist"
+            },
+            {
+              deuid: "KlsBVkjtkkV",
+              cocuid: "iWRW6jXAzvP",
+              cell_no: "G19",
+              total: false,
+              name:
+                "Health workforce with Part Time Contract in a For-profit privately owned owned facilities Pharmacist"
+            },
+            {
+              deuid: "N6VNhZ2PCG7",
+              cocuid: "iWRW6jXAzvP",
+              cell_no: "H19",
+              total: false,
+              name: "Health workforce Self employed Pharmacist"
+            }
+          ]
+        },
+        {
+          sheet_type: "AGGREGATE_STATIC",
+          sheet_no: 2,
+          sheet_name: "Conditions",
+          orgUnitIdScheme: "UID",
+          dataElementIdScheme: "UID",
+          idScheme: "UID",
+          oucode_cell: "N2",
+          year_cell: "I4",
+          last_data_column: "ZZ",
+          agg_des: [
+            {
+              deuid: "qqVKuhK0RgY",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "D16",
+              total: false,
+              name: "Violent attacks on health workers default"
+            },
+            {
+              deuid: "iS6Vzt6PPjr",
+              cocuid: "OYOzRJlu3B5",
+              cell_no: "E16",
+              total: false,
+              name:
+                "Violent attacks on health workers by primary object of attack Facility"
+            },
+            {
+              deuid: "iS6Vzt6PPjr",
+              cocuid: "JfxMvAwKsR7",
+              cell_no: "F16",
+              total: false,
+              name:
+                "Violent attacks on health workers by primary object of attack Health-care provider"
+            },
+            {
+              deuid: "iS6Vzt6PPjr",
+              cocuid: "MfcVRlA41v6",
+              cell_no: "G16",
+              total: false,
+              name:
+                "Violent attacks on health workers by primary object of attack Transport"
+            },
+            {
+              deuid: "iS6Vzt6PPjr",
+              cocuid: "xeQGICllTPa",
+              cell_no: "H16",
+              total: false,
+              name:
+                "Violent attacks on health workers by primary object of attack Patient"
+            },
+            {
+              deuid: "fNWDIhx3ZQO",
+              cocuid: "AcYy9PESCS4",
+              cell_no: "E19",
+              total: false,
+              name:
+                "Violent attacks on health care worker by attack type Physical attacks"
+            },
+            {
+              deuid: "fNWDIhx3ZQO",
+              cocuid: "tVlGzmqqeWo",
+              cell_no: "F19",
+              total: false,
+              name:
+                "Violent attacks on health care worker by attack type Psychological attacks"
+            },
+            {
+              deuid: "ViuQB9CLltC",
+              cocuid: "AcYy9PESCS4",
+              cell_no: "E20",
+              total: false,
+              name: "Violent attacks on patient by attack type Physical attacks"
+            },
+            {
+              deuid: "ViuQB9CLltC",
+              cocuid: "tVlGzmqqeWo",
+              cell_no: "F20",
+              total: false,
+              name:
+                "Violent attacks on patient by attack type Psychological attacks"
+            },
+            {
+              deuid: "LUVRqQq2NLE",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "P9",
+              total: false,
+              name:
+                "Existence of national/sub-national policies/laws for prevention of attacks on health workers Yes"
+            },
+            {
+              deuid: "LUVRqQq2NLE",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "Q9",
+              total: false,
+              name:
+                "Existence of national/sub-national policies/laws for prevention of attacks on health workers Partial"
+            },
+            {
+              deuid: "LUVRqQq2NLE",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "R9",
+              total: false,
+              name:
+                "Existence of national/sub-national policies/laws for prevention of attacks on health workers No"
+            },
+            {
+              deuid: "Ii26DODuUbB",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "S10",
+              total: false,
+              name:
+                "Existence of national/subnational policies for regulating compulsory service default"
+            },
+            {
+              deuid: "cV7DhKFPk3R",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "S11",
+              total: false,
+              name:
+                "Existence of national/sub-national policies/laws regulating dual practice default"
+            },
+            {
+              deuid: "FXC8HIEHwHI",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E9",
+              total: false,
+              name:
+                "Comment of Existence of national/sub-national policies/laws for prevention of attacks on health workers default"
+            },
+            {
+              deuid: "d7hKlZbQARX",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E10",
+              total: false,
+              name:
+                "Comment of Existence of national/subnational policies for regulating compulsory service default"
+            },
+            {
+              deuid: "TiqoQCq1BL4",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E11",
+              total: false,
+              name:
+                "Comment of Existence of national/sub-national policies/laws regulating dual practice default"
+            }
+          ]
+        },
+        {
+          sheet_type: "AGGREGATE_STATIC",
+          sheet_no: 3,
+          sheet_name: "Regulation",
+          orgUnitIdScheme: "UID",
+          dataElementIdScheme: "UID",
+          idScheme: "UID",
+          oucode_cell: "N2",
+          year_cell: "I4",
+          last_data_column: "ZZ",
+          agg_des: [
+            {
+              deuid: "LYjT01KiTTw",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "P9",
+              total: false,
+              name:
+                "Existence of national law on regulating working hours and conditions for medical doctors Yes"
+            },
+            {
+              deuid: "LYjT01KiTTw",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "Q9",
+              total: false,
+              name:
+                "Existence of national law on regulating working hours and conditions for medical doctors Partial"
+            },
+            {
+              deuid: "LYjT01KiTTw",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "R9",
+              total: false,
+              name:
+                "Existence of national law on regulating working hours and conditions for medical doctors No"
+            },
+            {
+              deuid: "gGSJZCN2L8C",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "P10",
+              total: false,
+              name:
+                "Existence of national law on regulating working hours and conditions for General Medical Practitioner Yes"
+            },
+            {
+              deuid: "gGSJZCN2L8C",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "Q10",
+              total: false,
+              name:
+                "Existence of national law on regulating working hours and conditions for General Medical Practitioner Partial"
+            },
+            {
+              deuid: "gGSJZCN2L8C",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "R10",
+              total: false,
+              name:
+                "Existence of national law on regulating working hours and conditions for General Medical Practitioner No"
+            },
+            {
+              deuid: "FDUFnJmPb2t",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "P11",
+              total: false,
+              name:
+                "Existence of national law on regulating working hours and conditions for Specialist Medical Practitioner Yes"
+            },
+            {
+              deuid: "FDUFnJmPb2t",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "Q11",
+              total: false,
+              name:
+                "Existence of national law on regulating working hours and conditions for Specialist Medical Practitioner Partial"
+            },
+            {
+              deuid: "FDUFnJmPb2t",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "R11",
+              total: false,
+              name:
+                "Existence of national law on regulating working hours and conditions for Specialist Medical Practitioner No"
+            },
+            {
+              deuid: "DVyhvgkJrXg",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "P12",
+              total: false,
+              name:
+                "Existence of national law on regulating working hours and conditions for Nursing Professional Yes"
+            },
+            {
+              deuid: "DVyhvgkJrXg",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "Q12",
+              total: false,
+              name:
+                "Existence of national law on regulating working hours and conditions for Nursing Professional Partial"
+            },
+            {
+              deuid: "DVyhvgkJrXg",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "R12",
+              total: false,
+              name:
+                "Existence of national law on regulating working hours and conditions for Nursing Professional No"
+            },
+            {
+              deuid: "Uyxr85SOJiI",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "P13",
+              total: false,
+              name:
+                "Existence of national law on regulating working hours and conditions for Midwifery Professional Yes"
+            },
+            {
+              deuid: "Uyxr85SOJiI",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "Q13",
+              total: false,
+              name:
+                "Existence of national law on regulating working hours and conditions for Midwifery Professional Partial"
+            },
+            {
+              deuid: "Uyxr85SOJiI",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "R13",
+              total: false,
+              name:
+                "Existence of national law on regulating working hours and conditions for Midwifery Professional No"
+            },
+            {
+              deuid: "I5m9Dl43XO2",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "P14",
+              total: false,
+              name:
+                "Existence of national law on regulating working hours and conditions for Dentist Yes"
+            },
+            {
+              deuid: "I5m9Dl43XO2",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "Q14",
+              total: false,
+              name:
+                "Existence of national law on regulating working hours and conditions for Dentist Partial"
+            },
+            {
+              deuid: "I5m9Dl43XO2",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "R14",
+              total: false,
+              name:
+                "Existence of national law on regulating working hours and conditions for Dentist No"
+            },
+            {
+              deuid: "gDinmRT6Pqb",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "P15",
+              total: false,
+              name:
+                "Existence of national law on regulating working hours and conditions for Pharmacist Yes"
+            },
+            {
+              deuid: "gDinmRT6Pqb",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "Q15",
+              total: false,
+              name:
+                "Existence of national law on regulating working hours and conditions for Pharmacist Partial"
+            },
+            {
+              deuid: "gDinmRT6Pqb",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "R15",
+              total: false,
+              name:
+                "Existence of national law on regulating working hours and conditions for Pharmacist No"
+            },
+            {
+              deuid: "lvs1RCQOOp4",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "P21",
+              total: false,
+              name:
+                "Existence of national/sub-national policies/laws regulating social protection Yes"
+            },
+            {
+              deuid: "lvs1RCQOOp4",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "Q21",
+              total: false,
+              name:
+                "Existence of national/sub-national policies/laws regulating social protection Partial"
+            },
+            {
+              deuid: "lvs1RCQOOp4",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "R21",
+              total: false,
+              name:
+                "Existence of national/sub-national policies/laws regulating social protection No"
+            },
+            {
+              deuid: "di91e0qZijs",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "O20",
+              total: false,
+              name:
+                "Existence of national/sub-national policies/laws regulating minimum wages default"
+            },
+            {
+              deuid: "p9tpHX1KEpx",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E9",
+              total: false,
+              name:
+                "Comment of Existence of national law on regulating working hours and conditions - Medical Doctors default"
+            },
+            {
+              deuid: "Vgrwxohqyex",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E10",
+              total: false,
+              name:
+                "Comment of Existence of national law on regulating working hours and conditions - General Medical Practitioner default"
+            },
+            {
+              deuid: "diMX6HJrY20",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E11",
+              total: false,
+              name:
+                "Comment of Existence of national law on regulating working hours and conditions - Specialist Medical Practitioner default"
+            },
+            {
+              deuid: "Z8z72QAYDaj",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E12",
+              total: false,
+              name:
+                "Comment of Existence of national law on regulating working hours and conditions - Nursing Professional default"
+            },
+            {
+              deuid: "MSX8eTjkneO",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E13",
+              total: false,
+              name:
+                "Comment of Existence of national law on regulating working hours and conditions - Midwifery Professional default"
+            },
+            {
+              deuid: "pp4mjoKsU50",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E14",
+              total: false,
+              name:
+                "Comment of Existence of national law on regulating working hours and conditions - Dentist default"
+            },
+            {
+              deuid: "OejaVtMvR4x",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E15",
+              total: false,
+              name:
+                "Comment of Existence of national law on regulating working hours and conditions - Pharmacist default"
+            },
+            {
+              deuid: "NI5EQM6hHmc",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E20",
+              total: false,
+              name:
+                "Comment of Existence of national/sub-national policies/laws regulating minimum wages default"
+            },
+            {
+              deuid: "OX7yvkLP2Uj",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E21",
+              total: false,
+              name:
+                "Comment of Existence of national/sub-national policies/laws regulating social protection default"
+            }
+          ]
+        }
+      ]
+    },
+    {
       name: "Module 7 Template",
       file: "NHWA_Module_7.xlsx",
       sheets: [
@@ -24898,476 +25626,530 @@ var whoTemplate = {
       ]
     },
     {
-      "name": "Module 8-10 Template",
-      "file": "NHWA_Module_8_10.xlsx",
-      "sheets": [
-          {
-              "sheet_type": "AGGREGATE_STATIC",
-              "sheet_no": 1,
-              "sheet_name": "Cost per program",
-              "orgUnitIdScheme": "UID",
-              "dataElementIdScheme": "UID",
-              "idScheme": "UID",
-              "oucode_cell": "V2",
-              "year_cell": "I4",
-              "last_data_column": "ZZ",
-              "agg_des": [
-                  {
-                      "deuid": "LW954y3FqL8",
-                      "cocuid": "Xr12mI7VPn3",
-                      "cell_no": "D8",
-                      "total": false,
-                      "name": "Percentage of HWF at the hospitals default"
-                  },
-                  {
-                      "deuid": "fxBC5D01Iem",
-                      "cocuid": "Xr12mI7VPn3",
-                      "cell_no": "D9",
-                      "total": false,
-                      "name": "Percentage of HWF working in residential long-term care facilities default"
-                  },
-                  {
-                      "deuid": "EWJZZN7T9IW",
-                      "cocuid": "Xr12mI7VPn3",
-                      "cell_no": "D10",
-                      "total": false,
-                      "name": "Percentage of HWF working in ambulatory health care default"
-                  },
-                  {
-                      "deuid": "zozZbvSo4Bz",
-                      "cocuid": "Xr12mI7VPn3",
-                      "cell_no": "D11",
-                      "total": false,
-                      "name": "Number of specialist surgical workers default"
-                  },
-                  {
-                      "deuid": "XEj0ILIlbWO",
-                      "cocuid": "Xr12mI7VPn3",
-                      "cell_no": "D12",
-                      "total": false,
-                      "name": "Number of family medicine practioners default"
-                  },
-                  {
-                      "deuid": "tKr3k3lbnJJ",
-                      "cocuid": "I93t0K7b1oN",
-                      "cell_no": "U13",
-                      "total": false,
-                      "name": "Existence of advanced nursing roles Yes"
-                  },
-                  {
-                      "deuid": "tKr3k3lbnJJ",
-                      "cocuid": "Xgr3PJxcWfJ",
-                      "cell_no": "V13",
-                      "total": false,
-                      "name": "Existence of advanced nursing roles Partial"
-                  },
-                  {
-                      "deuid": "tKr3k3lbnJJ",
-                      "cocuid": "Y7EAGQA1bfv",
-                      "cell_no": "W13",
-                      "total": false,
-                      "name": "Existence of advanced nursing roles No"
-                  },
-                  {
-                      "deuid": "jlJcFRt3mmg",
-                      "cocuid": "Xr12mI7VPn3",
-                      "cell_no": "E13",
-                      "total": false,
-                      "name": "Comment of existence of advanced nursing roles default"
-                  }
-              ]
-          },
-          {
-              "sheet_type": "AGGREGATE_STATIC",
-              "sheet_no": 2,
-              "sheet_name": "M09 - Governance and policies",
-              "orgUnitIdScheme": "UID",
-              "dataElementIdScheme": "UID",
-              "idScheme": "UID",
-              "oucode_cell": "N2",
-              "year_cell": "I4",
-              "last_data_column": "ZZ",
-              "agg_des": [
-                  {
-                      "deuid": "ROVoulCcT0j",
-                      "cocuid": "I93t0K7b1oN",
-                      "cell_no": "Q9",
-                      "total": false,
-                      "name": "Existence of institutional mechanisms to coordinate an intersectoral health workforce agenda Yes"
-                  },
-                  {
-                      "deuid": "ROVoulCcT0j",
-                      "cocuid": "Xgr3PJxcWfJ",
-                      "cell_no": "R9",
-                      "total": false,
-                      "name": "Existence of institutional mechanisms to coordinate an intersectoral health workforce agenda Partial"
-                  },
-                  {
-                      "deuid": "ROVoulCcT0j",
-                      "cocuid": "Y7EAGQA1bfv",
-                      "cell_no": "S9",
-                      "total": false,
-                      "name": "Existence of institutional mechanisms to coordinate an intersectoral health workforce agenda No"
-                  },
-                  {
-                      "deuid": "yqQBUxeuga4",
-                      "cocuid": "I93t0K7b1oN",
-                      "cell_no": "Q10",
-                      "total": false,
-                      "name": "Existence of a health workforce unit responsible for developing and monitoring policies and plans on health workforce Yes"
-                  },
-                  {
-                      "deuid": "yqQBUxeuga4",
-                      "cocuid": "Xgr3PJxcWfJ",
-                      "cell_no": "R10",
-                      "total": false,
-                      "name": "Existence of a health workforce unit responsible for developing and monitoring policies and plans on health workforce Partial"
-                  },
-                  {
-                      "deuid": "yqQBUxeuga4",
-                      "cocuid": "Y7EAGQA1bfv",
-                      "cell_no": "S10",
-                      "total": false,
-                      "name": "Existence of a health workforce unit responsible for developing and monitoring policies and plans on health workforce No"
-                  },
-                  {
-                      "deuid": "tdwemEgGckz",
-                      "cocuid": "I93t0K7b1oN",
-                      "cell_no": "Q11",
-                      "total": false,
-                      "name": "Existence of mechanisms and models for health workforce planning Yes"
-                  },
-                  {
-                      "deuid": "tdwemEgGckz",
-                      "cocuid": "Xgr3PJxcWfJ",
-                      "cell_no": "R11",
-                      "total": false,
-                      "name": "Existence of mechanisms and models for health workforce planning Partial"
-                  },
-                  {
-                      "deuid": "tdwemEgGckz",
-                      "cocuid": "Y7EAGQA1bfv",
-                      "cell_no": "S11",
-                      "total": false,
-                      "name": "Existence of mechanisms and models for health workforce planning No"
-                  },
-                  {
-                      "deuid": "wDaqByzsz7p",
-                      "cocuid": "I93t0K7b1oN",
-                      "cell_no": "Q12",
-                      "total": false,
-                      "name": "Existence of national education plans for the health workforce, aligned with the national health plan and the national health workforce strategy Yes"
-                  },
-                  {
-                      "deuid": "wDaqByzsz7p",
-                      "cocuid": "Xgr3PJxcWfJ",
-                      "cell_no": "R12",
-                      "total": false,
-                      "name": "Existence of national education plans for the health workforce, aligned with the national health plan and the national health workforce strategy Partial"
-                  },
-                  {
-                      "deuid": "wDaqByzsz7p",
-                      "cocuid": "Y7EAGQA1bfv",
-                      "cell_no": "S12",
-                      "total": false,
-                      "name": "Existence of national education plans for the health workforce, aligned with the national health plan and the national health workforce strategy No"
-                  },
-                  {
-                      "deuid": "HgQ76w0VONy",
-                      "cocuid": "I93t0K7b1oN",
-                      "cell_no": "Q13",
-                      "total": false,
-                      "name": "Existence of institutional models for assessing and monitoring staffing needs for health services delivery Yes"
-                  },
-                  {
-                      "deuid": "HgQ76w0VONy",
-                      "cocuid": "Xgr3PJxcWfJ",
-                      "cell_no": "R13",
-                      "total": false,
-                      "name": "Existence of institutional models for assessing and monitoring staffing needs for health services delivery Partial"
-                  },
-                  {
-                      "deuid": "HgQ76w0VONy",
-                      "cocuid": "Y7EAGQA1bfv",
-                      "cell_no": "S13",
-                      "total": false,
-                      "name": "Existence of institutional models for assessing and monitoring staffing needs for health services delivery No"
-                  },
-                  {
-                      "deuid": "xtrKmZJKljq",
-                      "cocuid": "Xr12mI7VPn3",
-                      "cell_no": "E9",
-                      "total": false,
-                      "name": "Comment of existence of institutional mechanisms to coordinate an intersectoral health workforce agenda default"
-                  },
-                  {
-                      "deuid": "R6JXOAVTsay",
-                      "cocuid": "Xr12mI7VPn3",
-                      "cell_no": "E10",
-                      "total": false,
-                      "name": "Comment of existence of a health workforce unit responsible for developing and monitoring policies and plans on health workforce default"
-                  },
-                  {
-                      "deuid": "risbLwkLwW5",
-                      "cocuid": "Xr12mI7VPn3",
-                      "cell_no": "E11",
-                      "total": false,
-                      "name": "Comment of existence of mechanisms and models for health workforce planning default"
-                  },
-                  {
-                      "deuid": "oLpoOT6tO7g",
-                      "cocuid": "Xr12mI7VPn3",
-                      "cell_no": "E12",
-                      "total": false,
-                      "name": "Comment of national education plans for the health workforce, aligned with the national health plan and the national health workforce strategy default"
-                  },
-                  {
-                      "deuid": "RM1vy8bSPE8",
-                      "cocuid": "Xr12mI7VPn3",
-                      "cell_no": "E13",
-                      "total": false,
-                      "name": "Comment of Existence of institutional models for assessing and monitoring staffing needs for health service delivery default"
-                  }
-              ]
-          },
-          {
-              "sheet_type": "AGGREGATE_STATIC",
-              "sheet_no": 3,
-              "sheet_name": "M10 - Information Systems",
-              "orgUnitIdScheme": "UID",
-              "dataElementIdScheme": "UID",
-              "idScheme": "UID",
-              "oucode_cell": "N2",
-              "year_cell": "I4",
-              "last_data_column": "ZZ",
-              "agg_des": [
-                  {
-                      "deuid": "f87mpByuPub",
-                      "cocuid": "I93t0K7b1oN",
-                      "cell_no": "Q9",
-                      "total": false,
-                      "name": "Existence of HRHIS for reporting on International Health Regulations Yes"
-                  },
-                  {
-                      "deuid": "f87mpByuPub",
-                      "cocuid": "Xgr3PJxcWfJ",
-                      "cell_no": "R9",
-                      "total": false,
-                      "name": "Existence of HRHIS for reporting on International Health Regulations Partial"
-                  },
-                  {
-                      "deuid": "f87mpByuPub",
-                      "cocuid": "Y7EAGQA1bfv",
-                      "cell_no": "S9",
-                      "total": false,
-                      "name": "Existence of HRHIS for reporting on International Health Regulations No"
-                  },
-                  {
-                      "deuid": "RHokurJAbjS",
-                      "cocuid": "I93t0K7b1oN",
-                      "cell_no": "Q10",
-                      "total": false,
-                      "name": "Existence of HRHIS for reporting on  the WHO Global Code of Practice on the International Recruitment of Health Personnel  Yes"
-                  },
-                  {
-                      "deuid": "RHokurJAbjS",
-                      "cocuid": "Xgr3PJxcWfJ",
-                      "cell_no": "R10",
-                      "total": false,
-                      "name": "Existence of HRHIS for reporting on  the WHO Global Code of Practice on the International Recruitment of Health Personnel  Partial"
-                  },
-                  {
-                      "deuid": "RHokurJAbjS",
-                      "cocuid": "Y7EAGQA1bfv",
-                      "cell_no": "S10",
-                      "total": false,
-                      "name": "Existence of HRHIS for reporting on  the WHO Global Code of Practice on the International Recruitment of Health Personnel  No"
-                  },
-                  {
-                      "deuid": "w8SWd1reRm8",
-                      "cocuid": "I93t0K7b1oN",
-                      "cell_no": "Q11",
-                      "total": false,
-                      "name": "Existence of HRHIS for reporting on Skilled Attendance at Birth requirements Yes"
-                  },
-                  {
-                      "deuid": "w8SWd1reRm8",
-                      "cocuid": "Xgr3PJxcWfJ",
-                      "cell_no": "R11",
-                      "total": false,
-                      "name": "Existence of HRHIS for reporting on Skilled Attendance at Birth requirements Partial"
-                  },
-                  {
-                      "deuid": "w8SWd1reRm8",
-                      "cocuid": "Y7EAGQA1bfv",
-                      "cell_no": "S11",
-                      "total": false,
-                      "name": "Existence of HRHIS for reporting on Skilled Attendance at Birth requirements No"
-                  },
-                  {
-                      "deuid": "IidAimBSgEf",
-                      "cocuid": "I93t0K7b1oN",
-                      "cell_no": "Q12",
-                      "total": false,
-                      "name": "Existence of HRHIS for reporting on outputs from education and training institutions Yes"
-                  },
-                  {
-                      "deuid": "IidAimBSgEf",
-                      "cocuid": "Xgr3PJxcWfJ",
-                      "cell_no": "R12",
-                      "total": false,
-                      "name": "Existence of HRHIS for reporting on outputs from education and training institutions Partial"
-                  },
-                  {
-                      "deuid": "IidAimBSgEf",
-                      "cocuid": "Y7EAGQA1bfv",
-                      "cell_no": "S12",
-                      "total": false,
-                      "name": "Existence of HRHIS for reporting on outputs from education and training institutions No"
-                  },
-                  {
-                      "deuid": "q8CUMlpFLtJ",
-                      "cocuid": "I93t0K7b1oN",
-                      "cell_no": "Q13",
-                      "total": false,
-                      "name": "Existence of HRHIS to track entrants to the labour market Yes"
-                  },
-                  {
-                      "deuid": "q8CUMlpFLtJ",
-                      "cocuid": "Xgr3PJxcWfJ",
-                      "cell_no": "R13",
-                      "total": false,
-                      "name": "Existence of HRHIS to track entrants to the labour market Partial"
-                  },
-                  {
-                      "deuid": "q8CUMlpFLtJ",
-                      "cocuid": "Y7EAGQA1bfv",
-                      "cell_no": "S13",
-                      "total": false,
-                      "name": "Existence of HRHIS to track entrants to the labour market No"
-                  },
-                  {
-                      "deuid": "hR7B1ITcCMe",
-                      "cocuid": "I93t0K7b1oN",
-                      "cell_no": "Q14",
-                      "total": false,
-                      "name": "Existence of HRHIS to track the number of active stock per year Yes"
-                  },
-                  {
-                      "deuid": "hR7B1ITcCMe",
-                      "cocuid": "Xgr3PJxcWfJ",
-                      "cell_no": "R14",
-                      "total": false,
-                      "name": "Existence of HRHIS to track the number of active stock per year Partial"
-                  },
-                  {
-                      "deuid": "hR7B1ITcCMe",
-                      "cocuid": "Y7EAGQA1bfv",
-                      "cell_no": "S14",
-                      "total": false,
-                      "name": "Existence of HRHIS to track the number of active stock per year No"
-                  },
-                  {
-                      "deuid": "qNxAIa6jvmm",
-                      "cocuid": "I93t0K7b1oN",
-                      "cell_no": "Q15",
-                      "total": false,
-                      "name": "Existence of HRHIS to track the number of exits per year Yes"
-                  },
-                  {
-                      "deuid": "qNxAIa6jvmm",
-                      "cocuid": "Xgr3PJxcWfJ",
-                      "cell_no": "R15",
-                      "total": false,
-                      "name": "Existence of HRHIS to track the number of exits per year Partial"
-                  },
-                  {
-                      "deuid": "qNxAIa6jvmm",
-                      "cocuid": "Y7EAGQA1bfv",
-                      "cell_no": "S15",
-                      "total": false,
-                      "name": "Existence of HRHIS to track the number of exits per year No"
-                  },
-                  {
-                      "deuid": "FZYvE3Jdf8L",
-                      "cocuid": "I93t0K7b1oN",
-                      "cell_no": "Q16",
-                      "total": false,
-                      "name": "Existence of HRHIS to produce geo-coded location of health facilities Yes"
-                  },
-                  {
-                      "deuid": "FZYvE3Jdf8L",
-                      "cocuid": "Xgr3PJxcWfJ",
-                      "cell_no": "R16",
-                      "total": false,
-                      "name": "Existence of HRHIS to produce geo-coded location of health facilities Partial"
-                  },
-                  {
-                      "deuid": "FZYvE3Jdf8L",
-                      "cocuid": "Y7EAGQA1bfv",
-                      "cell_no": "S16",
-                      "total": false,
-                      "name": "Existence of HRHIS to produce geo-coded location of health facilities No"
-                  },
-                  {
-                      "deuid": "jieOOtItEQg",
-                      "cocuid": "Xr12mI7VPn3",
-                      "cell_no": "E9",
-                      "total": false,
-                      "name": "Comment of Existence of HRHIS for reporting on International Health Regulations default"
-                  },
-                  {
-                      "deuid": "tASpRJWiyvN",
-                      "cocuid": "Xr12mI7VPn3",
-                      "cell_no": "E10",
-                      "total": false,
-                      "name": "Comment of Existence of HRHIS for reporting on  the WHO Global Code of Practice on the International Recruitment of Health Personnel default"
-                  },
-                  {
-                      "deuid": "aAaUMHvUPv1",
-                      "cocuid": "Xr12mI7VPn3",
-                      "cell_no": "E11",
-                      "total": false,
-                      "name": "Comment of Existence of HRHIS for reporting on Skilled Attendance at Birth requirements default"
-                  },
-                  {
-                      "deuid": "mwwpy9cyOGy",
-                      "cocuid": "Xr12mI7VPn3",
-                      "cell_no": "E12",
-                      "total": false,
-                      "name": "Comment of Existence of HRHIS for reporting on outputs from education and training institutions default"
-                  },
-                  {
-                      "deuid": "AK5r5VIXYOW",
-                      "cocuid": "Xr12mI7VPn3",
-                      "cell_no": "E13",
-                      "total": false,
-                      "name": "Comment of Existence of HRHIS to track entrants to the labour market default"
-                  },
-                  {
-                      "deuid": "QuUK6IgR9oZ",
-                      "cocuid": "Xr12mI7VPn3",
-                      "cell_no": "E14",
-                      "total": false,
-                      "name": "Comment of Existence of HRHIS to track the number of active stock per year default"
-                  },
-                  {
-                      "deuid": "bGA2GtwhrC9",
-                      "cocuid": "Xr12mI7VPn3",
-                      "cell_no": "E15",
-                      "total": false,
-                      "name": "Comment of Existence of HRHIS to track the number of exits per year default"
-                  },
-                  {
-                      "deuid": "cWUu9JeMtg7",
-                      "cocuid": "Xr12mI7VPn3",
-                      "cell_no": "E16",
-                      "total": false,
-                      "name": "Comment of Existence of HRHIS to produce geo-coded location of health facilities default"
-                  }
-              ]
-          }
+      name: "Module 8-10 Template",
+      file: "NHWA_Module_8_10.xlsx",
+      sheets: [
+        {
+          sheet_type: "AGGREGATE_STATIC",
+          sheet_no: 1,
+          sheet_name: "Cost per program",
+          orgUnitIdScheme: "UID",
+          dataElementIdScheme: "UID",
+          idScheme: "UID",
+          oucode_cell: "V2",
+          year_cell: "I4",
+          last_data_column: "ZZ",
+          agg_des: [
+            {
+              deuid: "LW954y3FqL8",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "D8",
+              total: false,
+              name: "Percentage of HWF at the hospitals default"
+            },
+            {
+              deuid: "fxBC5D01Iem",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "D9",
+              total: false,
+              name:
+                "Percentage of HWF working in residential long-term care facilities default"
+            },
+            {
+              deuid: "EWJZZN7T9IW",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "D10",
+              total: false,
+              name:
+                "Percentage of HWF working in ambulatory health care default"
+            },
+            {
+              deuid: "zozZbvSo4Bz",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "D11",
+              total: false,
+              name: "Number of specialist surgical workers default"
+            },
+            {
+              deuid: "XEj0ILIlbWO",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "D12",
+              total: false,
+              name: "Number of family medicine practioners default"
+            },
+            {
+              deuid: "tKr3k3lbnJJ",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "U13",
+              total: false,
+              name: "Existence of advanced nursing roles Yes"
+            },
+            {
+              deuid: "tKr3k3lbnJJ",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "V13",
+              total: false,
+              name: "Existence of advanced nursing roles Partial"
+            },
+            {
+              deuid: "tKr3k3lbnJJ",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "W13",
+              total: false,
+              name: "Existence of advanced nursing roles No"
+            },
+            {
+              deuid: "jlJcFRt3mmg",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E13",
+              total: false,
+              name: "Comment of existence of advanced nursing roles default"
+            }
+          ]
+        },
+        {
+          sheet_type: "AGGREGATE_STATIC",
+          sheet_no: 2,
+          sheet_name: "M09 - Governance and policies",
+          orgUnitIdScheme: "UID",
+          dataElementIdScheme: "UID",
+          idScheme: "UID",
+          oucode_cell: "N2",
+          year_cell: "I4",
+          last_data_column: "ZZ",
+          agg_des: [
+            {
+              deuid: "ROVoulCcT0j",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "Q9",
+              total: false,
+              name:
+                "Existence of institutional mechanisms to coordinate an intersectoral health workforce agenda Yes"
+            },
+            {
+              deuid: "ROVoulCcT0j",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "R9",
+              total: false,
+              name:
+                "Existence of institutional mechanisms to coordinate an intersectoral health workforce agenda Partial"
+            },
+            {
+              deuid: "ROVoulCcT0j",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "S9",
+              total: false,
+              name:
+                "Existence of institutional mechanisms to coordinate an intersectoral health workforce agenda No"
+            },
+            {
+              deuid: "yqQBUxeuga4",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "Q10",
+              total: false,
+              name:
+                "Existence of a health workforce unit responsible for developing and monitoring policies and plans on health workforce Yes"
+            },
+            {
+              deuid: "yqQBUxeuga4",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "R10",
+              total: false,
+              name:
+                "Existence of a health workforce unit responsible for developing and monitoring policies and plans on health workforce Partial"
+            },
+            {
+              deuid: "yqQBUxeuga4",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "S10",
+              total: false,
+              name:
+                "Existence of a health workforce unit responsible for developing and monitoring policies and plans on health workforce No"
+            },
+            {
+              deuid: "tdwemEgGckz",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "Q11",
+              total: false,
+              name:
+                "Existence of mechanisms and models for health workforce planning Yes"
+            },
+            {
+              deuid: "tdwemEgGckz",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "R11",
+              total: false,
+              name:
+                "Existence of mechanisms and models for health workforce planning Partial"
+            },
+            {
+              deuid: "tdwemEgGckz",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "S11",
+              total: false,
+              name:
+                "Existence of mechanisms and models for health workforce planning No"
+            },
+            {
+              deuid: "wDaqByzsz7p",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "Q12",
+              total: false,
+              name:
+                "Existence of national education plans for the health workforce, aligned with the national health plan and the national health workforce strategy Yes"
+            },
+            {
+              deuid: "wDaqByzsz7p",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "R12",
+              total: false,
+              name:
+                "Existence of national education plans for the health workforce, aligned with the national health plan and the national health workforce strategy Partial"
+            },
+            {
+              deuid: "wDaqByzsz7p",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "S12",
+              total: false,
+              name:
+                "Existence of national education plans for the health workforce, aligned with the national health plan and the national health workforce strategy No"
+            },
+            {
+              deuid: "HgQ76w0VONy",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "Q13",
+              total: false,
+              name:
+                "Existence of institutional models for assessing and monitoring staffing needs for health services delivery Yes"
+            },
+            {
+              deuid: "HgQ76w0VONy",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "R13",
+              total: false,
+              name:
+                "Existence of institutional models for assessing and monitoring staffing needs for health services delivery Partial"
+            },
+            {
+              deuid: "HgQ76w0VONy",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "S13",
+              total: false,
+              name:
+                "Existence of institutional models for assessing and monitoring staffing needs for health services delivery No"
+            },
+            {
+              deuid: "xtrKmZJKljq",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E9",
+              total: false,
+              name:
+                "Comment of existence of institutional mechanisms to coordinate an intersectoral health workforce agenda default"
+            },
+            {
+              deuid: "R6JXOAVTsay",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E10",
+              total: false,
+              name:
+                "Comment of existence of a health workforce unit responsible for developing and monitoring policies and plans on health workforce default"
+            },
+            {
+              deuid: "risbLwkLwW5",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E11",
+              total: false,
+              name:
+                "Comment of existence of mechanisms and models for health workforce planning default"
+            },
+            {
+              deuid: "oLpoOT6tO7g",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E12",
+              total: false,
+              name:
+                "Comment of national education plans for the health workforce, aligned with the national health plan and the national health workforce strategy default"
+            },
+            {
+              deuid: "RM1vy8bSPE8",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E13",
+              total: false,
+              name:
+                "Comment of Existence of institutional models for assessing and monitoring staffing needs for health service delivery default"
+            }
+          ]
+        },
+        {
+          sheet_type: "AGGREGATE_STATIC",
+          sheet_no: 3,
+          sheet_name: "M10 - Information Systems",
+          orgUnitIdScheme: "UID",
+          dataElementIdScheme: "UID",
+          idScheme: "UID",
+          oucode_cell: "N2",
+          year_cell: "I4",
+          last_data_column: "ZZ",
+          agg_des: [
+            {
+              deuid: "f87mpByuPub",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "Q9",
+              total: false,
+              name:
+                "Existence of HRHIS for reporting on International Health Regulations Yes"
+            },
+            {
+              deuid: "f87mpByuPub",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "R9",
+              total: false,
+              name:
+                "Existence of HRHIS for reporting on International Health Regulations Partial"
+            },
+            {
+              deuid: "f87mpByuPub",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "S9",
+              total: false,
+              name:
+                "Existence of HRHIS for reporting on International Health Regulations No"
+            },
+            {
+              deuid: "RHokurJAbjS",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "Q10",
+              total: false,
+              name:
+                "Existence of HRHIS for reporting on  the WHO Global Code of Practice on the International Recruitment of Health Personnel  Yes"
+            },
+            {
+              deuid: "RHokurJAbjS",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "R10",
+              total: false,
+              name:
+                "Existence of HRHIS for reporting on  the WHO Global Code of Practice on the International Recruitment of Health Personnel  Partial"
+            },
+            {
+              deuid: "RHokurJAbjS",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "S10",
+              total: false,
+              name:
+                "Existence of HRHIS for reporting on  the WHO Global Code of Practice on the International Recruitment of Health Personnel  No"
+            },
+            {
+              deuid: "w8SWd1reRm8",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "Q11",
+              total: false,
+              name:
+                "Existence of HRHIS for reporting on Skilled Attendance at Birth requirements Yes"
+            },
+            {
+              deuid: "w8SWd1reRm8",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "R11",
+              total: false,
+              name:
+                "Existence of HRHIS for reporting on Skilled Attendance at Birth requirements Partial"
+            },
+            {
+              deuid: "w8SWd1reRm8",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "S11",
+              total: false,
+              name:
+                "Existence of HRHIS for reporting on Skilled Attendance at Birth requirements No"
+            },
+            {
+              deuid: "IidAimBSgEf",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "Q12",
+              total: false,
+              name:
+                "Existence of HRHIS for reporting on outputs from education and training institutions Yes"
+            },
+            {
+              deuid: "IidAimBSgEf",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "R12",
+              total: false,
+              name:
+                "Existence of HRHIS for reporting on outputs from education and training institutions Partial"
+            },
+            {
+              deuid: "IidAimBSgEf",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "S12",
+              total: false,
+              name:
+                "Existence of HRHIS for reporting on outputs from education and training institutions No"
+            },
+            {
+              deuid: "q8CUMlpFLtJ",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "Q13",
+              total: false,
+              name:
+                "Existence of HRHIS to track entrants to the labour market Yes"
+            },
+            {
+              deuid: "q8CUMlpFLtJ",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "R13",
+              total: false,
+              name:
+                "Existence of HRHIS to track entrants to the labour market Partial"
+            },
+            {
+              deuid: "q8CUMlpFLtJ",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "S13",
+              total: false,
+              name:
+                "Existence of HRHIS to track entrants to the labour market No"
+            },
+            {
+              deuid: "hR7B1ITcCMe",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "Q14",
+              total: false,
+              name:
+                "Existence of HRHIS to track the number of active stock per year Yes"
+            },
+            {
+              deuid: "hR7B1ITcCMe",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "R14",
+              total: false,
+              name:
+                "Existence of HRHIS to track the number of active stock per year Partial"
+            },
+            {
+              deuid: "hR7B1ITcCMe",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "S14",
+              total: false,
+              name:
+                "Existence of HRHIS to track the number of active stock per year No"
+            },
+            {
+              deuid: "qNxAIa6jvmm",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "Q15",
+              total: false,
+              name:
+                "Existence of HRHIS to track the number of exits per year Yes"
+            },
+            {
+              deuid: "qNxAIa6jvmm",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "R15",
+              total: false,
+              name:
+                "Existence of HRHIS to track the number of exits per year Partial"
+            },
+            {
+              deuid: "qNxAIa6jvmm",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "S15",
+              total: false,
+              name:
+                "Existence of HRHIS to track the number of exits per year No"
+            },
+            {
+              deuid: "FZYvE3Jdf8L",
+              cocuid: "I93t0K7b1oN",
+              cell_no: "Q16",
+              total: false,
+              name:
+                "Existence of HRHIS to produce geo-coded location of health facilities Yes"
+            },
+            {
+              deuid: "FZYvE3Jdf8L",
+              cocuid: "Xgr3PJxcWfJ",
+              cell_no: "R16",
+              total: false,
+              name:
+                "Existence of HRHIS to produce geo-coded location of health facilities Partial"
+            },
+            {
+              deuid: "FZYvE3Jdf8L",
+              cocuid: "Y7EAGQA1bfv",
+              cell_no: "S16",
+              total: false,
+              name:
+                "Existence of HRHIS to produce geo-coded location of health facilities No"
+            },
+            {
+              deuid: "jieOOtItEQg",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E9",
+              total: false,
+              name:
+                "Comment of Existence of HRHIS for reporting on International Health Regulations default"
+            },
+            {
+              deuid: "tASpRJWiyvN",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E10",
+              total: false,
+              name:
+                "Comment of Existence of HRHIS for reporting on  the WHO Global Code of Practice on the International Recruitment of Health Personnel default"
+            },
+            {
+              deuid: "aAaUMHvUPv1",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E11",
+              total: false,
+              name:
+                "Comment of Existence of HRHIS for reporting on Skilled Attendance at Birth requirements default"
+            },
+            {
+              deuid: "mwwpy9cyOGy",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E12",
+              total: false,
+              name:
+                "Comment of Existence of HRHIS for reporting on outputs from education and training institutions default"
+            },
+            {
+              deuid: "AK5r5VIXYOW",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E13",
+              total: false,
+              name:
+                "Comment of Existence of HRHIS to track entrants to the labour market default"
+            },
+            {
+              deuid: "QuUK6IgR9oZ",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E14",
+              total: false,
+              name:
+                "Comment of Existence of HRHIS to track the number of active stock per year default"
+            },
+            {
+              deuid: "bGA2GtwhrC9",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E15",
+              total: false,
+              name:
+                "Comment of Existence of HRHIS to track the number of exits per year default"
+            },
+            {
+              deuid: "cWUu9JeMtg7",
+              cocuid: "Xr12mI7VPn3",
+              cell_no: "E16",
+              total: false,
+              name:
+                "Comment of Existence of HRHIS to produce geo-coded location of health facilities default"
+            }
+          ]
+        }
       ]
-  }
+    }
   ]
 };
