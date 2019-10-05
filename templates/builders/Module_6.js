@@ -9,13 +9,13 @@ const metadata = new Map();
 
 const customRowsTab1 = [
   { row: 8, nrOfElements: 1 },
-  { row: 13, nrOfElements: 5 },
-  { row: 14, nrOfElements: 5 },
-  { row: 15, nrOfElements: 5 },
-  { row: 16, nrOfElements: 5 },
-  { row: 17, nrOfElements: 5 },
-  { row: 18, nrOfElements: 5 },
-  { row: 19, nrOfElements: 5 }
+  { row: 13, nrOfElements: 6 },
+  { row: 14, nrOfElements: 6 },
+  { row: 15, nrOfElements: 6 },
+  { row: 16, nrOfElements: 6 },
+  { row: 17, nrOfElements: 6 },
+  { row: 18, nrOfElements: 6 },
+  { row: 19, nrOfElements: 6 }
 ];
 
 const customRowsTab2 = [
@@ -107,7 +107,7 @@ function getDataElementsCustomRows(
 
 const dataElementsSheet1 = getDataElementsCustomRows(
   "#tab0",
-  ["D", "E", "F", "G", "H"],
+  ["D", "E", "F", "G", "H", "I"],
   customRowsTab1
 );
 
