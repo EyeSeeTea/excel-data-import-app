@@ -18,12 +18,6 @@ const customRowsTab1 = [
   { row: 19, nrOfElements: 6 }
 ];
 
-const customRowsTab2 = [
-  { row: 16, nrOfElements: 5, skipFirstColumn: false },
-  { row: 19, nrOfElements: 2, skipFirstColumn: true },
-  { row: 20, nrOfElements: 2, skipFirstColumn: true }
-];
-
 const customRowsTab3Comments = [
   { row: 9, nrOfElements: 1 },
   { row: 10, nrOfElements: 1 },
@@ -90,11 +84,10 @@ function getDataElementsCustomRows(
       const field = entryfields[elementCount + i];
       const id = field.getAttribute("id");
       const data = id.split("-");
-      const column = row.skipFirstColumn ? letters[i + 1] : letters[i];
       fields.push({
         deuid: data[0],
         cocuid: data[1],
-        cell_no: `${column}${row.row}`,
+        cell_no: `${letters[i]}${row.row}`,
         total: field.disabled,
         name: `${metadata.get(data[0]).name} ${metadata.get(data[1]).name}`
       });
@@ -112,11 +105,7 @@ const dataElementsSheet1 = getDataElementsCustomRows(
 );
 
 const dataElementsSheet2 = [
-  ...getDataElementsCustomRows(
-    "#tab1",
-    ["D", "E", "F", "G", "H"],
-    customRowsTab2
-  ),
+  ...getDataElements("#tab1", ["D", "E", "F", "G", "H"], 16),
   ...getDataElements("#tab1", ["P", "Q", "R"], 9, "input.entrytrueonly"),
   ...getDataElements("#tab1", ["S"], 10, "input.entryselect[value=true]"),
   ...getDataElements("#tab1", ["E"], 9, "textarea.entryfield")
