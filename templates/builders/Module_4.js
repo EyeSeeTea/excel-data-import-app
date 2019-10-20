@@ -1,7 +1,7 @@
 // This script is meant to be executed with a window object (JS document)
 // You can run it in the Chrome Development Console and retrieve the results in JSON
 
-let rawMetadata = await(await fetch("/api/dataSets/HtZb6Cg7TXo/metadata.json")).json();
+let rawMetadata = await(await fetch("https://extranet.who.int/dhis2-dev/api/dataSets/HtZb6Cg7TXo/metadata.json")).json();
 let metadata = new Map();
 for (const type in rawMetadata) {
     const elements = rawMetadata[type];
@@ -45,7 +45,7 @@ let sheet1 = {
 };
 
 
-let dataElementsSheet2 = getDataElements("#tab1", ["D", "E", "F", "G"], 9);
+let dataElementsSheet2 = getDataElements("#tab1", ["D", "E", "F", "G", "H", "I"], 10);
 
 let sheet2 = {
     sheet_type: "AGGREGATE_STATIC",
@@ -60,25 +60,9 @@ let sheet2 = {
     agg_des: dataElementsSheet2
 };
 
-
-let dataElementsSheet3 = getDataElements("#tab2", ["D", "E", "F", "G", "H"], 9);
+let dataElementsSheet3 = getDataElements("#tab2", ["D", "E", "F", "G"], 11);
 
 let sheet3 = {
-    sheet_type: "AGGREGATE_STATIC",
-    sheet_no: 3,
-    sheet_name: "Specialist Costs",
-    orgUnitIdScheme: "UID",
-    dataElementIdScheme: "UID",
-    idScheme: "UID",
-    oucode_cell: "P2",
-    year_cell: "I4",
-    last_data_column: "ZZ",
-    agg_des: dataElementsSheet3
-};
-
-let dataElementsSheet4 = getDataElements("#tab3", ["D", "E", "F", "G"], 11);
-
-let sheet4 = {
     sheet_type: "AGGREGATE_STATIC",
     sheet_no: 4,
     sheet_name: "Lifelong Learning",
@@ -88,14 +72,14 @@ let sheet4 = {
     oucode_cell: "N2",
     year_cell: "I4",
     last_data_column: "ZZ",
-    agg_des: dataElementsSheet4
+    agg_des: dataElementsSheet3
 };
 
 
 let module4 = {
     name: "Module 4 Template",
     file: "NHWA_Module_4.xlsx",
-    sheets: [sheet1,sheet2,sheet3,sheet4],
+    sheets: [sheet1, sheet2, sheet3],
 };
 
 JSON.stringify(module4);

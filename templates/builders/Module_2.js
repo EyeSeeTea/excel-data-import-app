@@ -2,7 +2,7 @@
 // You can run it in the Chrome Development Console and retrieve the results in JSON
 
 const rawMetadata = await (await fetch(
-  "/api/dataSets/m5MiTPdlK17/metadata.json"
+  "https://extranet.who.int/dhis2-dev/api/dataSets/m5MiTPdlK17/metadata.json"
 )).json();
 
 const metadata = new Map();
@@ -41,31 +41,30 @@ const dataElementsSheet1 = getDataElements(
   8
 );
 
-const dataElementsTab2 = getDataElements(
+const dataElementsSheet2 = getDataElements(
   "#tab1",
   ["D", "E", "F", "G", "H", "I", "J", "K"],
-  12
+  8
 );
 
-const yesPartialNoTab2 = getDataElements(
+const yesPartialNoTab3 = getDataElements(
   "#tab2",
   ["R", "S", "T"],
   6,
   "input.entrytrueonly"
 );
 
-const commentsTab2 = getDataElements("#tab2", ["F"], 8, "textarea.entryfield");
+const commentsTab3 = getDataElements("#tab2", ["F"], 8, "textarea.entryfield");
 
-const dataElementsTab3 = getDataElements("#tab2", ["J", "K", "L"], 12);
+const dataElementsTab3 = getDataElements("#tab2", ["D", "E", "F"], 8);
 
-const dataElementsSheet2 = [
-  ...dataElementsTab2,
-  ...yesPartialNoTab2,
-  ...commentsTab2,
+const dataElementsSheet3 = [
+  ...yesPartialNoTab3,
+  ...commentsTab3,
   ...dataElementsTab3
 ];
 
-const dataElementsSheet3 = getDataElements(
+const dataElementsSheet4 = getDataElements(
   "#tab0",
   ["P", "Q", "R", "S"],
   8,
@@ -88,19 +87,32 @@ const sheet1 = {
 const sheet2 = {
   sheet_type: "AGGREGATE_STATIC",
   sheet_no: 2,
-  sheet_name: "Input",
+  sheet_name: "Output",
   orgUnitIdScheme: "UID",
   dataElementIdScheme: "UID",
   idScheme: "UID",
   oucode_cell: "P2",
-  year_cell: "L4",
+  year_cell: "K4",
   last_data_column: "ZZ",
   agg_des: dataElementsSheet2
 };
 
 const sheet3 = {
-  sheet_type: "AGGREGATE_STATIC_YES_ONLY",
+  sheet_type: "AGGREGATE_STATIC",
   sheet_no: 3,
+  sheet_name: "Institutions",
+  orgUnitIdScheme: "UID",
+  dataElementIdScheme: "UID",
+  idScheme: "UID",
+  oucode_cell: "P2",
+  year_cell: "J4",
+  last_data_column: "ZZ",
+  agg_des: dataElementsSheet3
+};
+
+const sheet4 = {
+  sheet_type: "AGGREGATE_STATIC_YES_ONLY",
+  sheet_no: 4,
   sheet_name: "Sourcetype",
   orgUnitIdScheme: "UID",
   dataElementIdScheme: "UID",
@@ -108,13 +120,13 @@ const sheet3 = {
   oucode_cell: "P2",
   year_cell: "I4",
   last_data_column: "ZZ",
-  agg_des: dataElementsSheet3
+  agg_des: dataElementsSheet4
 };
 
 const module2 = {
   name: "Module 2 Template",
   file: "NHWA_Module_2.xlsx",
-  sheets: [sheet1, sheet2, sheet3]
+  sheets: [sheet1, sheet2, sheet4]
 };
 
 JSON.stringify(module2);

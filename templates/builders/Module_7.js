@@ -2,7 +2,7 @@
 // You can run it in the Chrome Development Console and retrieve the results in JSON
 
 const rawMetadata = await (await fetch(
-  "/api/dataSets/ZRsZdd2AvAR/metadata.json"
+  "https://extranet.who.int/dhis2-dev/api/dataSets/ZRsZdd2AvAR/metadata.json"
 )).json();
 
 const metadata = new Map();
@@ -10,23 +10,19 @@ const metadata = new Map();
 const customRows = [
   {
     row: 8,
-    nrOfElements: 1
+    nrOfElements: 3
   },
   {
     row: 12,
-    nrOfElements: 3
+    nrOfElements: 1
   },
   {
     row: 16,
-    nrOfElements: 3
+    nrOfElements: 4
   },
   {
     row: 20,
     nrOfElements: 3
-  },
-  {
-    row: 24,
-    nrOfElements: 4
   }
 ];
 
@@ -60,7 +56,7 @@ function getDataElements(
 
 function getDataElementsCustomRows(
   tabSelector,
-  letters,
+  availableLetters,
   rows,
   type = "entryfield"
 ) {
@@ -74,6 +70,7 @@ function getDataElementsCustomRows(
       let field = entryfields[elementCount + i];
       let id = field.getAttribute("id");
       let data = id.split("-");
+      let letters = availableLetters.slice(-row.nrOfElements);
       fields.push({
         deuid: data[0],
         cocuid: data[1],

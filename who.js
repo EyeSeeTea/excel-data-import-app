@@ -20989,7 +20989,7 @@ var whoTemplate = {
                             cell_no: "D8",
                             total: false,
                             name:
-                                "Applications in HWF Education and Training centers Medical Doctors"
+                                "NHWA_Applications in HWF Education and Training centers Medical Doctors"
                         },
                         {
                             deuid: "HVOexl8T1Tv",
@@ -20997,7 +20997,7 @@ var whoTemplate = {
                             cell_no: "E8",
                             total: false,
                             name:
-                                "Male applications in HWF Education and Training centers Medical Doctors"
+                                "NHWA_Male applications in HWF Education and Training centers Medical Doctors"
                         },
                         {
                             deuid: "ljMIY6HvkD6",
@@ -21005,7 +21005,7 @@ var whoTemplate = {
                             cell_no: "F8",
                             total: false,
                             name:
-                                "Female applications in HWF Education and Training centers Medical Doctors"
+                                "NHWA_Female applications in HWF Education and Training centers Medical Doctors"
                         },
                         {
                             deuid: "Ca8zQsc1xjC",
@@ -21013,7 +21013,7 @@ var whoTemplate = {
                             cell_no: "G8",
                             total: false,
                             name:
-                                "Admissions in HWF Education and Training centers Medical Doctors"
+                                "NHWA_Admissions in HWF Education and Training centers Medical Doctors"
                         },
                         {
                             deuid: "orhcprpuyDa",
@@ -21021,7 +21021,7 @@ var whoTemplate = {
                             cell_no: "H8",
                             total: false,
                             name:
-                                "Male admissions in HWF Education and Training centers Medical Doctors"
+                                "NHWA_Male admissions in HWF Education and Training centers Medical Doctors"
                         },
                         {
                             deuid: "xpBCkAdPXni",
@@ -21029,7 +21029,7 @@ var whoTemplate = {
                             cell_no: "I8",
                             total: false,
                             name:
-                                "Female admissions in HWF Education and Training centers Medical Doctors"
+                                "NHWA_Female admissions in HWF Education and Training centers Medical Doctors"
                         },
                         {
                             deuid: "dOdILuGzOCT",
@@ -21037,7 +21037,7 @@ var whoTemplate = {
                             cell_no: "J8",
                             total: false,
                             name:
-                                "Entrants in HWF Education and Training centers Medical Doctors"
+                                "NHWA_Entrants in HWF Education and Training centers Medical Doctors"
                         },
                         {
                             deuid: "OJIzrlkgQh8",
@@ -21045,7 +21045,7 @@ var whoTemplate = {
                             cell_no: "K8",
                             total: false,
                             name:
-                                "Male entrants in HWF Education and Training centers Medical Doctors"
+                                "NHWA_Male entrants in HWF Education and Training centers Medical Doctors"
                         },
                         {
                             deuid: "utIBHSRqgVj",
@@ -21053,7 +21053,7 @@ var whoTemplate = {
                             cell_no: "L8",
                             total: false,
                             name:
-                                "Female entrants in HWF Education and Training centers Medical Doctors"
+                                "NHWA_Female entrants in HWF Education and Training centers Medical Doctors"
                         },
                         {
                             deuid: "GZZ2BDHZX5w",
@@ -21061,7 +21061,7 @@ var whoTemplate = {
                             cell_no: "D9",
                             total: false,
                             name:
-                                "Applications in HWF Education and Training centers General Medical Practitioner"
+                                "NHWA_Applications in HWF Education and Training centers General Medical Practitioner"
                         },
                         {
                             deuid: "HVOexl8T1Tv",
@@ -21069,7 +21069,7 @@ var whoTemplate = {
                             cell_no: "E9",
                             total: false,
                             name:
-                                "Male applications in HWF Education and Training centers General Medical Practitioner"
+                                "NHWA_Male applications in HWF Education and Training centers General Medical Practitioner"
                         },
                         {
                             deuid: "ljMIY6HvkD6",
@@ -21077,7 +21077,7 @@ var whoTemplate = {
                             cell_no: "F9",
                             total: false,
                             name:
-                                "Female applications in HWF Education and Training centers General Medical Practitioner"
+                                "NHWA_Female applications in HWF Education and Training centers General Medical Practitioner"
                         },
                         {
                             deuid: "Ca8zQsc1xjC",
@@ -21085,7 +21085,7 @@ var whoTemplate = {
                             cell_no: "G9",
                             total: false,
                             name:
-                                "Admissions in HWF Education and Training centers General Medical Practitioner"
+                                "NHWA_Admissions in HWF Education and Training centers General Medical Practitioner"
                         },
                         {
                             deuid: "orhcprpuyDa",
@@ -21093,7 +21093,7 @@ var whoTemplate = {
                             cell_no: "H9",
                             total: false,
                             name:
-                                "Male admissions in HWF Education and Training centers General Medical Practitioner"
+                                "NHWA_Male admissions in HWF Education and Training centers General Medical Practitioner"
                         },
                         {
                             deuid: "xpBCkAdPXni",
@@ -21101,7 +21101,7 @@ var whoTemplate = {
                             cell_no: "I9",
                             total: false,
                             name:
-                                "Female admissions in HWF Education and Training centers General Medical Practitioner"
+                                "NHWA_Female admissions in HWF Education and Training centers General Medical Practitioner"
                         },
                         {
                             deuid: "dOdILuGzOCT",
@@ -21109,7 +21109,7 @@ var whoTemplate = {
                             cell_no: "J9",
                             total: false,
                             name:
-                                "Entrants in HWF Education and Training centers General Medical Practitioner"
+                                "NHWA_Entrants in HWF Education and Training centers General Medical Practitioner"
                         },
                         {
                             deuid: "OJIzrlkgQh8",
@@ -21117,7 +21117,7 @@ var whoTemplate = {
                             cell_no: "K9",
                             total: false,
                             name:
-                                "Male entrants in HWF Education and Training centers General Medical Practitioner"
+                                "NHWA_Male entrants in HWF Education and Training centers General Medical Practitioner"
                         },
                         {
                             deuid: "utIBHSRqgVj",
@@ -21125,7 +21125,7 @@ var whoTemplate = {
                             cell_no: "L9",
                             total: false,
                             name:
-                                "Female entrants in HWF Education and Training centers General Medical Practitioner"
+                                "NHWA_Female entrants in HWF Education and Training centers General Medical Practitioner"
                         },
                         {
                             deuid: "GZZ2BDHZX5w",
@@ -21133,7 +21133,7 @@ var whoTemplate = {
                             cell_no: "D10",
                             total: false,
                             name:
-                                "Applications in HWF Education and Training centers Specialist Medical Practitioner"
+                                "NHWA_Applications in HWF Education and Training centers Specialist Medical Practitioner"
                         },
                         {
                             deuid: "HVOexl8T1Tv",
@@ -21141,7 +21141,7 @@ var whoTemplate = {
                             cell_no: "E10",
                             total: false,
                             name:
-                                "Male applications in HWF Education and Training centers Specialist Medical Practitioner"
+                                "NHWA_Male applications in HWF Education and Training centers Specialist Medical Practitioner"
                         },
                         {
                             deuid: "ljMIY6HvkD6",
@@ -21149,7 +21149,7 @@ var whoTemplate = {
                             cell_no: "F10",
                             total: false,
                             name:
-                                "Female applications in HWF Education and Training centers Specialist Medical Practitioner"
+                                "NHWA_Female applications in HWF Education and Training centers Specialist Medical Practitioner"
                         },
                         {
                             deuid: "Ca8zQsc1xjC",
@@ -21157,7 +21157,7 @@ var whoTemplate = {
                             cell_no: "G10",
                             total: false,
                             name:
-                                "Admissions in HWF Education and Training centers Specialist Medical Practitioner"
+                                "NHWA_Admissions in HWF Education and Training centers Specialist Medical Practitioner"
                         },
                         {
                             deuid: "orhcprpuyDa",
@@ -21165,7 +21165,7 @@ var whoTemplate = {
                             cell_no: "H10",
                             total: false,
                             name:
-                                "Male admissions in HWF Education and Training centers Specialist Medical Practitioner"
+                                "NHWA_Male admissions in HWF Education and Training centers Specialist Medical Practitioner"
                         },
                         {
                             deuid: "xpBCkAdPXni",
@@ -21173,7 +21173,7 @@ var whoTemplate = {
                             cell_no: "I10",
                             total: false,
                             name:
-                                "Female admissions in HWF Education and Training centers Specialist Medical Practitioner"
+                                "NHWA_Female admissions in HWF Education and Training centers Specialist Medical Practitioner"
                         },
                         {
                             deuid: "dOdILuGzOCT",
@@ -21181,7 +21181,7 @@ var whoTemplate = {
                             cell_no: "J10",
                             total: false,
                             name:
-                                "Entrants in HWF Education and Training centers Specialist Medical Practitioner"
+                                "NHWA_Entrants in HWF Education and Training centers Specialist Medical Practitioner"
                         },
                         {
                             deuid: "OJIzrlkgQh8",
@@ -21189,7 +21189,7 @@ var whoTemplate = {
                             cell_no: "K10",
                             total: false,
                             name:
-                                "Male entrants in HWF Education and Training centers Specialist Medical Practitioner"
+                                "NHWA_Male entrants in HWF Education and Training centers Specialist Medical Practitioner"
                         },
                         {
                             deuid: "utIBHSRqgVj",
@@ -21197,7 +21197,7 @@ var whoTemplate = {
                             cell_no: "L10",
                             total: false,
                             name:
-                                "Female entrants in HWF Education and Training centers Specialist Medical Practitioner"
+                                "NHWA_Female entrants in HWF Education and Training centers Specialist Medical Practitioner"
                         },
                         {
                             deuid: "GZZ2BDHZX5w",
@@ -21205,7 +21205,7 @@ var whoTemplate = {
                             cell_no: "D11",
                             total: false,
                             name:
-                                "Applications in HWF Education and Training centers Nursing Professional"
+                                "NHWA_Applications in HWF Education and Training centers Nursing Professional"
                         },
                         {
                             deuid: "HVOexl8T1Tv",
@@ -21213,7 +21213,7 @@ var whoTemplate = {
                             cell_no: "E11",
                             total: false,
                             name:
-                                "Male applications in HWF Education and Training centers Nursing Professional"
+                                "NHWA_Male applications in HWF Education and Training centers Nursing Professional"
                         },
                         {
                             deuid: "ljMIY6HvkD6",
@@ -21221,7 +21221,7 @@ var whoTemplate = {
                             cell_no: "F11",
                             total: false,
                             name:
-                                "Female applications in HWF Education and Training centers Nursing Professional"
+                                "NHWA_Female applications in HWF Education and Training centers Nursing Professional"
                         },
                         {
                             deuid: "Ca8zQsc1xjC",
@@ -21229,7 +21229,7 @@ var whoTemplate = {
                             cell_no: "G11",
                             total: false,
                             name:
-                                "Admissions in HWF Education and Training centers Nursing Professional"
+                                "NHWA_Admissions in HWF Education and Training centers Nursing Professional"
                         },
                         {
                             deuid: "orhcprpuyDa",
@@ -21237,7 +21237,7 @@ var whoTemplate = {
                             cell_no: "H11",
                             total: false,
                             name:
-                                "Male admissions in HWF Education and Training centers Nursing Professional"
+                                "NHWA_Male admissions in HWF Education and Training centers Nursing Professional"
                         },
                         {
                             deuid: "xpBCkAdPXni",
@@ -21245,7 +21245,7 @@ var whoTemplate = {
                             cell_no: "I11",
                             total: false,
                             name:
-                                "Female admissions in HWF Education and Training centers Nursing Professional"
+                                "NHWA_Female admissions in HWF Education and Training centers Nursing Professional"
                         },
                         {
                             deuid: "dOdILuGzOCT",
@@ -21253,7 +21253,7 @@ var whoTemplate = {
                             cell_no: "J11",
                             total: false,
                             name:
-                                "Entrants in HWF Education and Training centers Nursing Professional"
+                                "NHWA_Entrants in HWF Education and Training centers Nursing Professional"
                         },
                         {
                             deuid: "OJIzrlkgQh8",
@@ -21261,7 +21261,7 @@ var whoTemplate = {
                             cell_no: "K11",
                             total: false,
                             name:
-                                "Male entrants in HWF Education and Training centers Nursing Professional"
+                                "NHWA_Male entrants in HWF Education and Training centers Nursing Professional"
                         },
                         {
                             deuid: "utIBHSRqgVj",
@@ -21269,7 +21269,7 @@ var whoTemplate = {
                             cell_no: "L11",
                             total: false,
                             name:
-                                "Female entrants in HWF Education and Training centers Nursing Professional"
+                                "NHWA_Female entrants in HWF Education and Training centers Nursing Professional"
                         },
                         {
                             deuid: "GZZ2BDHZX5w",
@@ -21277,7 +21277,7 @@ var whoTemplate = {
                             cell_no: "D12",
                             total: false,
                             name:
-                                "Applications in HWF Education and Training centers Midwifery Professional"
+                                "NHWA_Applications in HWF Education and Training centers Midwifery Professional"
                         },
                         {
                             deuid: "HVOexl8T1Tv",
@@ -21285,7 +21285,7 @@ var whoTemplate = {
                             cell_no: "E12",
                             total: false,
                             name:
-                                "Male applications in HWF Education and Training centers Midwifery Professional"
+                                "NHWA_Male applications in HWF Education and Training centers Midwifery Professional"
                         },
                         {
                             deuid: "ljMIY6HvkD6",
@@ -21293,7 +21293,7 @@ var whoTemplate = {
                             cell_no: "F12",
                             total: false,
                             name:
-                                "Female applications in HWF Education and Training centers Midwifery Professional"
+                                "NHWA_Female applications in HWF Education and Training centers Midwifery Professional"
                         },
                         {
                             deuid: "Ca8zQsc1xjC",
@@ -21301,7 +21301,7 @@ var whoTemplate = {
                             cell_no: "G12",
                             total: false,
                             name:
-                                "Admissions in HWF Education and Training centers Midwifery Professional"
+                                "NHWA_Admissions in HWF Education and Training centers Midwifery Professional"
                         },
                         {
                             deuid: "orhcprpuyDa",
@@ -21309,7 +21309,7 @@ var whoTemplate = {
                             cell_no: "H12",
                             total: false,
                             name:
-                                "Male admissions in HWF Education and Training centers Midwifery Professional"
+                                "NHWA_Male admissions in HWF Education and Training centers Midwifery Professional"
                         },
                         {
                             deuid: "xpBCkAdPXni",
@@ -21317,7 +21317,7 @@ var whoTemplate = {
                             cell_no: "I12",
                             total: false,
                             name:
-                                "Female admissions in HWF Education and Training centers Midwifery Professional"
+                                "NHWA_Female admissions in HWF Education and Training centers Midwifery Professional"
                         },
                         {
                             deuid: "dOdILuGzOCT",
@@ -21325,7 +21325,7 @@ var whoTemplate = {
                             cell_no: "J12",
                             total: false,
                             name:
-                                "Entrants in HWF Education and Training centers Midwifery Professional"
+                                "NHWA_Entrants in HWF Education and Training centers Midwifery Professional"
                         },
                         {
                             deuid: "OJIzrlkgQh8",
@@ -21333,7 +21333,7 @@ var whoTemplate = {
                             cell_no: "K12",
                             total: false,
                             name:
-                                "Male entrants in HWF Education and Training centers Midwifery Professional"
+                                "NHWA_Male entrants in HWF Education and Training centers Midwifery Professional"
                         },
                         {
                             deuid: "utIBHSRqgVj",
@@ -21341,7 +21341,7 @@ var whoTemplate = {
                             cell_no: "L12",
                             total: false,
                             name:
-                                "Female entrants in HWF Education and Training centers Midwifery Professional"
+                                "NHWA_Female entrants in HWF Education and Training centers Midwifery Professional"
                         },
                         {
                             deuid: "GZZ2BDHZX5w",
@@ -21349,7 +21349,7 @@ var whoTemplate = {
                             cell_no: "D13",
                             total: false,
                             name:
-                                "Applications in HWF Education and Training centers Dentist"
+                                "NHWA_Applications in HWF Education and Training centers Dentist"
                         },
                         {
                             deuid: "HVOexl8T1Tv",
@@ -21357,7 +21357,7 @@ var whoTemplate = {
                             cell_no: "E13",
                             total: false,
                             name:
-                                "Male applications in HWF Education and Training centers Dentist"
+                                "NHWA_Male applications in HWF Education and Training centers Dentist"
                         },
                         {
                             deuid: "ljMIY6HvkD6",
@@ -21365,7 +21365,7 @@ var whoTemplate = {
                             cell_no: "F13",
                             total: false,
                             name:
-                                "Female applications in HWF Education and Training centers Dentist"
+                                "NHWA_Female applications in HWF Education and Training centers Dentist"
                         },
                         {
                             deuid: "Ca8zQsc1xjC",
@@ -21373,7 +21373,7 @@ var whoTemplate = {
                             cell_no: "G13",
                             total: false,
                             name:
-                                "Admissions in HWF Education and Training centers Dentist"
+                                "NHWA_Admissions in HWF Education and Training centers Dentist"
                         },
                         {
                             deuid: "orhcprpuyDa",
@@ -21381,7 +21381,7 @@ var whoTemplate = {
                             cell_no: "H13",
                             total: false,
                             name:
-                                "Male admissions in HWF Education and Training centers Dentist"
+                                "NHWA_Male admissions in HWF Education and Training centers Dentist"
                         },
                         {
                             deuid: "xpBCkAdPXni",
@@ -21389,7 +21389,7 @@ var whoTemplate = {
                             cell_no: "I13",
                             total: false,
                             name:
-                                "Female admissions in HWF Education and Training centers Dentist"
+                                "NHWA_Female admissions in HWF Education and Training centers Dentist"
                         },
                         {
                             deuid: "dOdILuGzOCT",
@@ -21397,7 +21397,7 @@ var whoTemplate = {
                             cell_no: "J13",
                             total: false,
                             name:
-                                "Entrants in HWF Education and Training centers Dentist"
+                                "NHWA_Entrants in HWF Education and Training centers Dentist"
                         },
                         {
                             deuid: "OJIzrlkgQh8",
@@ -21405,7 +21405,7 @@ var whoTemplate = {
                             cell_no: "K13",
                             total: false,
                             name:
-                                "Male entrants in HWF Education and Training centers Dentist"
+                                "NHWA_Male entrants in HWF Education and Training centers Dentist"
                         },
                         {
                             deuid: "utIBHSRqgVj",
@@ -21413,7 +21413,7 @@ var whoTemplate = {
                             cell_no: "L13",
                             total: false,
                             name:
-                                "Female entrants in HWF Education and Training centers Dentist"
+                                "NHWA_Female entrants in HWF Education and Training centers Dentist"
                         },
                         {
                             deuid: "GZZ2BDHZX5w",
@@ -21421,7 +21421,7 @@ var whoTemplate = {
                             cell_no: "D14",
                             total: false,
                             name:
-                                "Applications in HWF Education and Training centers Pharmacist"
+                                "NHWA_Applications in HWF Education and Training centers Pharmacist"
                         },
                         {
                             deuid: "HVOexl8T1Tv",
@@ -21429,7 +21429,7 @@ var whoTemplate = {
                             cell_no: "E14",
                             total: false,
                             name:
-                                "Male applications in HWF Education and Training centers Pharmacist"
+                                "NHWA_Male applications in HWF Education and Training centers Pharmacist"
                         },
                         {
                             deuid: "ljMIY6HvkD6",
@@ -21437,7 +21437,7 @@ var whoTemplate = {
                             cell_no: "F14",
                             total: false,
                             name:
-                                "Female applications in HWF Education and Training centers Pharmacist"
+                                "NHWA_Female applications in HWF Education and Training centers Pharmacist"
                         },
                         {
                             deuid: "Ca8zQsc1xjC",
@@ -21445,7 +21445,7 @@ var whoTemplate = {
                             cell_no: "G14",
                             total: false,
                             name:
-                                "Admissions in HWF Education and Training centers Pharmacist"
+                                "NHWA_Admissions in HWF Education and Training centers Pharmacist"
                         },
                         {
                             deuid: "orhcprpuyDa",
@@ -21453,7 +21453,7 @@ var whoTemplate = {
                             cell_no: "H14",
                             total: false,
                             name:
-                                "Male admissions in HWF Education and Training centers Pharmacist"
+                                "NHWA_Male admissions in HWF Education and Training centers Pharmacist"
                         },
                         {
                             deuid: "xpBCkAdPXni",
@@ -21461,7 +21461,7 @@ var whoTemplate = {
                             cell_no: "I14",
                             total: false,
                             name:
-                                "Female admissions in HWF Education and Training centers Pharmacist"
+                                "NHWA_Female admissions in HWF Education and Training centers Pharmacist"
                         },
                         {
                             deuid: "dOdILuGzOCT",
@@ -21469,7 +21469,7 @@ var whoTemplate = {
                             cell_no: "J14",
                             total: false,
                             name:
-                                "Entrants in HWF Education and Training centers Pharmacist"
+                                "NHWA_Entrants in HWF Education and Training centers Pharmacist"
                         },
                         {
                             deuid: "OJIzrlkgQh8",
@@ -21477,7 +21477,7 @@ var whoTemplate = {
                             cell_no: "K14",
                             total: false,
                             name:
-                                "Male entrants in HWF Education and Training centers Pharmacist"
+                                "NHWA_Male entrants in HWF Education and Training centers Pharmacist"
                         },
                         {
                             deuid: "utIBHSRqgVj",
@@ -21485,673 +21485,858 @@ var whoTemplate = {
                             cell_no: "L14",
                             total: false,
                             name:
-                                "Female entrants in HWF Education and Training centers Pharmacist"
+                                "NHWA_Female entrants in HWF Education and Training centers Pharmacist"
                         }
                     ]
                 },
                 {
                     sheet_type: "AGGREGATE_STATIC",
                     sheet_no: 2,
-                    sheet_name: "Input",
+                    sheet_name: "Output",
                     orgUnitIdScheme: "UID",
                     dataElementIdScheme: "UID",
                     idScheme: "UID",
                     oucode_cell: "P2",
-                    year_cell: "L4",
+                    year_cell: "K4",
                     last_data_column: "ZZ",
                     agg_des: [
                         {
                             deuid: "W3hjWF2zAkt",
-                            cocuid: "aBpbcEgtzgw",
-                            cell_no: "D12",
+                            cocuid: "woIm3nuS3mM",
+                            cell_no: "D8",
                             total: false,
                             name:
-                                "Graduates in HWF Education and Training centers Medical Doctors"
+                                "NHWA_Graduates in HWF Education and Training centers Medical Doctors"
                         },
                         {
                             deuid: "b5Y5ttOan5u",
-                            cocuid: "aBpbcEgtzgw",
-                            cell_no: "E12",
+                            cocuid: "woIm3nuS3mM",
+                            cell_no: "E8",
                             total: false,
                             name:
-                                "Male graduates in HWF Education and Training centers Medical Doctors"
+                                "NHWA_Male graduates in HWF Education and Training centers Medical Doctors"
                         },
                         {
                             deuid: "d9aRkLridyB",
-                            cocuid: "aBpbcEgtzgw",
-                            cell_no: "F12",
-                            total: false,
-                            name:
-                                "Female graduates in HWF Education and Training centers Medical Doctors"
-                        },
-                        {
-                            deuid: "h0MrvKyI3Nk",
-                            cocuid: "aBpbcEgtzgw",
-                            cell_no: "G12",
-                            total: false,
-                            name:
-                                "Public graduates in HWF Education and Training centers Medical Doctors"
-                        },
-                        {
-                            deuid: "bXegTxbu4XB",
-                            cocuid: "aBpbcEgtzgw",
-                            cell_no: "H12",
-                            total: false,
-                            name:
-                                "Private graduates in HWF Education and Training centers Medical Doctors"
-                        },
-                        {
-                            deuid: "GAikjDurEiF",
-                            cocuid: "aBpbcEgtzgw",
-                            cell_no: "I12",
-                            total: false,
-                            name:
-                                "Drop-outs in HWF Education and Training centers Medical Doctors"
-                        },
-                        {
-                            deuid: "GrRfteXDhyS",
-                            cocuid: "aBpbcEgtzgw",
-                            cell_no: "J12",
-                            total: false,
-                            name:
-                                "Male drop-outs in HWF Education and Training centers Medical Doctors"
-                        },
-                        {
-                            deuid: "f9lz93NUbMQ",
-                            cocuid: "aBpbcEgtzgw",
-                            cell_no: "K12",
-                            total: false,
-                            name:
-                                "Female drop-outs in HWF Education and Training centers Medical Doctors"
-                        },
-                        {
-                            deuid: "W3hjWF2zAkt",
-                            cocuid: "LHbCtHlZr3Y",
-                            cell_no: "D13",
-                            total: false,
-                            name:
-                                "Graduates in HWF Education and Training centers General Medical Practitioner"
-                        },
-                        {
-                            deuid: "b5Y5ttOan5u",
-                            cocuid: "LHbCtHlZr3Y",
-                            cell_no: "E13",
-                            total: false,
-                            name:
-                                "Male graduates in HWF Education and Training centers General Medical Practitioner"
-                        },
-                        {
-                            deuid: "d9aRkLridyB",
-                            cocuid: "LHbCtHlZr3Y",
-                            cell_no: "F13",
-                            total: false,
-                            name:
-                                "Female graduates in HWF Education and Training centers General Medical Practitioner"
-                        },
-                        {
-                            deuid: "h0MrvKyI3Nk",
-                            cocuid: "LHbCtHlZr3Y",
-                            cell_no: "G13",
-                            total: false,
-                            name:
-                                "Public graduates in HWF Education and Training centers General Medical Practitioner"
-                        },
-                        {
-                            deuid: "bXegTxbu4XB",
-                            cocuid: "LHbCtHlZr3Y",
-                            cell_no: "H13",
-                            total: false,
-                            name:
-                                "Private graduates in HWF Education and Training centers General Medical Practitioner"
-                        },
-                        {
-                            deuid: "GAikjDurEiF",
-                            cocuid: "LHbCtHlZr3Y",
-                            cell_no: "I13",
-                            total: false,
-                            name:
-                                "Drop-outs in HWF Education and Training centers General Medical Practitioner"
-                        },
-                        {
-                            deuid: "GrRfteXDhyS",
-                            cocuid: "LHbCtHlZr3Y",
-                            cell_no: "J13",
-                            total: false,
-                            name:
-                                "Male drop-outs in HWF Education and Training centers General Medical Practitioner"
-                        },
-                        {
-                            deuid: "f9lz93NUbMQ",
-                            cocuid: "LHbCtHlZr3Y",
-                            cell_no: "K13",
-                            total: false,
-                            name:
-                                "Female drop-outs in HWF Education and Training centers General Medical Practitioner"
-                        },
-                        {
-                            deuid: "W3hjWF2zAkt",
-                            cocuid: "VtVkbvygJnm",
-                            cell_no: "D14",
-                            total: false,
-                            name:
-                                "Graduates in HWF Education and Training centers Specialist Medical Practitioner"
-                        },
-                        {
-                            deuid: "b5Y5ttOan5u",
-                            cocuid: "VtVkbvygJnm",
-                            cell_no: "E14",
-                            total: false,
-                            name:
-                                "Male graduates in HWF Education and Training centers Specialist Medical Practitioner"
-                        },
-                        {
-                            deuid: "d9aRkLridyB",
-                            cocuid: "VtVkbvygJnm",
-                            cell_no: "F14",
-                            total: false,
-                            name:
-                                "Female graduates in HWF Education and Training centers Specialist Medical Practitioner"
-                        },
-                        {
-                            deuid: "h0MrvKyI3Nk",
-                            cocuid: "VtVkbvygJnm",
-                            cell_no: "G14",
-                            total: false,
-                            name:
-                                "Public graduates in HWF Education and Training centers Specialist Medical Practitioner"
-                        },
-                        {
-                            deuid: "bXegTxbu4XB",
-                            cocuid: "VtVkbvygJnm",
-                            cell_no: "H14",
-                            total: false,
-                            name:
-                                "Private graduates in HWF Education and Training centers Specialist Medical Practitioner"
-                        },
-                        {
-                            deuid: "GAikjDurEiF",
-                            cocuid: "VtVkbvygJnm",
-                            cell_no: "I14",
-                            total: false,
-                            name:
-                                "Drop-outs in HWF Education and Training centers Specialist Medical Practitioner"
-                        },
-                        {
-                            deuid: "GrRfteXDhyS",
-                            cocuid: "VtVkbvygJnm",
-                            cell_no: "J14",
-                            total: false,
-                            name:
-                                "Male drop-outs in HWF Education and Training centers Specialist Medical Practitioner"
-                        },
-                        {
-                            deuid: "f9lz93NUbMQ",
-                            cocuid: "VtVkbvygJnm",
-                            cell_no: "K14",
-                            total: false,
-                            name:
-                                "Female drop-outs in HWF Education and Training centers Specialist Medical Practitioner"
-                        },
-                        {
-                            deuid: "W3hjWF2zAkt",
-                            cocuid: "fGOgbIqsxDn",
-                            cell_no: "D15",
-                            total: false,
-                            name:
-                                "Graduates in HWF Education and Training centers Nursing Professional"
-                        },
-                        {
-                            deuid: "b5Y5ttOan5u",
-                            cocuid: "fGOgbIqsxDn",
-                            cell_no: "E15",
-                            total: false,
-                            name:
-                                "Male graduates in HWF Education and Training centers Nursing Professional"
-                        },
-                        {
-                            deuid: "d9aRkLridyB",
-                            cocuid: "fGOgbIqsxDn",
-                            cell_no: "F15",
-                            total: false,
-                            name:
-                                "Female graduates in HWF Education and Training centers Nursing Professional"
-                        },
-                        {
-                            deuid: "h0MrvKyI3Nk",
-                            cocuid: "fGOgbIqsxDn",
-                            cell_no: "G15",
-                            total: false,
-                            name:
-                                "Public graduates in HWF Education and Training centers Nursing Professional"
-                        },
-                        {
-                            deuid: "bXegTxbu4XB",
-                            cocuid: "fGOgbIqsxDn",
-                            cell_no: "H15",
-                            total: false,
-                            name:
-                                "Private graduates in HWF Education and Training centers Nursing Professional"
-                        },
-                        {
-                            deuid: "GAikjDurEiF",
-                            cocuid: "fGOgbIqsxDn",
-                            cell_no: "I15",
-                            total: false,
-                            name:
-                                "Drop-outs in HWF Education and Training centers Nursing Professional"
-                        },
-                        {
-                            deuid: "GrRfteXDhyS",
-                            cocuid: "fGOgbIqsxDn",
-                            cell_no: "J15",
-                            total: false,
-                            name:
-                                "Male drop-outs in HWF Education and Training centers Nursing Professional"
-                        },
-                        {
-                            deuid: "f9lz93NUbMQ",
-                            cocuid: "fGOgbIqsxDn",
-                            cell_no: "K15",
-                            total: false,
-                            name:
-                                "Female drop-outs in HWF Education and Training centers Nursing Professional"
-                        },
-                        {
-                            deuid: "W3hjWF2zAkt",
-                            cocuid: "MPzyVWiSFF2",
-                            cell_no: "D16",
-                            total: false,
-                            name:
-                                "Graduates in HWF Education and Training centers Midwifery Professional"
-                        },
-                        {
-                            deuid: "b5Y5ttOan5u",
-                            cocuid: "MPzyVWiSFF2",
-                            cell_no: "E16",
-                            total: false,
-                            name:
-                                "Male graduates in HWF Education and Training centers Midwifery Professional"
-                        },
-                        {
-                            deuid: "d9aRkLridyB",
-                            cocuid: "MPzyVWiSFF2",
-                            cell_no: "F16",
-                            total: false,
-                            name:
-                                "Female graduates in HWF Education and Training centers Midwifery Professional"
-                        },
-                        {
-                            deuid: "h0MrvKyI3Nk",
-                            cocuid: "MPzyVWiSFF2",
-                            cell_no: "G16",
-                            total: false,
-                            name:
-                                "Public graduates in HWF Education and Training centers Midwifery Professional"
-                        },
-                        {
-                            deuid: "bXegTxbu4XB",
-                            cocuid: "MPzyVWiSFF2",
-                            cell_no: "H16",
-                            total: false,
-                            name:
-                                "Private graduates in HWF Education and Training centers Midwifery Professional"
-                        },
-                        {
-                            deuid: "GAikjDurEiF",
-                            cocuid: "MPzyVWiSFF2",
-                            cell_no: "I16",
-                            total: false,
-                            name:
-                                "Drop-outs in HWF Education and Training centers Midwifery Professional"
-                        },
-                        {
-                            deuid: "GrRfteXDhyS",
-                            cocuid: "MPzyVWiSFF2",
-                            cell_no: "J16",
-                            total: false,
-                            name:
-                                "Male drop-outs in HWF Education and Training centers Midwifery Professional"
-                        },
-                        {
-                            deuid: "f9lz93NUbMQ",
-                            cocuid: "MPzyVWiSFF2",
-                            cell_no: "K16",
-                            total: false,
-                            name:
-                                "Female drop-outs in HWF Education and Training centers Midwifery Professional"
-                        },
-                        {
-                            deuid: "W3hjWF2zAkt",
-                            cocuid: "ALBRKpJsddQ",
-                            cell_no: "D17",
-                            total: false,
-                            name:
-                                "Graduates in HWF Education and Training centers Dentist"
-                        },
-                        {
-                            deuid: "b5Y5ttOan5u",
-                            cocuid: "ALBRKpJsddQ",
-                            cell_no: "E17",
-                            total: false,
-                            name:
-                                "Male graduates in HWF Education and Training centers Dentist"
-                        },
-                        {
-                            deuid: "d9aRkLridyB",
-                            cocuid: "ALBRKpJsddQ",
-                            cell_no: "F17",
-                            total: false,
-                            name:
-                                "Female graduates in HWF Education and Training centers Dentist"
-                        },
-                        {
-                            deuid: "h0MrvKyI3Nk",
-                            cocuid: "ALBRKpJsddQ",
-                            cell_no: "G17",
-                            total: false,
-                            name:
-                                "Public graduates in HWF Education and Training centers Dentist"
-                        },
-                        {
-                            deuid: "bXegTxbu4XB",
-                            cocuid: "ALBRKpJsddQ",
-                            cell_no: "H17",
-                            total: false,
-                            name:
-                                "Private graduates in HWF Education and Training centers Dentist"
-                        },
-                        {
-                            deuid: "GAikjDurEiF",
-                            cocuid: "ALBRKpJsddQ",
-                            cell_no: "I17",
-                            total: false,
-                            name:
-                                "Drop-outs in HWF Education and Training centers Dentist"
-                        },
-                        {
-                            deuid: "GrRfteXDhyS",
-                            cocuid: "ALBRKpJsddQ",
-                            cell_no: "J17",
-                            total: false,
-                            name:
-                                "Male drop-outs in HWF Education and Training centers Dentist"
-                        },
-                        {
-                            deuid: "f9lz93NUbMQ",
-                            cocuid: "ALBRKpJsddQ",
-                            cell_no: "K17",
-                            total: false,
-                            name:
-                                "Female drop-outs in HWF Education and Training centers Dentist"
-                        },
-                        {
-                            deuid: "W3hjWF2zAkt",
-                            cocuid: "iWRW6jXAzvP",
-                            cell_no: "D18",
-                            total: false,
-                            name:
-                                "Graduates in HWF Education and Training centers Pharmacist"
-                        },
-                        {
-                            deuid: "b5Y5ttOan5u",
-                            cocuid: "iWRW6jXAzvP",
-                            cell_no: "E18",
-                            total: false,
-                            name:
-                                "Male graduates in HWF Education and Training centers Pharmacist"
-                        },
-                        {
-                            deuid: "d9aRkLridyB",
-                            cocuid: "iWRW6jXAzvP",
-                            cell_no: "F18",
-                            total: false,
-                            name:
-                                "Female graduates in HWF Education and Training centers Pharmacist"
-                        },
-                        {
-                            deuid: "h0MrvKyI3Nk",
-                            cocuid: "iWRW6jXAzvP",
-                            cell_no: "G18",
-                            total: false,
-                            name:
-                                "Public graduates in HWF Education and Training centers Pharmacist"
-                        },
-                        {
-                            deuid: "bXegTxbu4XB",
-                            cocuid: "iWRW6jXAzvP",
-                            cell_no: "H18",
-                            total: false,
-                            name:
-                                "Private graduates in HWF Education and Training centers Pharmacist"
-                        },
-                        {
-                            deuid: "GAikjDurEiF",
-                            cocuid: "iWRW6jXAzvP",
-                            cell_no: "I18",
-                            total: false,
-                            name:
-                                "Drop-outs in HWF Education and Training centers Pharmacist"
-                        },
-                        {
-                            deuid: "GrRfteXDhyS",
-                            cocuid: "iWRW6jXAzvP",
-                            cell_no: "J18",
-                            total: false,
-                            name:
-                                "Male drop-outs in HWF Education and Training centers Pharmacist"
-                        },
-                        {
-                            deuid: "f9lz93NUbMQ",
-                            cocuid: "iWRW6jXAzvP",
-                            cell_no: "K18",
-                            total: false,
-                            name:
-                                "Female drop-outs in HWF Education and Training centers Pharmacist"
-                        },
-                        {
-                            deuid: "EtX7FWQ8HOf",
-                            cocuid: "I93t0K7b1oN",
-                            cell_no: "R6",
-                            total: false,
-                            name:
-                                "Number of Accredited education institutions up to date and available in the public domain Yes"
-                        },
-                        {
-                            deuid: "EtX7FWQ8HOf",
-                            cocuid: "Xgr3PJxcWfJ",
-                            cell_no: "S6",
-                            total: false,
-                            name:
-                                "Number of Accredited education institutions up to date and available in the public domain Partial"
-                        },
-                        {
-                            deuid: "EtX7FWQ8HOf",
-                            cocuid: "Y7EAGQA1bfv",
-                            cell_no: "T6",
-                            total: false,
-                            name:
-                                "Number of Accredited education institutions up to date and available in the public domain No"
-                        },
-                        {
-                            deuid: "aAuKVcYFTB8",
-                            cocuid: "Xr12mI7VPn3",
+                            cocuid: "woIm3nuS3mM",
                             cell_no: "F8",
                             total: false,
                             name:
-                                "Comment of Number of Accredited education institutions up to date and available in the public domain default"
+                                "NHWA_Female graduates in HWF Education and Training centers Medical Doctors"
                         },
                         {
-                            deuid: "AeURkaiQxjy",
-                            cocuid: "aBpbcEgtzgw",
+                            deuid: "h0MrvKyI3Nk",
+                            cocuid: "woIm3nuS3mM",
+                            cell_no: "G8",
+                            total: false,
+                            name:
+                                "NHWA_Public graduates in HWF Education and Training centers Medical Doctors"
+                        },
+                        {
+                            deuid: "bXegTxbu4XB",
+                            cocuid: "woIm3nuS3mM",
+                            cell_no: "H8",
+                            total: false,
+                            name:
+                                "NHWA_Private graduates in HWF Education and Training centers Medical Doctors"
+                        },
+                        {
+                            deuid: "GAikjDurEiF",
+                            cocuid: "woIm3nuS3mM",
+                            cell_no: "I8",
+                            total: false,
+                            name:
+                                "NHWA_Drop-outs in HWF Education and Training centers Medical Doctors"
+                        },
+                        {
+                            deuid: "GrRfteXDhyS",
+                            cocuid: "woIm3nuS3mM",
+                            cell_no: "J8",
+                            total: false,
+                            name:
+                                "NHWA_Male drop-outs in HWF Education and Training centers Medical Doctors"
+                        },
+                        {
+                            deuid: "f9lz93NUbMQ",
+                            cocuid: "woIm3nuS3mM",
+                            cell_no: "K8",
+                            total: false,
+                            name:
+                                "NHWA_Female drop-outs in HWF Education and Training centers Medical Doctors"
+                        },
+                        {
+                            deuid: "W3hjWF2zAkt",
+                            cocuid: "Eh8fZEewQLs",
+                            cell_no: "D9",
+                            total: false,
+                            name:
+                                "NHWA_Graduates in HWF Education and Training centers General Medical Practitioner"
+                        },
+                        {
+                            deuid: "b5Y5ttOan5u",
+                            cocuid: "Eh8fZEewQLs",
+                            cell_no: "E9",
+                            total: false,
+                            name:
+                                "NHWA_Male graduates in HWF Education and Training centers General Medical Practitioner"
+                        },
+                        {
+                            deuid: "d9aRkLridyB",
+                            cocuid: "Eh8fZEewQLs",
+                            cell_no: "F9",
+                            total: false,
+                            name:
+                                "NHWA_Female graduates in HWF Education and Training centers General Medical Practitioner"
+                        },
+                        {
+                            deuid: "h0MrvKyI3Nk",
+                            cocuid: "Eh8fZEewQLs",
+                            cell_no: "G9",
+                            total: false,
+                            name:
+                                "NHWA_Public graduates in HWF Education and Training centers General Medical Practitioner"
+                        },
+                        {
+                            deuid: "bXegTxbu4XB",
+                            cocuid: "Eh8fZEewQLs",
+                            cell_no: "H9",
+                            total: false,
+                            name:
+                                "NHWA_Private graduates in HWF Education and Training centers General Medical Practitioner"
+                        },
+                        {
+                            deuid: "GAikjDurEiF",
+                            cocuid: "Eh8fZEewQLs",
+                            cell_no: "I9",
+                            total: false,
+                            name:
+                                "NHWA_Drop-outs in HWF Education and Training centers General Medical Practitioner"
+                        },
+                        {
+                            deuid: "GrRfteXDhyS",
+                            cocuid: "Eh8fZEewQLs",
+                            cell_no: "J9",
+                            total: false,
+                            name:
+                                "NHWA_Male drop-outs in HWF Education and Training centers General Medical Practitioner"
+                        },
+                        {
+                            deuid: "f9lz93NUbMQ",
+                            cocuid: "Eh8fZEewQLs",
+                            cell_no: "K9",
+                            total: false,
+                            name:
+                                "NHWA_Female drop-outs in HWF Education and Training centers General Medical Practitioner"
+                        },
+                        {
+                            deuid: "W3hjWF2zAkt",
+                            cocuid: "Rr4F4xljMoJ",
+                            cell_no: "D10",
+                            total: false,
+                            name:
+                                "NHWA_Graduates in HWF Education and Training centers Specialist Medical Practitioner"
+                        },
+                        {
+                            deuid: "b5Y5ttOan5u",
+                            cocuid: "Rr4F4xljMoJ",
+                            cell_no: "E10",
+                            total: false,
+                            name:
+                                "NHWA_Male graduates in HWF Education and Training centers Specialist Medical Practitioner"
+                        },
+                        {
+                            deuid: "d9aRkLridyB",
+                            cocuid: "Rr4F4xljMoJ",
+                            cell_no: "F10",
+                            total: false,
+                            name:
+                                "NHWA_Female graduates in HWF Education and Training centers Specialist Medical Practitioner"
+                        },
+                        {
+                            deuid: "h0MrvKyI3Nk",
+                            cocuid: "Rr4F4xljMoJ",
+                            cell_no: "G10",
+                            total: false,
+                            name:
+                                "NHWA_Public graduates in HWF Education and Training centers Specialist Medical Practitioner"
+                        },
+                        {
+                            deuid: "bXegTxbu4XB",
+                            cocuid: "Rr4F4xljMoJ",
+                            cell_no: "H10",
+                            total: false,
+                            name:
+                                "NHWA_Private graduates in HWF Education and Training centers Specialist Medical Practitioner"
+                        },
+                        {
+                            deuid: "GAikjDurEiF",
+                            cocuid: "Rr4F4xljMoJ",
+                            cell_no: "I10",
+                            total: false,
+                            name:
+                                "NHWA_Drop-outs in HWF Education and Training centers Specialist Medical Practitioner"
+                        },
+                        {
+                            deuid: "GrRfteXDhyS",
+                            cocuid: "Rr4F4xljMoJ",
+                            cell_no: "J10",
+                            total: false,
+                            name:
+                                "NHWA_Male drop-outs in HWF Education and Training centers Specialist Medical Practitioner"
+                        },
+                        {
+                            deuid: "f9lz93NUbMQ",
+                            cocuid: "Rr4F4xljMoJ",
+                            cell_no: "K10",
+                            total: false,
+                            name:
+                                "NHWA_Female drop-outs in HWF Education and Training centers Specialist Medical Practitioner"
+                        },
+                        {
+                            deuid: "W3hjWF2zAkt",
+                            cocuid: "p7nN8h3drrz",
+                            cell_no: "D11",
+                            total: false,
+                            name:
+                                "NHWA_Graduates in HWF Education and Training centers General Paediatricians Practitioner"
+                        },
+                        {
+                            deuid: "b5Y5ttOan5u",
+                            cocuid: "p7nN8h3drrz",
+                            cell_no: "E11",
+                            total: false,
+                            name:
+                                "NHWA_Male graduates in HWF Education and Training centers General Paediatricians Practitioner"
+                        },
+                        {
+                            deuid: "d9aRkLridyB",
+                            cocuid: "p7nN8h3drrz",
+                            cell_no: "F11",
+                            total: false,
+                            name:
+                                "NHWA_Female graduates in HWF Education and Training centers General Paediatricians Practitioner"
+                        },
+                        {
+                            deuid: "h0MrvKyI3Nk",
+                            cocuid: "p7nN8h3drrz",
+                            cell_no: "G11",
+                            total: false,
+                            name:
+                                "NHWA_Public graduates in HWF Education and Training centers General Paediatricians Practitioner"
+                        },
+                        {
+                            deuid: "bXegTxbu4XB",
+                            cocuid: "p7nN8h3drrz",
+                            cell_no: "H11",
+                            total: false,
+                            name:
+                                "NHWA_Private graduates in HWF Education and Training centers General Paediatricians Practitioner"
+                        },
+                        {
+                            deuid: "GAikjDurEiF",
+                            cocuid: "p7nN8h3drrz",
+                            cell_no: "I11",
+                            total: false,
+                            name:
+                                "NHWA_Drop-outs in HWF Education and Training centers General Paediatricians Practitioner"
+                        },
+                        {
+                            deuid: "GrRfteXDhyS",
+                            cocuid: "p7nN8h3drrz",
+                            cell_no: "J11",
+                            total: false,
+                            name:
+                                "NHWA_Male drop-outs in HWF Education and Training centers General Paediatricians Practitioner"
+                        },
+                        {
+                            deuid: "f9lz93NUbMQ",
+                            cocuid: "p7nN8h3drrz",
+                            cell_no: "K11",
+                            total: false,
+                            name:
+                                "NHWA_Female drop-outs in HWF Education and Training centers General Paediatricians Practitioner"
+                        },
+                        {
+                            deuid: "W3hjWF2zAkt",
+                            cocuid: "nC5KZyWITGC",
+                            cell_no: "D12",
+                            total: false,
+                            name:
+                                "NHWA_Graduates in HWF Education and Training centers Obstetricians and Gynaecologists Practitioner"
+                        },
+                        {
+                            deuid: "b5Y5ttOan5u",
+                            cocuid: "nC5KZyWITGC",
+                            cell_no: "E12",
+                            total: false,
+                            name:
+                                "NHWA_Male graduates in HWF Education and Training centers Obstetricians and Gynaecologists Practitioner"
+                        },
+                        {
+                            deuid: "d9aRkLridyB",
+                            cocuid: "nC5KZyWITGC",
+                            cell_no: "F12",
+                            total: false,
+                            name:
+                                "NHWA_Female graduates in HWF Education and Training centers Obstetricians and Gynaecologists Practitioner"
+                        },
+                        {
+                            deuid: "h0MrvKyI3Nk",
+                            cocuid: "nC5KZyWITGC",
+                            cell_no: "G12",
+                            total: false,
+                            name:
+                                "NHWA_Public graduates in HWF Education and Training centers Obstetricians and Gynaecologists Practitioner"
+                        },
+                        {
+                            deuid: "bXegTxbu4XB",
+                            cocuid: "nC5KZyWITGC",
+                            cell_no: "H12",
+                            total: false,
+                            name:
+                                "NHWA_Private graduates in HWF Education and Training centers Obstetricians and Gynaecologists Practitioner"
+                        },
+                        {
+                            deuid: "GAikjDurEiF",
+                            cocuid: "nC5KZyWITGC",
+                            cell_no: "I12",
+                            total: false,
+                            name:
+                                "NHWA_Drop-outs in HWF Education and Training centers Obstetricians and Gynaecologists Practitioner"
+                        },
+                        {
+                            deuid: "GrRfteXDhyS",
+                            cocuid: "nC5KZyWITGC",
                             cell_no: "J12",
                             total: false,
                             name:
-                                "Educators in HWF Education and Training centers Medical Doctors"
+                                "NHWA_Male drop-outs in HWF Education and Training centers Obstetricians and Gynaecologists Practitioner"
                         },
                         {
-                            deuid: "RnxSxiLePqc",
-                            cocuid: "aBpbcEgtzgw",
+                            deuid: "f9lz93NUbMQ",
+                            cocuid: "nC5KZyWITGC",
                             cell_no: "K12",
                             total: false,
                             name:
-                                "Health workforce education and training centers capacity Medical Doctors"
+                                "NHWA_Female drop-outs in HWF Education and Training centers Obstetricians and Gynaecologists Practitioner"
                         },
                         {
-                            deuid: "WBxm9A5Qkea",
-                            cocuid: "aBpbcEgtzgw",
-                            cell_no: "L12",
+                            deuid: "W3hjWF2zAkt",
+                            cocuid: "hx9b4UVGIgW",
+                            cell_no: "D13",
                             total: false,
                             name:
-                                "Training Duration for HWF programmes Medical Doctors"
+                                "NHWA_Graduates in HWF Education and Training centers Psychiatrists Practitioner"
                         },
                         {
-                            deuid: "AeURkaiQxjy",
-                            cocuid: "LHbCtHlZr3Y",
+                            deuid: "b5Y5ttOan5u",
+                            cocuid: "hx9b4UVGIgW",
+                            cell_no: "E13",
+                            total: false,
+                            name:
+                                "NHWA_Male graduates in HWF Education and Training centers Psychiatrists Practitioner"
+                        },
+                        {
+                            deuid: "d9aRkLridyB",
+                            cocuid: "hx9b4UVGIgW",
+                            cell_no: "F13",
+                            total: false,
+                            name:
+                                "NHWA_Female graduates in HWF Education and Training centers Psychiatrists Practitioner"
+                        },
+                        {
+                            deuid: "h0MrvKyI3Nk",
+                            cocuid: "hx9b4UVGIgW",
+                            cell_no: "G13",
+                            total: false,
+                            name:
+                                "NHWA_Public graduates in HWF Education and Training centers Psychiatrists Practitioner"
+                        },
+                        {
+                            deuid: "bXegTxbu4XB",
+                            cocuid: "hx9b4UVGIgW",
+                            cell_no: "H13",
+                            total: false,
+                            name:
+                                "NHWA_Private graduates in HWF Education and Training centers Psychiatrists Practitioner"
+                        },
+                        {
+                            deuid: "GAikjDurEiF",
+                            cocuid: "hx9b4UVGIgW",
+                            cell_no: "I13",
+                            total: false,
+                            name:
+                                "NHWA_Drop-outs in HWF Education and Training centers Psychiatrists Practitioner"
+                        },
+                        {
+                            deuid: "GrRfteXDhyS",
+                            cocuid: "hx9b4UVGIgW",
                             cell_no: "J13",
                             total: false,
                             name:
-                                "Educators in HWF Education and Training centers General Medical Practitioner"
+                                "NHWA_Male drop-outs in HWF Education and Training centers Psychiatrists Practitioner"
                         },
                         {
-                            deuid: "RnxSxiLePqc",
-                            cocuid: "LHbCtHlZr3Y",
+                            deuid: "f9lz93NUbMQ",
+                            cocuid: "hx9b4UVGIgW",
                             cell_no: "K13",
                             total: false,
                             name:
-                                "Health workforce education and training centers capacity General Medical Practitioner"
+                                "NHWA_Female drop-outs in HWF Education and Training centers Psychiatrists Practitioner"
                         },
                         {
-                            deuid: "WBxm9A5Qkea",
-                            cocuid: "LHbCtHlZr3Y",
-                            cell_no: "L13",
+                            deuid: "W3hjWF2zAkt",
+                            cocuid: "U0Q8rlyIf0L",
+                            cell_no: "D14",
                             total: false,
                             name:
-                                "Training Duration for HWF programmes General Medical Practitioner"
+                                "NHWA_Graduates in HWF Education and Training centers Medical group of Specialists Practitioner"
                         },
                         {
-                            deuid: "AeURkaiQxjy",
-                            cocuid: "VtVkbvygJnm",
+                            deuid: "b5Y5ttOan5u",
+                            cocuid: "U0Q8rlyIf0L",
+                            cell_no: "E14",
+                            total: false,
+                            name:
+                                "NHWA_Male graduates in HWF Education and Training centers Medical group of Specialists Practitioner"
+                        },
+                        {
+                            deuid: "d9aRkLridyB",
+                            cocuid: "U0Q8rlyIf0L",
+                            cell_no: "F14",
+                            total: false,
+                            name:
+                                "NHWA_Female graduates in HWF Education and Training centers Medical group of Specialists Practitioner"
+                        },
+                        {
+                            deuid: "h0MrvKyI3Nk",
+                            cocuid: "U0Q8rlyIf0L",
+                            cell_no: "G14",
+                            total: false,
+                            name:
+                                "NHWA_Public graduates in HWF Education and Training centers Medical group of Specialists Practitioner"
+                        },
+                        {
+                            deuid: "bXegTxbu4XB",
+                            cocuid: "U0Q8rlyIf0L",
+                            cell_no: "H14",
+                            total: false,
+                            name:
+                                "NHWA_Private graduates in HWF Education and Training centers Medical group of Specialists Practitioner"
+                        },
+                        {
+                            deuid: "GAikjDurEiF",
+                            cocuid: "U0Q8rlyIf0L",
+                            cell_no: "I14",
+                            total: false,
+                            name:
+                                "NHWA_Drop-outs in HWF Education and Training centers Medical group of Specialists Practitioner"
+                        },
+                        {
+                            deuid: "GrRfteXDhyS",
+                            cocuid: "U0Q8rlyIf0L",
                             cell_no: "J14",
                             total: false,
                             name:
-                                "Educators in HWF Education and Training centers Specialist Medical Practitioner"
+                                "NHWA_Male drop-outs in HWF Education and Training centers Medical group of Specialists Practitioner"
                         },
                         {
-                            deuid: "RnxSxiLePqc",
-                            cocuid: "VtVkbvygJnm",
+                            deuid: "f9lz93NUbMQ",
+                            cocuid: "U0Q8rlyIf0L",
                             cell_no: "K14",
                             total: false,
                             name:
-                                "Health workforce education and training centers capacity Specialist Medical Practitioner"
+                                "NHWA_Female drop-outs in HWF Education and Training centers Medical group of Specialists Practitioner"
                         },
                         {
-                            deuid: "WBxm9A5Qkea",
-                            cocuid: "VtVkbvygJnm",
-                            cell_no: "L14",
+                            deuid: "W3hjWF2zAkt",
+                            cocuid: "N53ac2J5cmY",
+                            cell_no: "D15",
                             total: false,
                             name:
-                                "Training Duration for HWF programmes Specialist Medical Practitioner"
+                                "NHWA_Graduates in HWF Education and Training centers Surgical group of Specialists Practitioner"
                         },
                         {
-                            deuid: "AeURkaiQxjy",
-                            cocuid: "fGOgbIqsxDn",
+                            deuid: "b5Y5ttOan5u",
+                            cocuid: "N53ac2J5cmY",
+                            cell_no: "E15",
+                            total: false,
+                            name:
+                                "NHWA_Male graduates in HWF Education and Training centers Surgical group of Specialists Practitioner"
+                        },
+                        {
+                            deuid: "d9aRkLridyB",
+                            cocuid: "N53ac2J5cmY",
+                            cell_no: "F15",
+                            total: false,
+                            name:
+                                "NHWA_Female graduates in HWF Education and Training centers Surgical group of Specialists Practitioner"
+                        },
+                        {
+                            deuid: "h0MrvKyI3Nk",
+                            cocuid: "N53ac2J5cmY",
+                            cell_no: "G15",
+                            total: false,
+                            name:
+                                "NHWA_Public graduates in HWF Education and Training centers Surgical group of Specialists Practitioner"
+                        },
+                        {
+                            deuid: "bXegTxbu4XB",
+                            cocuid: "N53ac2J5cmY",
+                            cell_no: "H15",
+                            total: false,
+                            name:
+                                "NHWA_Private graduates in HWF Education and Training centers Surgical group of Specialists Practitioner"
+                        },
+                        {
+                            deuid: "GAikjDurEiF",
+                            cocuid: "N53ac2J5cmY",
+                            cell_no: "I15",
+                            total: false,
+                            name:
+                                "NHWA_Drop-outs in HWF Education and Training centers Surgical group of Specialists Practitioner"
+                        },
+                        {
+                            deuid: "GrRfteXDhyS",
+                            cocuid: "N53ac2J5cmY",
                             cell_no: "J15",
                             total: false,
                             name:
-                                "Educators in HWF Education and Training centers Nursing Professional"
+                                "NHWA_Male drop-outs in HWF Education and Training centers Surgical group of Specialists Practitioner"
                         },
                         {
-                            deuid: "RnxSxiLePqc",
-                            cocuid: "fGOgbIqsxDn",
+                            deuid: "f9lz93NUbMQ",
+                            cocuid: "N53ac2J5cmY",
                             cell_no: "K15",
                             total: false,
                             name:
-                                "Health workforce education and training centers capacity Nursing Professional"
+                                "NHWA_Female drop-outs in HWF Education and Training centers Surgical group of Specialists Practitioner"
                         },
                         {
-                            deuid: "WBxm9A5Qkea",
-                            cocuid: "fGOgbIqsxDn",
-                            cell_no: "L15",
+                            deuid: "W3hjWF2zAkt",
+                            cocuid: "K4qTZe26KoX",
+                            cell_no: "D16",
                             total: false,
                             name:
-                                "Training Duration for HWF programmes Nursing Professional"
+                                "NHWA_Graduates in HWF Education and Training centers Other Specialists Practitioner"
                         },
                         {
-                            deuid: "AeURkaiQxjy",
-                            cocuid: "MPzyVWiSFF2",
+                            deuid: "b5Y5ttOan5u",
+                            cocuid: "K4qTZe26KoX",
+                            cell_no: "E16",
+                            total: false,
+                            name:
+                                "NHWA_Male graduates in HWF Education and Training centers Other Specialists Practitioner"
+                        },
+                        {
+                            deuid: "d9aRkLridyB",
+                            cocuid: "K4qTZe26KoX",
+                            cell_no: "F16",
+                            total: false,
+                            name:
+                                "NHWA_Female graduates in HWF Education and Training centers Other Specialists Practitioner"
+                        },
+                        {
+                            deuid: "h0MrvKyI3Nk",
+                            cocuid: "K4qTZe26KoX",
+                            cell_no: "G16",
+                            total: false,
+                            name:
+                                "NHWA_Public graduates in HWF Education and Training centers Other Specialists Practitioner"
+                        },
+                        {
+                            deuid: "bXegTxbu4XB",
+                            cocuid: "K4qTZe26KoX",
+                            cell_no: "H16",
+                            total: false,
+                            name:
+                                "NHWA_Private graduates in HWF Education and Training centers Other Specialists Practitioner"
+                        },
+                        {
+                            deuid: "GAikjDurEiF",
+                            cocuid: "K4qTZe26KoX",
+                            cell_no: "I16",
+                            total: false,
+                            name:
+                                "NHWA_Drop-outs in HWF Education and Training centers Other Specialists Practitioner"
+                        },
+                        {
+                            deuid: "GrRfteXDhyS",
+                            cocuid: "K4qTZe26KoX",
                             cell_no: "J16",
                             total: false,
                             name:
-                                "Educators in HWF Education and Training centers Midwifery Professional"
+                                "NHWA_Male drop-outs in HWF Education and Training centers Other Specialists Practitioner"
                         },
                         {
-                            deuid: "RnxSxiLePqc",
-                            cocuid: "MPzyVWiSFF2",
+                            deuid: "f9lz93NUbMQ",
+                            cocuid: "K4qTZe26KoX",
                             cell_no: "K16",
                             total: false,
                             name:
-                                "Health workforce education and training centers capacity Midwifery Professional"
+                                "NHWA_Female drop-outs in HWF Education and Training centers Other Specialists Practitioner"
                         },
                         {
-                            deuid: "WBxm9A5Qkea",
-                            cocuid: "MPzyVWiSFF2",
-                            cell_no: "L16",
+                            deuid: "W3hjWF2zAkt",
+                            cocuid: "gT8LDQDh2wc",
+                            cell_no: "D17",
                             total: false,
                             name:
-                                "Training Duration for HWF programmes Midwifery Professional"
+                                "NHWA_Graduates in HWF Education and Training centers Nursing Professional"
                         },
                         {
-                            deuid: "AeURkaiQxjy",
-                            cocuid: "ALBRKpJsddQ",
+                            deuid: "b5Y5ttOan5u",
+                            cocuid: "gT8LDQDh2wc",
+                            cell_no: "E17",
+                            total: false,
+                            name:
+                                "NHWA_Male graduates in HWF Education and Training centers Nursing Professional"
+                        },
+                        {
+                            deuid: "d9aRkLridyB",
+                            cocuid: "gT8LDQDh2wc",
+                            cell_no: "F17",
+                            total: false,
+                            name:
+                                "NHWA_Female graduates in HWF Education and Training centers Nursing Professional"
+                        },
+                        {
+                            deuid: "h0MrvKyI3Nk",
+                            cocuid: "gT8LDQDh2wc",
+                            cell_no: "G17",
+                            total: false,
+                            name:
+                                "NHWA_Public graduates in HWF Education and Training centers Nursing Professional"
+                        },
+                        {
+                            deuid: "bXegTxbu4XB",
+                            cocuid: "gT8LDQDh2wc",
+                            cell_no: "H17",
+                            total: false,
+                            name:
+                                "NHWA_Private graduates in HWF Education and Training centers Nursing Professional"
+                        },
+                        {
+                            deuid: "GAikjDurEiF",
+                            cocuid: "gT8LDQDh2wc",
+                            cell_no: "I17",
+                            total: false,
+                            name:
+                                "NHWA_Drop-outs in HWF Education and Training centers Nursing Professional"
+                        },
+                        {
+                            deuid: "GrRfteXDhyS",
+                            cocuid: "gT8LDQDh2wc",
                             cell_no: "J17",
                             total: false,
                             name:
-                                "Educators in HWF Education and Training centers Dentist"
+                                "NHWA_Male drop-outs in HWF Education and Training centers Nursing Professional"
                         },
                         {
-                            deuid: "RnxSxiLePqc",
-                            cocuid: "ALBRKpJsddQ",
+                            deuid: "f9lz93NUbMQ",
+                            cocuid: "gT8LDQDh2wc",
                             cell_no: "K17",
                             total: false,
                             name:
-                                "Health workforce education and training centers capacity Dentist"
+                                "NHWA_Female drop-outs in HWF Education and Training centers Nursing Professional"
                         },
                         {
-                            deuid: "WBxm9A5Qkea",
-                            cocuid: "ALBRKpJsddQ",
-                            cell_no: "L17",
+                            deuid: "W3hjWF2zAkt",
+                            cocuid: "GrzcLgIHx9h",
+                            cell_no: "D18",
                             total: false,
-                            name: "Training Duration for HWF programmes Dentist"
+                            name:
+                                "NHWA_Graduates in HWF Education and Training centers Midwifery Professional"
                         },
                         {
-                            deuid: "AeURkaiQxjy",
-                            cocuid: "iWRW6jXAzvP",
+                            deuid: "b5Y5ttOan5u",
+                            cocuid: "GrzcLgIHx9h",
+                            cell_no: "E18",
+                            total: false,
+                            name:
+                                "NHWA_Male graduates in HWF Education and Training centers Midwifery Professional"
+                        },
+                        {
+                            deuid: "d9aRkLridyB",
+                            cocuid: "GrzcLgIHx9h",
+                            cell_no: "F18",
+                            total: false,
+                            name:
+                                "NHWA_Female graduates in HWF Education and Training centers Midwifery Professional"
+                        },
+                        {
+                            deuid: "h0MrvKyI3Nk",
+                            cocuid: "GrzcLgIHx9h",
+                            cell_no: "G18",
+                            total: false,
+                            name:
+                                "NHWA_Public graduates in HWF Education and Training centers Midwifery Professional"
+                        },
+                        {
+                            deuid: "bXegTxbu4XB",
+                            cocuid: "GrzcLgIHx9h",
+                            cell_no: "H18",
+                            total: false,
+                            name:
+                                "NHWA_Private graduates in HWF Education and Training centers Midwifery Professional"
+                        },
+                        {
+                            deuid: "GAikjDurEiF",
+                            cocuid: "GrzcLgIHx9h",
+                            cell_no: "I18",
+                            total: false,
+                            name:
+                                "NHWA_Drop-outs in HWF Education and Training centers Midwifery Professional"
+                        },
+                        {
+                            deuid: "GrRfteXDhyS",
+                            cocuid: "GrzcLgIHx9h",
                             cell_no: "J18",
                             total: false,
                             name:
-                                "Educators in HWF Education and Training centers Pharmacist"
+                                "NHWA_Male drop-outs in HWF Education and Training centers Midwifery Professional"
                         },
                         {
-                            deuid: "RnxSxiLePqc",
-                            cocuid: "iWRW6jXAzvP",
+                            deuid: "f9lz93NUbMQ",
+                            cocuid: "GrzcLgIHx9h",
                             cell_no: "K18",
                             total: false,
                             name:
-                                "Health workforce education and training centers capacity Pharmacist"
+                                "NHWA_Female drop-outs in HWF Education and Training centers Midwifery Professional"
                         },
                         {
-                            deuid: "WBxm9A5Qkea",
-                            cocuid: "iWRW6jXAzvP",
-                            cell_no: "L18",
+                            deuid: "W3hjWF2zAkt",
+                            cocuid: "BUVRp4Q2zi7",
+                            cell_no: "D19",
                             total: false,
                             name:
-                                "Training Duration for HWF programmes Pharmacist"
+                                "NHWA_Graduates in HWF Education and Training centers Dentist"
+                        },
+                        {
+                            deuid: "b5Y5ttOan5u",
+                            cocuid: "BUVRp4Q2zi7",
+                            cell_no: "E19",
+                            total: false,
+                            name:
+                                "NHWA_Male graduates in HWF Education and Training centers Dentist"
+                        },
+                        {
+                            deuid: "d9aRkLridyB",
+                            cocuid: "BUVRp4Q2zi7",
+                            cell_no: "F19",
+                            total: false,
+                            name:
+                                "NHWA_Female graduates in HWF Education and Training centers Dentist"
+                        },
+                        {
+                            deuid: "h0MrvKyI3Nk",
+                            cocuid: "BUVRp4Q2zi7",
+                            cell_no: "G19",
+                            total: false,
+                            name:
+                                "NHWA_Public graduates in HWF Education and Training centers Dentist"
+                        },
+                        {
+                            deuid: "bXegTxbu4XB",
+                            cocuid: "BUVRp4Q2zi7",
+                            cell_no: "H19",
+                            total: false,
+                            name:
+                                "NHWA_Private graduates in HWF Education and Training centers Dentist"
+                        },
+                        {
+                            deuid: "GAikjDurEiF",
+                            cocuid: "BUVRp4Q2zi7",
+                            cell_no: "I19",
+                            total: false,
+                            name:
+                                "NHWA_Drop-outs in HWF Education and Training centers Dentist"
+                        },
+                        {
+                            deuid: "GrRfteXDhyS",
+                            cocuid: "BUVRp4Q2zi7",
+                            cell_no: "J19",
+                            total: false,
+                            name:
+                                "NHWA_Male drop-outs in HWF Education and Training centers Dentist"
+                        },
+                        {
+                            deuid: "f9lz93NUbMQ",
+                            cocuid: "BUVRp4Q2zi7",
+                            cell_no: "K19",
+                            total: false,
+                            name:
+                                "NHWA_Female drop-outs in HWF Education and Training centers Dentist"
+                        },
+                        {
+                            deuid: "W3hjWF2zAkt",
+                            cocuid: "UbXO8Hq562j",
+                            cell_no: "D20",
+                            total: false,
+                            name:
+                                "NHWA_Graduates in HWF Education and Training centers Pharmacist"
+                        },
+                        {
+                            deuid: "b5Y5ttOan5u",
+                            cocuid: "UbXO8Hq562j",
+                            cell_no: "E20",
+                            total: false,
+                            name:
+                                "NHWA_Male graduates in HWF Education and Training centers Pharmacist"
+                        },
+                        {
+                            deuid: "d9aRkLridyB",
+                            cocuid: "UbXO8Hq562j",
+                            cell_no: "F20",
+                            total: false,
+                            name:
+                                "NHWA_Female graduates in HWF Education and Training centers Pharmacist"
+                        },
+                        {
+                            deuid: "h0MrvKyI3Nk",
+                            cocuid: "UbXO8Hq562j",
+                            cell_no: "G20",
+                            total: false,
+                            name:
+                                "NHWA_Public graduates in HWF Education and Training centers Pharmacist"
+                        },
+                        {
+                            deuid: "bXegTxbu4XB",
+                            cocuid: "UbXO8Hq562j",
+                            cell_no: "H20",
+                            total: false,
+                            name:
+                                "NHWA_Private graduates in HWF Education and Training centers Pharmacist"
+                        },
+                        {
+                            deuid: "GAikjDurEiF",
+                            cocuid: "UbXO8Hq562j",
+                            cell_no: "I20",
+                            total: false,
+                            name:
+                                "NHWA_Drop-outs in HWF Education and Training centers Pharmacist"
+                        },
+                        {
+                            deuid: "GrRfteXDhyS",
+                            cocuid: "UbXO8Hq562j",
+                            cell_no: "J20",
+                            total: false,
+                            name:
+                                "NHWA_Male drop-outs in HWF Education and Training centers Pharmacist"
+                        },
+                        {
+                            deuid: "f9lz93NUbMQ",
+                            cocuid: "UbXO8Hq562j",
+                            cell_no: "K20",
+                            total: false,
+                            name:
+                                "NHWA_Female drop-outs in HWF Education and Training centers Pharmacist"
                         }
                     ]
                 },
                 {
                     sheet_type: "AGGREGATE_STATIC_YES_ONLY",
-                    sheet_no: 3,
+                    sheet_no: 4,
                     sheet_name: "Sourcetype",
                     orgUnitIdScheme: "UID",
                     dataElementIdScheme: "UID",
@@ -22166,7 +22351,7 @@ var whoTemplate = {
                             cell_no: "P8",
                             total: false,
                             name:
-                                "Medical Doctors in education and training source type Ministry of Education"
+                                "NHWA_Medical Doctors in education and training source type Ministry of Education"
                         },
                         {
                             deuid: "GHRcigiFyO0",
@@ -22174,7 +22359,7 @@ var whoTemplate = {
                             cell_no: "Q8",
                             total: false,
                             name:
-                                "Medical Doctors in education and training source type Regulatory bodies"
+                                "NHWA_Medical Doctors in education and training source type Regulatory bodies"
                         },
                         {
                             deuid: "GHRcigiFyO0",
@@ -22182,7 +22367,7 @@ var whoTemplate = {
                             cell_no: "R8",
                             total: false,
                             name:
-                                "Medical Doctors in education and training source type Training Institutes"
+                                "NHWA_Medical Doctors in education and training source type Training Institutes"
                         },
                         {
                             deuid: "GHRcigiFyO0",
@@ -22190,7 +22375,7 @@ var whoTemplate = {
                             cell_no: "S8",
                             total: false,
                             name:
-                                "Medical Doctors in education and training source type Other databases"
+                                "NHWA_Medical Doctors in education and training source type Other databases"
                         },
                         {
                             deuid: "uwBMy7jAOzr",
@@ -22198,7 +22383,7 @@ var whoTemplate = {
                             cell_no: "P9",
                             total: false,
                             name:
-                                "General Medical Practitioners in education and training source type Ministry of Education"
+                                "NHWA_General Medical Practitioners in education and training source type Ministry of Education"
                         },
                         {
                             deuid: "uwBMy7jAOzr",
@@ -22206,7 +22391,7 @@ var whoTemplate = {
                             cell_no: "Q9",
                             total: false,
                             name:
-                                "General Medical Practitioners in education and training source type Regulatory bodies"
+                                "NHWA_General Medical Practitioners in education and training source type Regulatory bodies"
                         },
                         {
                             deuid: "uwBMy7jAOzr",
@@ -22214,7 +22399,7 @@ var whoTemplate = {
                             cell_no: "R9",
                             total: false,
                             name:
-                                "General Medical Practitioners in education and training source type Training Institutes"
+                                "NHWA_General Medical Practitioners in education and training source type Training Institutes"
                         },
                         {
                             deuid: "uwBMy7jAOzr",
@@ -22222,7 +22407,7 @@ var whoTemplate = {
                             cell_no: "S9",
                             total: false,
                             name:
-                                "General Medical Practitioners in education and training source type Other databases"
+                                "NHWA_General Medical Practitioners in education and training source type Other databases"
                         },
                         {
                             deuid: "lvkcxdk6ewE",
@@ -22230,7 +22415,7 @@ var whoTemplate = {
                             cell_no: "P10",
                             total: false,
                             name:
-                                "Specialist Medical Practitioners in education and training source type Ministry of Education"
+                                "NHWA_Specialist Medical Practitioners in education and training source type Ministry of Education"
                         },
                         {
                             deuid: "lvkcxdk6ewE",
@@ -22238,7 +22423,7 @@ var whoTemplate = {
                             cell_no: "Q10",
                             total: false,
                             name:
-                                "Specialist Medical Practitioners in education and training source type Regulatory bodies"
+                                "NHWA_Specialist Medical Practitioners in education and training source type Regulatory bodies"
                         },
                         {
                             deuid: "lvkcxdk6ewE",
@@ -22246,7 +22431,7 @@ var whoTemplate = {
                             cell_no: "R10",
                             total: false,
                             name:
-                                "Specialist Medical Practitioners in education and training source type Training Institutes"
+                                "NHWA_Specialist Medical Practitioners in education and training source type Training Institutes"
                         },
                         {
                             deuid: "lvkcxdk6ewE",
@@ -22254,7 +22439,7 @@ var whoTemplate = {
                             cell_no: "S10",
                             total: false,
                             name:
-                                "Specialist Medical Practitioners in education and training source type Other databases"
+                                "NHWA_Specialist Medical Practitioners in education and training source type Other databases"
                         },
                         {
                             deuid: "Tu7mmoVDSFh",
@@ -22262,7 +22447,7 @@ var whoTemplate = {
                             cell_no: "P11",
                             total: false,
                             name:
-                                "Nursing Professionals in education and training source type Ministry of Education"
+                                "NHWA_Nursing Professionals in education and training source type Ministry of Education"
                         },
                         {
                             deuid: "Tu7mmoVDSFh",
@@ -22270,7 +22455,7 @@ var whoTemplate = {
                             cell_no: "Q11",
                             total: false,
                             name:
-                                "Nursing Professionals in education and training source type Regulatory bodies"
+                                "NHWA_Nursing Professionals in education and training source type Regulatory bodies"
                         },
                         {
                             deuid: "Tu7mmoVDSFh",
@@ -22278,7 +22463,7 @@ var whoTemplate = {
                             cell_no: "R11",
                             total: false,
                             name:
-                                "Nursing Professionals in education and training source type Training Institutes"
+                                "NHWA_Nursing Professionals in education and training source type Training Institutes"
                         },
                         {
                             deuid: "Tu7mmoVDSFh",
@@ -22286,7 +22471,7 @@ var whoTemplate = {
                             cell_no: "S11",
                             total: false,
                             name:
-                                "Nursing Professionals in education and training source type Other databases"
+                                "NHWA_Nursing Professionals in education and training source type Other databases"
                         },
                         {
                             deuid: "baxzJnblwIA",
@@ -22294,7 +22479,7 @@ var whoTemplate = {
                             cell_no: "P12",
                             total: false,
                             name:
-                                "Midwifery Professionals in education and training source type Ministry of Education"
+                                "NHWA_Midwifery Professionals in education and training source type Ministry of Education"
                         },
                         {
                             deuid: "baxzJnblwIA",
@@ -22302,7 +22487,7 @@ var whoTemplate = {
                             cell_no: "Q12",
                             total: false,
                             name:
-                                "Midwifery Professionals in education and training source type Regulatory bodies"
+                                "NHWA_Midwifery Professionals in education and training source type Regulatory bodies"
                         },
                         {
                             deuid: "baxzJnblwIA",
@@ -22310,7 +22495,7 @@ var whoTemplate = {
                             cell_no: "R12",
                             total: false,
                             name:
-                                "Midwifery Professionals in education and training source type Training Institutes"
+                                "NHWA_Midwifery Professionals in education and training source type Training Institutes"
                         },
                         {
                             deuid: "baxzJnblwIA",
@@ -22318,7 +22503,7 @@ var whoTemplate = {
                             cell_no: "S12",
                             total: false,
                             name:
-                                "Midwifery Professionals in education and training source type Other databases"
+                                "NHWA_Midwifery Professionals in education and training source type Other databases"
                         },
                         {
                             deuid: "vERGKxg4ky5",
@@ -22326,7 +22511,7 @@ var whoTemplate = {
                             cell_no: "P13",
                             total: false,
                             name:
-                                "Dentists in education and training source type Ministry of Education"
+                                "NHWA_Dentists in education and training source type Ministry of Education"
                         },
                         {
                             deuid: "vERGKxg4ky5",
@@ -22334,7 +22519,7 @@ var whoTemplate = {
                             cell_no: "Q13",
                             total: false,
                             name:
-                                "Dentists in education and training source type Regulatory bodies"
+                                "NHWA_Dentists in education and training source type Regulatory bodies"
                         },
                         {
                             deuid: "vERGKxg4ky5",
@@ -22342,7 +22527,7 @@ var whoTemplate = {
                             cell_no: "R13",
                             total: false,
                             name:
-                                "Dentists in education and training source type Training Institutes"
+                                "NHWA_Dentists in education and training source type Training Institutes"
                         },
                         {
                             deuid: "vERGKxg4ky5",
@@ -22350,7 +22535,7 @@ var whoTemplate = {
                             cell_no: "S13",
                             total: false,
                             name:
-                                "Dentists in education and training source type Other databases"
+                                "NHWA_Dentists in education and training source type Other databases"
                         },
                         {
                             deuid: "ZeF4Zhl5iSz",
@@ -22358,7 +22543,7 @@ var whoTemplate = {
                             cell_no: "P14",
                             total: false,
                             name:
-                                "Pharmacists in education and training source type Ministry of Education"
+                                "NHWA_Pharmacists in education and training source type Ministry of Education"
                         },
                         {
                             deuid: "ZeF4Zhl5iSz",
@@ -22366,7 +22551,7 @@ var whoTemplate = {
                             cell_no: "Q14",
                             total: false,
                             name:
-                                "Pharmacists in education and training source type Regulatory bodies"
+                                "NHWA_Pharmacists in education and training source type Regulatory bodies"
                         },
                         {
                             deuid: "ZeF4Zhl5iSz",
@@ -22374,7 +22559,7 @@ var whoTemplate = {
                             cell_no: "R14",
                             total: false,
                             name:
-                                "Pharmacists in education and training source type Training Institutes"
+                                "NHWA_Pharmacists in education and training source type Training Institutes"
                         },
                         {
                             deuid: "ZeF4Zhl5iSz",
@@ -22382,7 +22567,7 @@ var whoTemplate = {
                             cell_no: "S14",
                             total: false,
                             name:
-                                "Pharmacists in education and training source type Other databases"
+                                "NHWA_Pharmacists in education and training source type Other databases"
                         }
                     ]
                 }
@@ -24470,7 +24655,7 @@ var whoTemplate = {
                             cell_no: "D9",
                             total: false,
                             name:
-                                "Total expenditure on higher education (including for non-health sectors) Government"
+                                "NHWA_Total expenditure on higher education (including for non-health sectors) Government"
                         },
                         {
                             deuid: "KzzMv68cifG",
@@ -24478,7 +24663,7 @@ var whoTemplate = {
                             cell_no: "E9",
                             total: false,
                             name:
-                                "Total expenditure on higher education (including for non-health sectors) Out of Pocket"
+                                "NHWA_Total expenditure on higher education (including for non-health sectors) Out of Pocket"
                         },
                         {
                             deuid: "KzzMv68cifG",
@@ -24486,7 +24671,7 @@ var whoTemplate = {
                             cell_no: "F9",
                             total: false,
                             name:
-                                "Total expenditure on higher education (including for non-health sectors) Official Development Assistance"
+                                "NHWA_Total expenditure on higher education (including for non-health sectors) Official Development Assistance"
                         },
                         {
                             deuid: "KzzMv68cifG",
@@ -24494,7 +24679,7 @@ var whoTemplate = {
                             cell_no: "G9",
                             total: false,
                             name:
-                                "Total expenditure on higher education (including for non-health sectors) Others"
+                                "NHWA_Total expenditure on higher education (including for non-health sectors) Others"
                         },
                         {
                             deuid: "Z6Wd8wiIAfz",
@@ -24502,7 +24687,7 @@ var whoTemplate = {
                             cell_no: "D10",
                             total: false,
                             name:
-                                "Total expenditure on health workforce pre-service education By Ownership Government"
+                                "NHWA_Total expenditure on health workforce pre-service education By Ownership Government"
                         },
                         {
                             deuid: "Z6Wd8wiIAfz",
@@ -24510,7 +24695,7 @@ var whoTemplate = {
                             cell_no: "E10",
                             total: false,
                             name:
-                                "Total expenditure on health workforce pre-service education By Ownership Out of Pocket"
+                                "NHWA_Total expenditure on health workforce pre-service education By Ownership Out of Pocket"
                         },
                         {
                             deuid: "Z6Wd8wiIAfz",
@@ -24518,7 +24703,7 @@ var whoTemplate = {
                             cell_no: "F10",
                             total: false,
                             name:
-                                "Total expenditure on health workforce pre-service education By Ownership Official Development Assistance"
+                                "NHWA_Total expenditure on health workforce pre-service education By Ownership Official Development Assistance"
                         },
                         {
                             deuid: "Z6Wd8wiIAfz",
@@ -24526,7 +24711,7 @@ var whoTemplate = {
                             cell_no: "G10",
                             total: false,
                             name:
-                                "Total expenditure on health workforce pre-service education By Ownership Others"
+                                "NHWA_Total expenditure on health workforce pre-service education By Ownership Others"
                         },
                         {
                             deuid: "Ybz3qUCWYKC",
@@ -24534,7 +24719,7 @@ var whoTemplate = {
                             cell_no: "Q18",
                             total: false,
                             name:
-                                "Existence of national health workforce strategies and national institutional financing reforms that identify and commit adequate budgetary resources for transformative education Yes"
+                                "NHWA_Existence of national health workforce strategies and national institutional financing reforms that identify and commit adequate budgetary resources for transformative education Yes"
                         },
                         {
                             deuid: "Ybz3qUCWYKC",
@@ -24542,7 +24727,7 @@ var whoTemplate = {
                             cell_no: "R18",
                             total: false,
                             name:
-                                "Existence of national health workforce strategies and national institutional financing reforms that identify and commit adequate budgetary resources for transformative education Partial"
+                                "NHWA_Existence of national health workforce strategies and national institutional financing reforms that identify and commit adequate budgetary resources for transformative education Partial"
                         },
                         {
                             deuid: "Ybz3qUCWYKC",
@@ -24550,7 +24735,7 @@ var whoTemplate = {
                             cell_no: "S18",
                             total: false,
                             name:
-                                "Existence of national health workforce strategies and national institutional financing reforms that identify and commit adequate budgetary resources for transformative education No"
+                                "NHWA_Existence of national health workforce strategies and national institutional financing reforms that identify and commit adequate budgetary resources for transformative education No"
                         },
                         {
                             deuid: "fXxS36qL9Vt",
@@ -24558,7 +24743,7 @@ var whoTemplate = {
                             cell_no: "F15",
                             total: false,
                             name:
-                                "Comment of existence of national health workforce strategies and national institutional financing reforms that identify and commit adequate budgetary resources for transformative education default"
+                                "NHWA_Comment of existence of national health workforce strategies and national institutional financing reforms that identify and commit adequate budgetary resources for transformative education default"
                         }
                     ]
                 },
@@ -24575,476 +24760,627 @@ var whoTemplate = {
                     agg_des: [
                         {
                             deuid: "EI6IOp5v4dR",
-                            cocuid: "aBpbcEgtzgw",
-                            cell_no: "D9",
-                            total: false,
-                            name:
-                                "Tuition Fee by Student enrolled Medical Doctors"
-                        },
-                        {
-                            deuid: "FQpontg7YBJ",
-                            cocuid: "aBpbcEgtzgw",
-                            cell_no: "E9",
-                            total: false,
-                            name:
-                                "Public Expenditure on HWF education Medical Doctors"
-                        },
-                        {
-                            deuid: "tsRGEPI6G9W",
-                            cocuid: "aBpbcEgtzgw",
-                            cell_no: "F9",
-                            total: false,
-                            name:
-                                "Private Expenditure on HWF education Medical Doctors"
-                        },
-                        {
-                            deuid: "FM20fzfsNov",
-                            cocuid: "aBpbcEgtzgw",
-                            cell_no: "G9",
-                            total: false,
-                            name:
-                                "Recurrent costs of qualified educators Medical Doctors"
-                        },
-                        {
-                            deuid: "EI6IOp5v4dR",
-                            cocuid: "LHbCtHlZr3Y",
+                            cocuid: "woIm3nuS3mM",
                             cell_no: "D10",
                             total: false,
                             name:
-                                "Tuition Fee by Student enrolled General Medical Practitioner"
+                                "NHWA_Annual Tuition Fee by Student enrolled Medical Doctors"
                         },
                         {
                             deuid: "FQpontg7YBJ",
-                            cocuid: "LHbCtHlZr3Y",
+                            cocuid: "woIm3nuS3mM",
                             cell_no: "E10",
                             total: false,
                             name:
-                                "Public Expenditure on HWF education General Medical Practitioner"
+                                "NHWA_Public Expenditure on HWF education Medical Doctors"
                         },
                         {
-                            deuid: "tsRGEPI6G9W",
-                            cocuid: "LHbCtHlZr3Y",
+                            deuid: "FpVMaxDKMvc",
+                            cocuid: "woIm3nuS3mM",
                             cell_no: "F10",
                             total: false,
                             name:
-                                "Private Expenditure on HWF education General Medical Practitioner"
+                                "NHWA_Out of Pockets Private Expenditure on HWF education Medical Doctors"
                         },
                         {
-                            deuid: "FM20fzfsNov",
-                            cocuid: "LHbCtHlZr3Y",
+                            deuid: "hNld16i4Kfj",
+                            cocuid: "woIm3nuS3mM",
                             cell_no: "G10",
                             total: false,
                             name:
-                                "Recurrent costs of qualified educators General Medical Practitioner"
-                        },
-                        {
-                            deuid: "EI6IOp5v4dR",
-                            cocuid: "VtVkbvygJnm",
-                            cell_no: "D11",
-                            total: false,
-                            name:
-                                "Tuition Fee by Student enrolled Specialist Medical Practitioner"
-                        },
-                        {
-                            deuid: "FQpontg7YBJ",
-                            cocuid: "VtVkbvygJnm",
-                            cell_no: "E11",
-                            total: false,
-                            name:
-                                "Public Expenditure on HWF education Specialist Medical Practitioner"
+                                "NHWA_Official Development Assistance Private Expenditure on HWF education Medical Doctors"
                         },
                         {
                             deuid: "tsRGEPI6G9W",
-                            cocuid: "VtVkbvygJnm",
-                            cell_no: "F11",
-                            total: false,
-                            name:
-                                "Private Expenditure on HWF education Specialist Medical Practitioner"
-                        },
-                        {
-                            deuid: "FM20fzfsNov",
-                            cocuid: "VtVkbvygJnm",
-                            cell_no: "G11",
-                            total: false,
-                            name:
-                                "Recurrent costs of qualified educators Specialist Medical Practitioner"
-                        },
-                        {
-                            deuid: "EI6IOp5v4dR",
-                            cocuid: "fGOgbIqsxDn",
-                            cell_no: "D12",
-                            total: false,
-                            name:
-                                "Tuition Fee by Student enrolled Nursing Professional"
-                        },
-                        {
-                            deuid: "FQpontg7YBJ",
-                            cocuid: "fGOgbIqsxDn",
-                            cell_no: "E12",
-                            total: false,
-                            name:
-                                "Public Expenditure on HWF education Nursing Professional"
-                        },
-                        {
-                            deuid: "tsRGEPI6G9W",
-                            cocuid: "fGOgbIqsxDn",
-                            cell_no: "F12",
-                            total: false,
-                            name:
-                                "Private Expenditure on HWF education Nursing Professional"
-                        },
-                        {
-                            deuid: "FM20fzfsNov",
-                            cocuid: "fGOgbIqsxDn",
-                            cell_no: "G12",
-                            total: false,
-                            name:
-                                "Recurrent costs of qualified educators Nursing Professional"
-                        },
-                        {
-                            deuid: "EI6IOp5v4dR",
-                            cocuid: "MPzyVWiSFF2",
-                            cell_no: "D13",
-                            total: false,
-                            name:
-                                "Tuition Fee by Student enrolled Midwifery Professional"
-                        },
-                        {
-                            deuid: "FQpontg7YBJ",
-                            cocuid: "MPzyVWiSFF2",
-                            cell_no: "E13",
-                            total: false,
-                            name:
-                                "Public Expenditure on HWF education Midwifery Professional"
-                        },
-                        {
-                            deuid: "tsRGEPI6G9W",
-                            cocuid: "MPzyVWiSFF2",
-                            cell_no: "F13",
-                            total: false,
-                            name:
-                                "Private Expenditure on HWF education Midwifery Professional"
-                        },
-                        {
-                            deuid: "FM20fzfsNov",
-                            cocuid: "MPzyVWiSFF2",
-                            cell_no: "G13",
-                            total: false,
-                            name:
-                                "Recurrent costs of qualified educators Midwifery Professional"
-                        },
-                        {
-                            deuid: "EI6IOp5v4dR",
-                            cocuid: "ALBRKpJsddQ",
-                            cell_no: "D14",
-                            total: false,
-                            name: "Tuition Fee by Student enrolled Dentist"
-                        },
-                        {
-                            deuid: "FQpontg7YBJ",
-                            cocuid: "ALBRKpJsddQ",
-                            cell_no: "E14",
-                            total: false,
-                            name: "Public Expenditure on HWF education Dentist"
-                        },
-                        {
-                            deuid: "tsRGEPI6G9W",
-                            cocuid: "ALBRKpJsddQ",
-                            cell_no: "F14",
-                            total: false,
-                            name: "Private Expenditure on HWF education Dentist"
-                        },
-                        {
-                            deuid: "FM20fzfsNov",
-                            cocuid: "ALBRKpJsddQ",
-                            cell_no: "G14",
-                            total: false,
-                            name:
-                                "Recurrent costs of qualified educators Dentist"
-                        },
-                        {
-                            deuid: "EI6IOp5v4dR",
-                            cocuid: "iWRW6jXAzvP",
-                            cell_no: "D15",
-                            total: false,
-                            name: "Tuition Fee by Student enrolled Pharmacist"
-                        },
-                        {
-                            deuid: "FQpontg7YBJ",
-                            cocuid: "iWRW6jXAzvP",
-                            cell_no: "E15",
-                            total: false,
-                            name:
-                                "Public Expenditure on HWF education Pharmacist"
-                        },
-                        {
-                            deuid: "tsRGEPI6G9W",
-                            cocuid: "iWRW6jXAzvP",
-                            cell_no: "F15",
-                            total: false,
-                            name:
-                                "Private Expenditure on HWF education Pharmacist"
-                        },
-                        {
-                            deuid: "FM20fzfsNov",
-                            cocuid: "iWRW6jXAzvP",
-                            cell_no: "G15",
-                            total: false,
-                            name:
-                                "Recurrent costs of qualified educators Pharmacist"
-                        }
-                    ]
-                },
-                {
-                    sheet_type: "AGGREGATE_STATIC",
-                    sheet_no: 3,
-                    sheet_name: "Specialist Costs",
-                    orgUnitIdScheme: "UID",
-                    dataElementIdScheme: "UID",
-                    idScheme: "UID",
-                    oucode_cell: "P2",
-                    year_cell: "I4",
-                    last_data_column: "ZZ",
-                    agg_des: [
-                        {
-                            deuid: "ie5rMMLaKoX",
-                            cocuid: "qJgX0mO3ph7",
-                            cell_no: "D9",
-                            total: false,
-                            name:
-                                "Total cost per graduate in medical specialist education programme General Paediatricians Practitioner"
-                        },
-                        {
-                            deuid: "VGwyxy87JTn",
-                            cocuid: "qJgX0mO3ph7",
-                            cell_no: "E9",
-                            total: false,
-                            name:
-                                "Public cost per graduate in medical specialist education programme General Paediatricians Practitioner"
-                        },
-                        {
-                            deuid: "qwZoBgLRrQf",
-                            cocuid: "qJgX0mO3ph7",
-                            cell_no: "F9",
-                            total: false,
-                            name:
-                                "Private (OoP) cost per graduate in medical specialist education programme General Paediatricians Practitioner"
-                        },
-                        {
-                            deuid: "Rx0MR32LJoK",
-                            cocuid: "qJgX0mO3ph7",
-                            cell_no: "G9",
-                            total: false,
-                            name:
-                                "Private (ODA) cost per graduate in medical specialist education programme General Paediatricians Practitioner"
-                        },
-                        {
-                            deuid: "uEqspl3rRlH",
-                            cocuid: "qJgX0mO3ph7",
-                            cell_no: "H9",
-                            total: false,
-                            name:
-                                "Private (Other) cost per graduate in medical specialist education programme General Paediatricians Practitioner"
-                        },
-                        {
-                            deuid: "ie5rMMLaKoX",
-                            cocuid: "ABubevCpjCV",
-                            cell_no: "D10",
-                            total: false,
-                            name:
-                                "Total cost per graduate in medical specialist education programme Obstetricians and Gynaecologists Practitioner"
-                        },
-                        {
-                            deuid: "VGwyxy87JTn",
-                            cocuid: "ABubevCpjCV",
-                            cell_no: "E10",
-                            total: false,
-                            name:
-                                "Public cost per graduate in medical specialist education programme Obstetricians and Gynaecologists Practitioner"
-                        },
-                        {
-                            deuid: "qwZoBgLRrQf",
-                            cocuid: "ABubevCpjCV",
-                            cell_no: "F10",
-                            total: false,
-                            name:
-                                "Private (OoP) cost per graduate in medical specialist education programme Obstetricians and Gynaecologists Practitioner"
-                        },
-                        {
-                            deuid: "Rx0MR32LJoK",
-                            cocuid: "ABubevCpjCV",
-                            cell_no: "G10",
-                            total: false,
-                            name:
-                                "Private (ODA) cost per graduate in medical specialist education programme Obstetricians and Gynaecologists Practitioner"
-                        },
-                        {
-                            deuid: "uEqspl3rRlH",
-                            cocuid: "ABubevCpjCV",
+                            cocuid: "woIm3nuS3mM",
                             cell_no: "H10",
                             total: false,
                             name:
-                                "Private (Other) cost per graduate in medical specialist education programme Obstetricians and Gynaecologists Practitioner"
+                                "NHWA_Other Private Expenditure on HWF education Medical Doctors"
                         },
                         {
-                            deuid: "ie5rMMLaKoX",
-                            cocuid: "wNJfYD50ZVE",
+                            deuid: "FM20fzfsNov",
+                            cocuid: "woIm3nuS3mM",
+                            cell_no: "I10",
+                            total: false,
+                            name:
+                                "NHWA_Recurrent costs of qualified educators Medical Doctors"
+                        },
+                        {
+                            deuid: "EI6IOp5v4dR",
+                            cocuid: "Eh8fZEewQLs",
                             cell_no: "D11",
                             total: false,
                             name:
-                                "Total cost per graduate in medical specialist education programme Psychiatrists Practitioner"
+                                "NHWA_Annual Tuition Fee by Student enrolled General Medical Practitioner"
                         },
                         {
-                            deuid: "VGwyxy87JTn",
-                            cocuid: "wNJfYD50ZVE",
+                            deuid: "FQpontg7YBJ",
+                            cocuid: "Eh8fZEewQLs",
                             cell_no: "E11",
                             total: false,
                             name:
-                                "Public cost per graduate in medical specialist education programme Psychiatrists Practitioner"
+                                "NHWA_Public Expenditure on HWF education General Medical Practitioner"
                         },
                         {
-                            deuid: "qwZoBgLRrQf",
-                            cocuid: "wNJfYD50ZVE",
+                            deuid: "FpVMaxDKMvc",
+                            cocuid: "Eh8fZEewQLs",
                             cell_no: "F11",
                             total: false,
                             name:
-                                "Private (OoP) cost per graduate in medical specialist education programme Psychiatrists Practitioner"
+                                "NHWA_Out of Pockets Private Expenditure on HWF education General Medical Practitioner"
                         },
                         {
-                            deuid: "Rx0MR32LJoK",
-                            cocuid: "wNJfYD50ZVE",
+                            deuid: "hNld16i4Kfj",
+                            cocuid: "Eh8fZEewQLs",
                             cell_no: "G11",
                             total: false,
                             name:
-                                "Private (ODA) cost per graduate in medical specialist education programme Psychiatrists Practitioner"
+                                "NHWA_Official Development Assistance Private Expenditure on HWF education General Medical Practitioner"
                         },
                         {
-                            deuid: "uEqspl3rRlH",
-                            cocuid: "wNJfYD50ZVE",
+                            deuid: "tsRGEPI6G9W",
+                            cocuid: "Eh8fZEewQLs",
                             cell_no: "H11",
                             total: false,
                             name:
-                                "Private (Other) cost per graduate in medical specialist education programme Psychiatrists Practitioner"
+                                "NHWA_Other Private Expenditure on HWF education General Medical Practitioner"
                         },
                         {
-                            deuid: "ie5rMMLaKoX",
-                            cocuid: "ByPnGTyTmYa",
+                            deuid: "FM20fzfsNov",
+                            cocuid: "Eh8fZEewQLs",
+                            cell_no: "I11",
+                            total: false,
+                            name:
+                                "NHWA_Recurrent costs of qualified educators General Medical Practitioner"
+                        },
+                        {
+                            deuid: "EI6IOp5v4dR",
+                            cocuid: "Rr4F4xljMoJ",
                             cell_no: "D12",
                             total: false,
                             name:
-                                "Total cost per graduate in medical specialist education programme Medical group of Specialists Practitioner"
+                                "NHWA_Annual Tuition Fee by Student enrolled Specialist Medical Practitioner"
                         },
                         {
-                            deuid: "VGwyxy87JTn",
-                            cocuid: "ByPnGTyTmYa",
+                            deuid: "FQpontg7YBJ",
+                            cocuid: "Rr4F4xljMoJ",
                             cell_no: "E12",
                             total: false,
                             name:
-                                "Public cost per graduate in medical specialist education programme Medical group of Specialists Practitioner"
+                                "NHWA_Public Expenditure on HWF education Specialist Medical Practitioner"
                         },
                         {
-                            deuid: "qwZoBgLRrQf",
-                            cocuid: "ByPnGTyTmYa",
+                            deuid: "FpVMaxDKMvc",
+                            cocuid: "Rr4F4xljMoJ",
                             cell_no: "F12",
                             total: false,
                             name:
-                                "Private (OoP) cost per graduate in medical specialist education programme Medical group of Specialists Practitioner"
+                                "NHWA_Out of Pockets Private Expenditure on HWF education Specialist Medical Practitioner"
                         },
                         {
-                            deuid: "Rx0MR32LJoK",
-                            cocuid: "ByPnGTyTmYa",
+                            deuid: "hNld16i4Kfj",
+                            cocuid: "Rr4F4xljMoJ",
                             cell_no: "G12",
                             total: false,
                             name:
-                                "Private (ODA) cost per graduate in medical specialist education programme Medical group of Specialists Practitioner"
+                                "NHWA_Official Development Assistance Private Expenditure on HWF education Specialist Medical Practitioner"
                         },
                         {
-                            deuid: "uEqspl3rRlH",
-                            cocuid: "ByPnGTyTmYa",
+                            deuid: "tsRGEPI6G9W",
+                            cocuid: "Rr4F4xljMoJ",
                             cell_no: "H12",
                             total: false,
                             name:
-                                "Private (Other) cost per graduate in medical specialist education programme Medical group of Specialists Practitioner"
+                                "NHWA_Other Private Expenditure on HWF education Specialist Medical Practitioner"
                         },
                         {
-                            deuid: "ie5rMMLaKoX",
-                            cocuid: "wJfQhJWdeLX",
+                            deuid: "FM20fzfsNov",
+                            cocuid: "Rr4F4xljMoJ",
+                            cell_no: "I12",
+                            total: false,
+                            name:
+                                "NHWA_Recurrent costs of qualified educators Specialist Medical Practitioner"
+                        },
+                        {
+                            deuid: "EI6IOp5v4dR",
+                            cocuid: "p7nN8h3drrz",
                             cell_no: "D13",
                             total: false,
                             name:
-                                "Total cost per graduate in medical specialist education programme Surgical group of Specialists Practitioner"
+                                "NHWA_Annual Tuition Fee by Student enrolled General Paediatricians Practitioner"
                         },
                         {
-                            deuid: "VGwyxy87JTn",
-                            cocuid: "wJfQhJWdeLX",
+                            deuid: "FQpontg7YBJ",
+                            cocuid: "p7nN8h3drrz",
                             cell_no: "E13",
                             total: false,
                             name:
-                                "Public cost per graduate in medical specialist education programme Surgical group of Specialists Practitioner"
+                                "NHWA_Public Expenditure on HWF education General Paediatricians Practitioner"
                         },
                         {
-                            deuid: "qwZoBgLRrQf",
-                            cocuid: "wJfQhJWdeLX",
+                            deuid: "FpVMaxDKMvc",
+                            cocuid: "p7nN8h3drrz",
                             cell_no: "F13",
                             total: false,
                             name:
-                                "Private (OoP) cost per graduate in medical specialist education programme Surgical group of Specialists Practitioner"
+                                "NHWA_Out of Pockets Private Expenditure on HWF education General Paediatricians Practitioner"
                         },
                         {
-                            deuid: "Rx0MR32LJoK",
-                            cocuid: "wJfQhJWdeLX",
+                            deuid: "hNld16i4Kfj",
+                            cocuid: "p7nN8h3drrz",
                             cell_no: "G13",
                             total: false,
                             name:
-                                "Private (ODA) cost per graduate in medical specialist education programme Surgical group of Specialists Practitioner"
+                                "NHWA_Official Development Assistance Private Expenditure on HWF education General Paediatricians Practitioner"
                         },
                         {
-                            deuid: "uEqspl3rRlH",
-                            cocuid: "wJfQhJWdeLX",
+                            deuid: "tsRGEPI6G9W",
+                            cocuid: "p7nN8h3drrz",
                             cell_no: "H13",
                             total: false,
                             name:
-                                "Private (Other) cost per graduate in medical specialist education programme Surgical group of Specialists Practitioner"
+                                "NHWA_Other Private Expenditure on HWF education General Paediatricians Practitioner"
                         },
                         {
-                            deuid: "ie5rMMLaKoX",
-                            cocuid: "EfAbB5kdjLD",
+                            deuid: "FM20fzfsNov",
+                            cocuid: "p7nN8h3drrz",
+                            cell_no: "I13",
+                            total: false,
+                            name:
+                                "NHWA_Recurrent costs of qualified educators General Paediatricians Practitioner"
+                        },
+                        {
+                            deuid: "EI6IOp5v4dR",
+                            cocuid: "nC5KZyWITGC",
                             cell_no: "D14",
                             total: false,
                             name:
-                                "Total cost per graduate in medical specialist education programme Other Specialists Practitioner"
+                                "NHWA_Annual Tuition Fee by Student enrolled Obstetricians and Gynaecologists Practitioner"
                         },
                         {
-                            deuid: "VGwyxy87JTn",
-                            cocuid: "EfAbB5kdjLD",
+                            deuid: "FQpontg7YBJ",
+                            cocuid: "nC5KZyWITGC",
                             cell_no: "E14",
                             total: false,
                             name:
-                                "Public cost per graduate in medical specialist education programme Other Specialists Practitioner"
+                                "NHWA_Public Expenditure on HWF education Obstetricians and Gynaecologists Practitioner"
                         },
                         {
-                            deuid: "qwZoBgLRrQf",
-                            cocuid: "EfAbB5kdjLD",
+                            deuid: "FpVMaxDKMvc",
+                            cocuid: "nC5KZyWITGC",
                             cell_no: "F14",
                             total: false,
                             name:
-                                "Private (OoP) cost per graduate in medical specialist education programme Other Specialists Practitioner"
+                                "NHWA_Out of Pockets Private Expenditure on HWF education Obstetricians and Gynaecologists Practitioner"
                         },
                         {
-                            deuid: "Rx0MR32LJoK",
-                            cocuid: "EfAbB5kdjLD",
+                            deuid: "hNld16i4Kfj",
+                            cocuid: "nC5KZyWITGC",
                             cell_no: "G14",
                             total: false,
                             name:
-                                "Private (ODA) cost per graduate in medical specialist education programme Other Specialists Practitioner"
+                                "NHWA_Official Development Assistance Private Expenditure on HWF education Obstetricians and Gynaecologists Practitioner"
                         },
                         {
-                            deuid: "uEqspl3rRlH",
-                            cocuid: "EfAbB5kdjLD",
+                            deuid: "tsRGEPI6G9W",
+                            cocuid: "nC5KZyWITGC",
                             cell_no: "H14",
                             total: false,
                             name:
-                                "Private (Other) cost per graduate in medical specialist education programme Other Specialists Practitioner"
+                                "NHWA_Other Private Expenditure on HWF education Obstetricians and Gynaecologists Practitioner"
+                        },
+                        {
+                            deuid: "FM20fzfsNov",
+                            cocuid: "nC5KZyWITGC",
+                            cell_no: "I14",
+                            total: false,
+                            name:
+                                "NHWA_Recurrent costs of qualified educators Obstetricians and Gynaecologists Practitioner"
+                        },
+                        {
+                            deuid: "EI6IOp5v4dR",
+                            cocuid: "hx9b4UVGIgW",
+                            cell_no: "D15",
+                            total: false,
+                            name:
+                                "NHWA_Annual Tuition Fee by Student enrolled Psychiatrists Practitioner"
+                        },
+                        {
+                            deuid: "FQpontg7YBJ",
+                            cocuid: "hx9b4UVGIgW",
+                            cell_no: "E15",
+                            total: false,
+                            name:
+                                "NHWA_Public Expenditure on HWF education Psychiatrists Practitioner"
+                        },
+                        {
+                            deuid: "FpVMaxDKMvc",
+                            cocuid: "hx9b4UVGIgW",
+                            cell_no: "F15",
+                            total: false,
+                            name:
+                                "NHWA_Out of Pockets Private Expenditure on HWF education Psychiatrists Practitioner"
+                        },
+                        {
+                            deuid: "hNld16i4Kfj",
+                            cocuid: "hx9b4UVGIgW",
+                            cell_no: "G15",
+                            total: false,
+                            name:
+                                "NHWA_Official Development Assistance Private Expenditure on HWF education Psychiatrists Practitioner"
+                        },
+                        {
+                            deuid: "tsRGEPI6G9W",
+                            cocuid: "hx9b4UVGIgW",
+                            cell_no: "H15",
+                            total: false,
+                            name:
+                                "NHWA_Other Private Expenditure on HWF education Psychiatrists Practitioner"
+                        },
+                        {
+                            deuid: "FM20fzfsNov",
+                            cocuid: "hx9b4UVGIgW",
+                            cell_no: "I15",
+                            total: false,
+                            name:
+                                "NHWA_Recurrent costs of qualified educators Psychiatrists Practitioner"
+                        },
+                        {
+                            deuid: "EI6IOp5v4dR",
+                            cocuid: "U0Q8rlyIf0L",
+                            cell_no: "D16",
+                            total: false,
+                            name:
+                                "NHWA_Annual Tuition Fee by Student enrolled Medical group of Specialists Practitioner"
+                        },
+                        {
+                            deuid: "FQpontg7YBJ",
+                            cocuid: "U0Q8rlyIf0L",
+                            cell_no: "E16",
+                            total: false,
+                            name:
+                                "NHWA_Public Expenditure on HWF education Medical group of Specialists Practitioner"
+                        },
+                        {
+                            deuid: "FpVMaxDKMvc",
+                            cocuid: "U0Q8rlyIf0L",
+                            cell_no: "F16",
+                            total: false,
+                            name:
+                                "NHWA_Out of Pockets Private Expenditure on HWF education Medical group of Specialists Practitioner"
+                        },
+                        {
+                            deuid: "hNld16i4Kfj",
+                            cocuid: "U0Q8rlyIf0L",
+                            cell_no: "G16",
+                            total: false,
+                            name:
+                                "NHWA_Official Development Assistance Private Expenditure on HWF education Medical group of Specialists Practitioner"
+                        },
+                        {
+                            deuid: "tsRGEPI6G9W",
+                            cocuid: "U0Q8rlyIf0L",
+                            cell_no: "H16",
+                            total: false,
+                            name:
+                                "NHWA_Other Private Expenditure on HWF education Medical group of Specialists Practitioner"
+                        },
+                        {
+                            deuid: "FM20fzfsNov",
+                            cocuid: "U0Q8rlyIf0L",
+                            cell_no: "I16",
+                            total: false,
+                            name:
+                                "NHWA_Recurrent costs of qualified educators Medical group of Specialists Practitioner"
+                        },
+                        {
+                            deuid: "EI6IOp5v4dR",
+                            cocuid: "N53ac2J5cmY",
+                            cell_no: "D17",
+                            total: false,
+                            name:
+                                "NHWA_Annual Tuition Fee by Student enrolled Surgical group of Specialists Practitioner"
+                        },
+                        {
+                            deuid: "FQpontg7YBJ",
+                            cocuid: "N53ac2J5cmY",
+                            cell_no: "E17",
+                            total: false,
+                            name:
+                                "NHWA_Public Expenditure on HWF education Surgical group of Specialists Practitioner"
+                        },
+                        {
+                            deuid: "FpVMaxDKMvc",
+                            cocuid: "N53ac2J5cmY",
+                            cell_no: "F17",
+                            total: false,
+                            name:
+                                "NHWA_Out of Pockets Private Expenditure on HWF education Surgical group of Specialists Practitioner"
+                        },
+                        {
+                            deuid: "hNld16i4Kfj",
+                            cocuid: "N53ac2J5cmY",
+                            cell_no: "G17",
+                            total: false,
+                            name:
+                                "NHWA_Official Development Assistance Private Expenditure on HWF education Surgical group of Specialists Practitioner"
+                        },
+                        {
+                            deuid: "tsRGEPI6G9W",
+                            cocuid: "N53ac2J5cmY",
+                            cell_no: "H17",
+                            total: false,
+                            name:
+                                "NHWA_Other Private Expenditure on HWF education Surgical group of Specialists Practitioner"
+                        },
+                        {
+                            deuid: "FM20fzfsNov",
+                            cocuid: "N53ac2J5cmY",
+                            cell_no: "I17",
+                            total: false,
+                            name:
+                                "NHWA_Recurrent costs of qualified educators Surgical group of Specialists Practitioner"
+                        },
+                        {
+                            deuid: "EI6IOp5v4dR",
+                            cocuid: "K4qTZe26KoX",
+                            cell_no: "D18",
+                            total: false,
+                            name:
+                                "NHWA_Annual Tuition Fee by Student enrolled Other Specialists Practitioner"
+                        },
+                        {
+                            deuid: "FQpontg7YBJ",
+                            cocuid: "K4qTZe26KoX",
+                            cell_no: "E18",
+                            total: false,
+                            name:
+                                "NHWA_Public Expenditure on HWF education Other Specialists Practitioner"
+                        },
+                        {
+                            deuid: "FpVMaxDKMvc",
+                            cocuid: "K4qTZe26KoX",
+                            cell_no: "F18",
+                            total: false,
+                            name:
+                                "NHWA_Out of Pockets Private Expenditure on HWF education Other Specialists Practitioner"
+                        },
+                        {
+                            deuid: "hNld16i4Kfj",
+                            cocuid: "K4qTZe26KoX",
+                            cell_no: "G18",
+                            total: false,
+                            name:
+                                "NHWA_Official Development Assistance Private Expenditure on HWF education Other Specialists Practitioner"
+                        },
+                        {
+                            deuid: "tsRGEPI6G9W",
+                            cocuid: "K4qTZe26KoX",
+                            cell_no: "H18",
+                            total: false,
+                            name:
+                                "NHWA_Other Private Expenditure on HWF education Other Specialists Practitioner"
+                        },
+                        {
+                            deuid: "FM20fzfsNov",
+                            cocuid: "K4qTZe26KoX",
+                            cell_no: "I18",
+                            total: false,
+                            name:
+                                "NHWA_Recurrent costs of qualified educators Other Specialists Practitioner"
+                        },
+                        {
+                            deuid: "EI6IOp5v4dR",
+                            cocuid: "gT8LDQDh2wc",
+                            cell_no: "D19",
+                            total: false,
+                            name:
+                                "NHWA_Annual Tuition Fee by Student enrolled Nursing Professional"
+                        },
+                        {
+                            deuid: "FQpontg7YBJ",
+                            cocuid: "gT8LDQDh2wc",
+                            cell_no: "E19",
+                            total: false,
+                            name:
+                                "NHWA_Public Expenditure on HWF education Nursing Professional"
+                        },
+                        {
+                            deuid: "FpVMaxDKMvc",
+                            cocuid: "gT8LDQDh2wc",
+                            cell_no: "F19",
+                            total: false,
+                            name:
+                                "NHWA_Out of Pockets Private Expenditure on HWF education Nursing Professional"
+                        },
+                        {
+                            deuid: "hNld16i4Kfj",
+                            cocuid: "gT8LDQDh2wc",
+                            cell_no: "G19",
+                            total: false,
+                            name:
+                                "NHWA_Official Development Assistance Private Expenditure on HWF education Nursing Professional"
+                        },
+                        {
+                            deuid: "tsRGEPI6G9W",
+                            cocuid: "gT8LDQDh2wc",
+                            cell_no: "H19",
+                            total: false,
+                            name:
+                                "NHWA_Other Private Expenditure on HWF education Nursing Professional"
+                        },
+                        {
+                            deuid: "FM20fzfsNov",
+                            cocuid: "gT8LDQDh2wc",
+                            cell_no: "I19",
+                            total: false,
+                            name:
+                                "NHWA_Recurrent costs of qualified educators Nursing Professional"
+                        },
+                        {
+                            deuid: "EI6IOp5v4dR",
+                            cocuid: "GrzcLgIHx9h",
+                            cell_no: "D20",
+                            total: false,
+                            name:
+                                "NHWA_Annual Tuition Fee by Student enrolled Midwifery Professional"
+                        },
+                        {
+                            deuid: "FQpontg7YBJ",
+                            cocuid: "GrzcLgIHx9h",
+                            cell_no: "E20",
+                            total: false,
+                            name:
+                                "NHWA_Public Expenditure on HWF education Midwifery Professional"
+                        },
+                        {
+                            deuid: "FpVMaxDKMvc",
+                            cocuid: "GrzcLgIHx9h",
+                            cell_no: "F20",
+                            total: false,
+                            name:
+                                "NHWA_Out of Pockets Private Expenditure on HWF education Midwifery Professional"
+                        },
+                        {
+                            deuid: "hNld16i4Kfj",
+                            cocuid: "GrzcLgIHx9h",
+                            cell_no: "G20",
+                            total: false,
+                            name:
+                                "NHWA_Official Development Assistance Private Expenditure on HWF education Midwifery Professional"
+                        },
+                        {
+                            deuid: "tsRGEPI6G9W",
+                            cocuid: "GrzcLgIHx9h",
+                            cell_no: "H20",
+                            total: false,
+                            name:
+                                "NHWA_Other Private Expenditure on HWF education Midwifery Professional"
+                        },
+                        {
+                            deuid: "FM20fzfsNov",
+                            cocuid: "GrzcLgIHx9h",
+                            cell_no: "I20",
+                            total: false,
+                            name:
+                                "NHWA_Recurrent costs of qualified educators Midwifery Professional"
+                        },
+                        {
+                            deuid: "EI6IOp5v4dR",
+                            cocuid: "BUVRp4Q2zi7",
+                            cell_no: "D21",
+                            total: false,
+                            name:
+                                "NHWA_Annual Tuition Fee by Student enrolled Dentist"
+                        },
+                        {
+                            deuid: "FQpontg7YBJ",
+                            cocuid: "BUVRp4Q2zi7",
+                            cell_no: "E21",
+                            total: false,
+                            name:
+                                "NHWA_Public Expenditure on HWF education Dentist"
+                        },
+                        {
+                            deuid: "FpVMaxDKMvc",
+                            cocuid: "BUVRp4Q2zi7",
+                            cell_no: "F21",
+                            total: false,
+                            name:
+                                "NHWA_Out of Pockets Private Expenditure on HWF education Dentist"
+                        },
+                        {
+                            deuid: "hNld16i4Kfj",
+                            cocuid: "BUVRp4Q2zi7",
+                            cell_no: "G21",
+                            total: false,
+                            name:
+                                "NHWA_Official Development Assistance Private Expenditure on HWF education Dentist"
+                        },
+                        {
+                            deuid: "tsRGEPI6G9W",
+                            cocuid: "BUVRp4Q2zi7",
+                            cell_no: "H21",
+                            total: false,
+                            name:
+                                "NHWA_Other Private Expenditure on HWF education Dentist"
+                        },
+                        {
+                            deuid: "FM20fzfsNov",
+                            cocuid: "BUVRp4Q2zi7",
+                            cell_no: "I21",
+                            total: false,
+                            name:
+                                "NHWA_Recurrent costs of qualified educators Dentist"
+                        },
+                        {
+                            deuid: "EI6IOp5v4dR",
+                            cocuid: "UbXO8Hq562j",
+                            cell_no: "D22",
+                            total: false,
+                            name:
+                                "NHWA_Annual Tuition Fee by Student enrolled Pharmacist"
+                        },
+                        {
+                            deuid: "FQpontg7YBJ",
+                            cocuid: "UbXO8Hq562j",
+                            cell_no: "E22",
+                            total: false,
+                            name:
+                                "NHWA_Public Expenditure on HWF education Pharmacist"
+                        },
+                        {
+                            deuid: "FpVMaxDKMvc",
+                            cocuid: "UbXO8Hq562j",
+                            cell_no: "F22",
+                            total: false,
+                            name:
+                                "NHWA_Out of Pockets Private Expenditure on HWF education Pharmacist"
+                        },
+                        {
+                            deuid: "hNld16i4Kfj",
+                            cocuid: "UbXO8Hq562j",
+                            cell_no: "G22",
+                            total: false,
+                            name:
+                                "NHWA_Official Development Assistance Private Expenditure on HWF education Pharmacist"
+                        },
+                        {
+                            deuid: "tsRGEPI6G9W",
+                            cocuid: "UbXO8Hq562j",
+                            cell_no: "H22",
+                            total: false,
+                            name:
+                                "NHWA_Other Private Expenditure on HWF education Pharmacist"
+                        },
+                        {
+                            deuid: "FM20fzfsNov",
+                            cocuid: "UbXO8Hq562j",
+                            cell_no: "I22",
+                            total: false,
+                            name:
+                                "NHWA_Recurrent costs of qualified educators Pharmacist"
                         }
                     ]
                 },
@@ -25065,7 +25401,7 @@ var whoTemplate = {
                             cell_no: "D11",
                             total: false,
                             name:
-                                "Public expenditure on Continuing Professional Development Medical Doctors"
+                                "NHWA_Public expenditure on Continuing Professional Development Medical Doctors"
                         },
                         {
                             deuid: "go9xficYy4f",
@@ -25073,7 +25409,7 @@ var whoTemplate = {
                             cell_no: "E11",
                             total: false,
                             name:
-                                "Out of Pockets expenditure on Continuing Professional Development Medical Doctors"
+                                "NHWA_Out of Pockets expenditure on Continuing Professional Development Medical Doctors"
                         },
                         {
                             deuid: "BMJGeU5QjPU",
@@ -25081,7 +25417,7 @@ var whoTemplate = {
                             cell_no: "F11",
                             total: false,
                             name:
-                                "Official Development Assistanc expenditure on Continuing Professional Development Medical Doctors"
+                                "NHWA_Official Development Assistanc expenditure on Continuing Professional Development Medical Doctors"
                         },
                         {
                             deuid: "hUqp2FZFNGA",
@@ -25089,7 +25425,7 @@ var whoTemplate = {
                             cell_no: "G11",
                             total: false,
                             name:
-                                "Others expenditure on Continuing Professional Development Medical Doctors"
+                                "NHWA_Others expenditure on Continuing Professional Development Medical Doctors"
                         },
                         {
                             deuid: "k31vRXPe1UA",
@@ -25097,7 +25433,7 @@ var whoTemplate = {
                             cell_no: "D12",
                             total: false,
                             name:
-                                "Public expenditure on Continuing Professional Development General Medical Practitioner"
+                                "NHWA_Public expenditure on Continuing Professional Development General Medical Practitioner"
                         },
                         {
                             deuid: "go9xficYy4f",
@@ -25105,7 +25441,7 @@ var whoTemplate = {
                             cell_no: "E12",
                             total: false,
                             name:
-                                "Out of Pockets expenditure on Continuing Professional Development General Medical Practitioner"
+                                "NHWA_Out of Pockets expenditure on Continuing Professional Development General Medical Practitioner"
                         },
                         {
                             deuid: "BMJGeU5QjPU",
@@ -25113,7 +25449,7 @@ var whoTemplate = {
                             cell_no: "F12",
                             total: false,
                             name:
-                                "Official Development Assistanc expenditure on Continuing Professional Development General Medical Practitioner"
+                                "NHWA_Official Development Assistanc expenditure on Continuing Professional Development General Medical Practitioner"
                         },
                         {
                             deuid: "hUqp2FZFNGA",
@@ -25121,7 +25457,7 @@ var whoTemplate = {
                             cell_no: "G12",
                             total: false,
                             name:
-                                "Others expenditure on Continuing Professional Development General Medical Practitioner"
+                                "NHWA_Others expenditure on Continuing Professional Development General Medical Practitioner"
                         },
                         {
                             deuid: "k31vRXPe1UA",
@@ -25129,7 +25465,7 @@ var whoTemplate = {
                             cell_no: "D13",
                             total: false,
                             name:
-                                "Public expenditure on Continuing Professional Development Specialist Medical Practitioner"
+                                "NHWA_Public expenditure on Continuing Professional Development Specialist Medical Practitioner"
                         },
                         {
                             deuid: "go9xficYy4f",
@@ -25137,7 +25473,7 @@ var whoTemplate = {
                             cell_no: "E13",
                             total: false,
                             name:
-                                "Out of Pockets expenditure on Continuing Professional Development Specialist Medical Practitioner"
+                                "NHWA_Out of Pockets expenditure on Continuing Professional Development Specialist Medical Practitioner"
                         },
                         {
                             deuid: "BMJGeU5QjPU",
@@ -25145,7 +25481,7 @@ var whoTemplate = {
                             cell_no: "F13",
                             total: false,
                             name:
-                                "Official Development Assistanc expenditure on Continuing Professional Development Specialist Medical Practitioner"
+                                "NHWA_Official Development Assistanc expenditure on Continuing Professional Development Specialist Medical Practitioner"
                         },
                         {
                             deuid: "hUqp2FZFNGA",
@@ -25153,7 +25489,7 @@ var whoTemplate = {
                             cell_no: "G13",
                             total: false,
                             name:
-                                "Others expenditure on Continuing Professional Development Specialist Medical Practitioner"
+                                "NHWA_Others expenditure on Continuing Professional Development Specialist Medical Practitioner"
                         },
                         {
                             deuid: "k31vRXPe1UA",
@@ -25161,7 +25497,7 @@ var whoTemplate = {
                             cell_no: "D14",
                             total: false,
                             name:
-                                "Public expenditure on Continuing Professional Development Nursing Professional"
+                                "NHWA_Public expenditure on Continuing Professional Development Nursing Professional"
                         },
                         {
                             deuid: "go9xficYy4f",
@@ -25169,7 +25505,7 @@ var whoTemplate = {
                             cell_no: "E14",
                             total: false,
                             name:
-                                "Out of Pockets expenditure on Continuing Professional Development Nursing Professional"
+                                "NHWA_Out of Pockets expenditure on Continuing Professional Development Nursing Professional"
                         },
                         {
                             deuid: "BMJGeU5QjPU",
@@ -25177,7 +25513,7 @@ var whoTemplate = {
                             cell_no: "F14",
                             total: false,
                             name:
-                                "Official Development Assistanc expenditure on Continuing Professional Development Nursing Professional"
+                                "NHWA_Official Development Assistanc expenditure on Continuing Professional Development Nursing Professional"
                         },
                         {
                             deuid: "hUqp2FZFNGA",
@@ -25185,7 +25521,7 @@ var whoTemplate = {
                             cell_no: "G14",
                             total: false,
                             name:
-                                "Others expenditure on Continuing Professional Development Nursing Professional"
+                                "NHWA_Others expenditure on Continuing Professional Development Nursing Professional"
                         },
                         {
                             deuid: "k31vRXPe1UA",
@@ -25193,7 +25529,7 @@ var whoTemplate = {
                             cell_no: "D15",
                             total: false,
                             name:
-                                "Public expenditure on Continuing Professional Development Midwifery Professional"
+                                "NHWA_Public expenditure on Continuing Professional Development Midwifery Professional"
                         },
                         {
                             deuid: "go9xficYy4f",
@@ -25201,7 +25537,7 @@ var whoTemplate = {
                             cell_no: "E15",
                             total: false,
                             name:
-                                "Out of Pockets expenditure on Continuing Professional Development Midwifery Professional"
+                                "NHWA_Out of Pockets expenditure on Continuing Professional Development Midwifery Professional"
                         },
                         {
                             deuid: "BMJGeU5QjPU",
@@ -25209,7 +25545,7 @@ var whoTemplate = {
                             cell_no: "F15",
                             total: false,
                             name:
-                                "Official Development Assistanc expenditure on Continuing Professional Development Midwifery Professional"
+                                "NHWA_Official Development Assistanc expenditure on Continuing Professional Development Midwifery Professional"
                         },
                         {
                             deuid: "hUqp2FZFNGA",
@@ -25217,7 +25553,7 @@ var whoTemplate = {
                             cell_no: "G15",
                             total: false,
                             name:
-                                "Others expenditure on Continuing Professional Development Midwifery Professional"
+                                "NHWA_Others expenditure on Continuing Professional Development Midwifery Professional"
                         },
                         {
                             deuid: "k31vRXPe1UA",
@@ -25225,7 +25561,7 @@ var whoTemplate = {
                             cell_no: "D16",
                             total: false,
                             name:
-                                "Public expenditure on Continuing Professional Development Dentist"
+                                "NHWA_Public expenditure on Continuing Professional Development Dentist"
                         },
                         {
                             deuid: "go9xficYy4f",
@@ -25233,7 +25569,7 @@ var whoTemplate = {
                             cell_no: "E16",
                             total: false,
                             name:
-                                "Out of Pockets expenditure on Continuing Professional Development Dentist"
+                                "NHWA_Out of Pockets expenditure on Continuing Professional Development Dentist"
                         },
                         {
                             deuid: "BMJGeU5QjPU",
@@ -25241,7 +25577,7 @@ var whoTemplate = {
                             cell_no: "F16",
                             total: false,
                             name:
-                                "Official Development Assistanc expenditure on Continuing Professional Development Dentist"
+                                "NHWA_Official Development Assistanc expenditure on Continuing Professional Development Dentist"
                         },
                         {
                             deuid: "hUqp2FZFNGA",
@@ -25249,7 +25585,7 @@ var whoTemplate = {
                             cell_no: "G16",
                             total: false,
                             name:
-                                "Others expenditure on Continuing Professional Development Dentist"
+                                "NHWA_Others expenditure on Continuing Professional Development Dentist"
                         },
                         {
                             deuid: "k31vRXPe1UA",
@@ -25257,7 +25593,7 @@ var whoTemplate = {
                             cell_no: "D17",
                             total: false,
                             name:
-                                "Public expenditure on Continuing Professional Development Pharmacist"
+                                "NHWA_Public expenditure on Continuing Professional Development Pharmacist"
                         },
                         {
                             deuid: "go9xficYy4f",
@@ -25265,7 +25601,7 @@ var whoTemplate = {
                             cell_no: "E17",
                             total: false,
                             name:
-                                "Out of Pockets expenditure on Continuing Professional Development Pharmacist"
+                                "NHWA_Out of Pockets expenditure on Continuing Professional Development Pharmacist"
                         },
                         {
                             deuid: "BMJGeU5QjPU",
@@ -25273,7 +25609,7 @@ var whoTemplate = {
                             cell_no: "F17",
                             total: false,
                             name:
-                                "Official Development Assistanc expenditure on Continuing Professional Development Pharmacist"
+                                "NHWA_Official Development Assistanc expenditure on Continuing Professional Development Pharmacist"
                         },
                         {
                             deuid: "hUqp2FZFNGA",
@@ -25281,7 +25617,7 @@ var whoTemplate = {
                             cell_no: "G17",
                             total: false,
                             name:
-                                "Others expenditure on Continuing Professional Development Pharmacist"
+                                "NHWA_Others expenditure on Continuing Professional Development Pharmacist"
                         }
                     ]
                 }
@@ -27154,115 +27490,91 @@ var whoTemplate = {
                     last_data_column: "ZZ",
                     agg_des: [
                         {
-                            deuid: "Wgfv9IaDiWM",
-                            cocuid: "Xr12mI7VPn3",
-                            cell_no: "D8",
-                            total: false,
-                            name:
-                                "Financial income received from official development assistance and allocated to HWF default"
-                        },
-                        {
                             deuid: "gNDFctqpNyv",
                             cocuid: "IMqululFzhP",
-                            cell_no: "D12",
+                            cell_no: "E8",
                             total: false,
-                            name: "Expenditure on health workforce Public"
+                            name: "NHWA_Expenditure on health workforce Public"
                         },
                         {
                             deuid: "gNDFctqpNyv",
                             cocuid: "N3nYJ6ScaYx",
-                            cell_no: "E12",
+                            cell_no: "F8",
                             total: false,
                             name:
-                                "Expenditure on health workforce Private not for profit"
+                                "NHWA_Expenditure on health workforce Private not for profit"
                         },
                         {
                             deuid: "gNDFctqpNyv",
                             cocuid: "UKbfaRlqkpY",
-                            cell_no: "F12",
+                            cell_no: "G8",
                             total: false,
                             name:
-                                "Expenditure on health workforce Private for profit"
+                                "NHWA_Expenditure on health workforce Private for profit"
                         },
                         {
-                            deuid: "xWfKWoc4ggg",
-                            cocuid: "cFkpPfqFrJW",
-                            cell_no: "D16",
+                            deuid: "Wgfv9IaDiWM",
+                            cocuid: "Xr12mI7VPn3",
+                            cell_no: "G12",
                             total: false,
                             name:
-                                "Public expenditure on health workforce Compensation"
-                        },
-                        {
-                            deuid: "xWfKWoc4ggg",
-                            cocuid: "TQ5H1Za7ZMR",
-                            cell_no: "E16",
-                            total: false,
-                            name:
-                                "Public expenditure on health workforce Training"
-                        },
-                        {
-                            deuid: "xWfKWoc4ggg",
-                            cocuid: "dVpd180cEmo",
-                            cell_no: "F16",
-                            total: false,
-                            name:
-                                "Public expenditure on health workforce Others"
-                        },
-                        {
-                            deuid: "l5RPrypr3Wg",
-                            cocuid: "LfoJLP7BbDk",
-                            cell_no: "D20",
-                            total: false,
-                            name:
-                                "Public expenditure on compensation of employees Wages and Salary"
-                        },
-                        {
-                            deuid: "l5RPrypr3Wg",
-                            cocuid: "hL8lKfXNzln",
-                            cell_no: "E20",
-                            total: false,
-                            name:
-                                "Public expenditure on compensation of employees Social contribution"
-                        },
-                        {
-                            deuid: "l5RPrypr3Wg",
-                            cocuid: "VWIQFya88eZ",
-                            cell_no: "F20",
-                            total: false,
-                            name:
-                                "Public expenditure on compensation of employees Others"
+                                "NHWA_Financial income received from official development assistance and allocated to HWF default"
                         },
                         {
                             deuid: "CvaGFNVhuQl",
                             cocuid: "HQPWV8cT7li",
-                            cell_no: "D24",
+                            cell_no: "D16",
                             total: false,
                             name:
-                                "Total expenditure on compensation of employees Government"
+                                "NHWA_Total expenditure on compensation of employees Government"
                         },
                         {
                             deuid: "CvaGFNVhuQl",
                             cocuid: "FiRcnmXF1Yg",
-                            cell_no: "E24",
+                            cell_no: "E16",
                             total: false,
                             name:
-                                "Total expenditure on compensation of employees Out of Pocket"
+                                "NHWA_Total expenditure on compensation of employees Out of Pocket"
                         },
                         {
                             deuid: "CvaGFNVhuQl",
                             cocuid: "QKhM7ublqzd",
-                            cell_no: "F24",
+                            cell_no: "F16",
                             total: false,
                             name:
-                                "Total expenditure on compensation of employees Official Development Assistance"
+                                "NHWA_Total expenditure on compensation of employees Official Development Assistance"
                         },
                         {
                             deuid: "CvaGFNVhuQl",
                             cocuid: "txxKPnVUGvV",
-                            cell_no: "G24",
+                            cell_no: "G16",
                             total: false,
                             name:
-                                "Total expenditure on compensation of employees Others"
+                                "NHWA_Total expenditure on compensation of employees Others"
+                        },
+                        {
+                            deuid: "l5RPrypr3Wg",
+                            cocuid: "LfoJLP7BbDk",
+                            cell_no: "E20",
+                            total: false,
+                            name:
+                                "NHWA_Public expenditure on compensation of employees Wages and Salary"
+                        },
+                        {
+                            deuid: "l5RPrypr3Wg",
+                            cocuid: "hL8lKfXNzln",
+                            cell_no: "F20",
+                            total: false,
+                            name:
+                                "NHWA_Public expenditure on compensation of employees Social contribution"
+                        },
+                        {
+                            deuid: "l5RPrypr3Wg",
+                            cocuid: "VWIQFya88eZ",
+                            cell_no: "G20",
+                            total: false,
+                            name:
+                                "NHWA_Public expenditure on compensation of employees Others"
                         }
                     ]
                 },
@@ -27283,7 +27595,7 @@ var whoTemplate = {
                             cell_no: "D10",
                             total: false,
                             name:
-                                "Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Medical Doctors"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Medical Doctors"
                         },
                         {
                             deuid: "BOsqct4iCpa",
@@ -27291,7 +27603,7 @@ var whoTemplate = {
                             cell_no: "E10",
                             total: false,
                             name:
-                                "Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Medical Doctors"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Medical Doctors"
                         },
                         {
                             deuid: "H6pdAoosHWN",
@@ -27299,21 +27611,23 @@ var whoTemplate = {
                             cell_no: "F10",
                             total: false,
                             name:
-                                "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Medical Doctors"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Medical Doctors"
                         },
                         {
                             deuid: "BCjjT4Xujzu",
                             cocuid: "aBpbcEgtzgw",
                             cell_no: "G10",
                             total: false,
-                            name: "total median earnings HWF Medical Doctors"
+                            name:
+                                "NHWA_total median earnings HWF Medical Doctors"
                         },
                         {
                             deuid: "oTcSBrUk1hs",
                             cocuid: "aBpbcEgtzgw",
                             cell_no: "H10",
                             total: false,
-                            name: "median earnings of men HWF Medical Doctors"
+                            name:
+                                "NHWA_median earnings of men HWF Medical Doctors"
                         },
                         {
                             deuid: "kOWad32u5xr",
@@ -27321,7 +27635,7 @@ var whoTemplate = {
                             cell_no: "I10",
                             total: false,
                             name:
-                                "median earnings of female HWF Medical Doctors"
+                                "NHWA_median earnings of female HWF Medical Doctors"
                         },
                         {
                             deuid: "FVANVRToxVF",
@@ -27329,7 +27643,7 @@ var whoTemplate = {
                             cell_no: "D11",
                             total: false,
                             name:
-                                "Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Generalist Medical Practitioner"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities General Medical Practitioner"
                         },
                         {
                             deuid: "BOsqct4iCpa",
@@ -27337,7 +27651,7 @@ var whoTemplate = {
                             cell_no: "E11",
                             total: false,
                             name:
-                                "Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Generalist Medical Practitioner"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities General Medical Practitioner"
                         },
                         {
                             deuid: "H6pdAoosHWN",
@@ -27345,7 +27659,7 @@ var whoTemplate = {
                             cell_no: "F11",
                             total: false,
                             name:
-                                "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Generalist Medical Practitioner"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities General Medical Practitioner"
                         },
                         {
                             deuid: "BCjjT4Xujzu",
@@ -27353,7 +27667,7 @@ var whoTemplate = {
                             cell_no: "G11",
                             total: false,
                             name:
-                                "total median earnings HWF Generalist Medical Practitioner"
+                                "NHWA_total median earnings HWF General Medical Practitioner"
                         },
                         {
                             deuid: "oTcSBrUk1hs",
@@ -27361,7 +27675,7 @@ var whoTemplate = {
                             cell_no: "H11",
                             total: false,
                             name:
-                                "median earnings of men HWF Generalist Medical Practitioner"
+                                "NHWA_median earnings of men HWF General Medical Practitioner"
                         },
                         {
                             deuid: "kOWad32u5xr",
@@ -27369,7 +27683,7 @@ var whoTemplate = {
                             cell_no: "I11",
                             total: false,
                             name:
-                                "median earnings of female HWF Generalist Medical Practitioner"
+                                "NHWA_median earnings of female HWF General Medical Practitioner"
                         },
                         {
                             deuid: "FVANVRToxVF",
@@ -27377,7 +27691,7 @@ var whoTemplate = {
                             cell_no: "D12",
                             total: false,
                             name:
-                                "Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Specialist Medical Practitioner"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Specialist Medical Practitioner"
                         },
                         {
                             deuid: "BOsqct4iCpa",
@@ -27385,7 +27699,7 @@ var whoTemplate = {
                             cell_no: "E12",
                             total: false,
                             name:
-                                "Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Specialist Medical Practitioner"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Specialist Medical Practitioner"
                         },
                         {
                             deuid: "H6pdAoosHWN",
@@ -27393,7 +27707,7 @@ var whoTemplate = {
                             cell_no: "F12",
                             total: false,
                             name:
-                                "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Specialist Medical Practitioner"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Specialist Medical Practitioner"
                         },
                         {
                             deuid: "BCjjT4Xujzu",
@@ -27401,7 +27715,7 @@ var whoTemplate = {
                             cell_no: "G12",
                             total: false,
                             name:
-                                "total median earnings HWF Specialist Medical Practitioner"
+                                "NHWA_total median earnings HWF Specialist Medical Practitioner"
                         },
                         {
                             deuid: "oTcSBrUk1hs",
@@ -27409,7 +27723,7 @@ var whoTemplate = {
                             cell_no: "H12",
                             total: false,
                             name:
-                                "median earnings of men HWF Specialist Medical Practitioner"
+                                "NHWA_median earnings of men HWF Specialist Medical Practitioner"
                         },
                         {
                             deuid: "kOWad32u5xr",
@@ -27417,7 +27731,7 @@ var whoTemplate = {
                             cell_no: "I12",
                             total: false,
                             name:
-                                "median earnings of female HWF Specialist Medical Practitioner"
+                                "NHWA_median earnings of female HWF Specialist Medical Practitioner"
                         },
                         {
                             deuid: "FVANVRToxVF",
@@ -27425,7 +27739,7 @@ var whoTemplate = {
                             cell_no: "D13",
                             total: false,
                             name:
-                                "Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Nursing Professional"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Nursing Professional"
                         },
                         {
                             deuid: "BOsqct4iCpa",
@@ -27433,7 +27747,7 @@ var whoTemplate = {
                             cell_no: "E13",
                             total: false,
                             name:
-                                "Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Nursing Professional"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Nursing Professional"
                         },
                         {
                             deuid: "H6pdAoosHWN",
@@ -27441,7 +27755,7 @@ var whoTemplate = {
                             cell_no: "F13",
                             total: false,
                             name:
-                                "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Nursing Professional"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Nursing Professional"
                         },
                         {
                             deuid: "BCjjT4Xujzu",
@@ -27449,7 +27763,7 @@ var whoTemplate = {
                             cell_no: "G13",
                             total: false,
                             name:
-                                "total median earnings HWF Nursing Professional"
+                                "NHWA_total median earnings HWF Nursing Professional"
                         },
                         {
                             deuid: "oTcSBrUk1hs",
@@ -27457,7 +27771,7 @@ var whoTemplate = {
                             cell_no: "H13",
                             total: false,
                             name:
-                                "median earnings of men HWF Nursing Professional"
+                                "NHWA_median earnings of men HWF Nursing Professional"
                         },
                         {
                             deuid: "kOWad32u5xr",
@@ -27465,7 +27779,7 @@ var whoTemplate = {
                             cell_no: "I13",
                             total: false,
                             name:
-                                "median earnings of female HWF Nursing Professional"
+                                "NHWA_median earnings of female HWF Nursing Professional"
                         },
                         {
                             deuid: "FVANVRToxVF",
@@ -27473,7 +27787,7 @@ var whoTemplate = {
                             cell_no: "D14",
                             total: false,
                             name:
-                                "Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Midwifery Professional"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Midwifery Professional"
                         },
                         {
                             deuid: "BOsqct4iCpa",
@@ -27481,7 +27795,7 @@ var whoTemplate = {
                             cell_no: "E14",
                             total: false,
                             name:
-                                "Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Midwifery Professional"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Midwifery Professional"
                         },
                         {
                             deuid: "H6pdAoosHWN",
@@ -27489,7 +27803,7 @@ var whoTemplate = {
                             cell_no: "F14",
                             total: false,
                             name:
-                                "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Midwifery Professional"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Midwifery Professional"
                         },
                         {
                             deuid: "BCjjT4Xujzu",
@@ -27497,7 +27811,7 @@ var whoTemplate = {
                             cell_no: "G14",
                             total: false,
                             name:
-                                "total median earnings HWF Midwifery Professional"
+                                "NHWA_total median earnings HWF Midwifery Professional"
                         },
                         {
                             deuid: "oTcSBrUk1hs",
@@ -27505,7 +27819,7 @@ var whoTemplate = {
                             cell_no: "H14",
                             total: false,
                             name:
-                                "median earnings of men HWF Midwifery Professional"
+                                "NHWA_median earnings of men HWF Midwifery Professional"
                         },
                         {
                             deuid: "kOWad32u5xr",
@@ -27513,7 +27827,7 @@ var whoTemplate = {
                             cell_no: "I14",
                             total: false,
                             name:
-                                "median earnings of female HWF Midwifery Professional"
+                                "NHWA_median earnings of female HWF Midwifery Professional"
                         },
                         {
                             deuid: "FVANVRToxVF",
@@ -27521,7 +27835,7 @@ var whoTemplate = {
                             cell_no: "D15",
                             total: false,
                             name:
-                                "Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Dentist"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Dentist"
                         },
                         {
                             deuid: "BOsqct4iCpa",
@@ -27529,7 +27843,7 @@ var whoTemplate = {
                             cell_no: "E15",
                             total: false,
                             name:
-                                "Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Dentist"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Dentist"
                         },
                         {
                             deuid: "H6pdAoosHWN",
@@ -27537,28 +27851,28 @@ var whoTemplate = {
                             cell_no: "F15",
                             total: false,
                             name:
-                                "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Dentist"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Dentist"
                         },
                         {
                             deuid: "BCjjT4Xujzu",
                             cocuid: "ALBRKpJsddQ",
                             cell_no: "G15",
                             total: false,
-                            name: "total median earnings HWF Dentist"
+                            name: "NHWA_total median earnings HWF Dentist"
                         },
                         {
                             deuid: "oTcSBrUk1hs",
                             cocuid: "ALBRKpJsddQ",
                             cell_no: "H15",
                             total: false,
-                            name: "median earnings of men HWF Dentist"
+                            name: "NHWA_median earnings of men HWF Dentist"
                         },
                         {
                             deuid: "kOWad32u5xr",
                             cocuid: "ALBRKpJsddQ",
                             cell_no: "I15",
                             total: false,
-                            name: "median earnings of female HWF Dentist"
+                            name: "NHWA_median earnings of female HWF Dentist"
                         },
                         {
                             deuid: "FVANVRToxVF",
@@ -27566,7 +27880,7 @@ var whoTemplate = {
                             cell_no: "D16",
                             total: false,
                             name:
-                                "Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Pharmacist"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Public Facilities Pharmacist"
                         },
                         {
                             deuid: "BOsqct4iCpa",
@@ -27574,7 +27888,7 @@ var whoTemplate = {
                             cell_no: "E16",
                             total: false,
                             name:
-                                "Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Pharmacist"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private not for profit Facilities Pharmacist"
                         },
                         {
                             deuid: "H6pdAoosHWN",
@@ -27582,28 +27896,29 @@ var whoTemplate = {
                             cell_no: "F16",
                             total: false,
                             name:
-                                "Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Pharmacist"
+                                "NHWA_Average of Entry-level wages and salaries excluding Social Contributions in Private Facilities Pharmacist"
                         },
                         {
                             deuid: "BCjjT4Xujzu",
                             cocuid: "iWRW6jXAzvP",
                             cell_no: "G16",
                             total: false,
-                            name: "total median earnings HWF Pharmacist"
+                            name: "NHWA_total median earnings HWF Pharmacist"
                         },
                         {
                             deuid: "oTcSBrUk1hs",
                             cocuid: "iWRW6jXAzvP",
                             cell_no: "H16",
                             total: false,
-                            name: "median earnings of men HWF Pharmacist"
+                            name: "NHWA_median earnings of men HWF Pharmacist"
                         },
                         {
                             deuid: "kOWad32u5xr",
                             cocuid: "iWRW6jXAzvP",
                             cell_no: "I16",
                             total: false,
-                            name: "median earnings of female HWF Pharmacist"
+                            name:
+                                "NHWA_median earnings of female HWF Pharmacist"
                         },
                         {
                             deuid: "M7R7LVsXlAN",
@@ -27611,7 +27926,7 @@ var whoTemplate = {
                             cell_no: "N20",
                             total: false,
                             name:
-                                "Existence of national/subnational policies or standards on public sector wage ceiling default"
+                                "NHWA_Existence of national/subnational policies or standards on public sector wage ceiling default"
                         },
                         {
                             deuid: "cXn60b9eotz",
@@ -27619,7 +27934,7 @@ var whoTemplate = {
                             cell_no: "E20",
                             total: false,
                             name:
-                                "Comment of Existence of national/subnational policies or standards on public sector wage ceiling  default"
+                                "NHWA_Comment of Existence of national/subnational policies or standards on public sector wage ceiling  default"
                         }
                     ]
                 }
