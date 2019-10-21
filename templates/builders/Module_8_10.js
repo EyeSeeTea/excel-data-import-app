@@ -2,7 +2,7 @@
 // You can run it in the Chrome Development Console and retrieve the results in JSON
 
 let rawMetadata = await (await fetch(
-  "/api/dataSets/p5z7F51v1ag/metadata.json"
+  "https://extranet.who.int/dhis2-dev/api/dataSets/p5z7F51v1ag/metadata.json"
 )).json();
 let metadata = new Map();
 for (const type in rawMetadata) {

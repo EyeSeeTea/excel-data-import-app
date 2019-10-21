@@ -27960,7 +27960,8 @@ var whoTemplate = {
                             cocuid: "Xr12mI7VPn3",
                             cell_no: "D8",
                             total: false,
-                            name: "Percentage of HWF at the hospitals default"
+                            name:
+                                "NHWA_Percentage of HWF at the hospitals default"
                         },
                         {
                             deuid: "fxBC5D01Iem",
@@ -27968,7 +27969,7 @@ var whoTemplate = {
                             cell_no: "D9",
                             total: false,
                             name:
-                                "Percentage of HWF working in residential long-term care facilities default"
+                                "NHWA_Percentage of HWF working in residential long-term care facilities default"
                         },
                         {
                             deuid: "EWJZZN7T9IW",
@@ -27976,7 +27977,7 @@ var whoTemplate = {
                             cell_no: "D10",
                             total: false,
                             name:
-                                "Percentage of HWF working in ambulatory health care default"
+                                "NHWA_Percentage of HWF working in ambulatory health care default"
                         },
                         {
                             deuid: "zozZbvSo4Bz",
@@ -27984,7 +27985,7 @@ var whoTemplate = {
                             cell_no: "D11",
                             total: false,
                             name:
-                                "Number of specialist surgical workers default"
+                                "NHWA_Number of specialist surgical workers default"
                         },
                         {
                             deuid: "XEj0ILIlbWO",
@@ -27992,28 +27993,29 @@ var whoTemplate = {
                             cell_no: "D12",
                             total: false,
                             name:
-                                "Number of family medicine practioners default"
+                                "NHWA_Number of family medicine practioners default"
                         },
                         {
                             deuid: "tKr3k3lbnJJ",
                             cocuid: "I93t0K7b1oN",
                             cell_no: "U13",
                             total: false,
-                            name: "Existence of advanced nursing roles Yes"
+                            name: "NHWA_Existence of advanced nursing roles Yes"
                         },
                         {
                             deuid: "tKr3k3lbnJJ",
                             cocuid: "Xgr3PJxcWfJ",
                             cell_no: "V13",
                             total: false,
-                            name: "Existence of advanced nursing roles Partial"
+                            name:
+                                "NHWA_Existence of advanced nursing roles Partial"
                         },
                         {
                             deuid: "tKr3k3lbnJJ",
                             cocuid: "Y7EAGQA1bfv",
                             cell_no: "W13",
                             total: false,
-                            name: "Existence of advanced nursing roles No"
+                            name: "NHWA_Existence of advanced nursing roles No"
                         },
                         {
                             deuid: "jlJcFRt3mmg",
@@ -28021,7 +28023,23 @@ var whoTemplate = {
                             cell_no: "E13",
                             total: false,
                             name:
-                                "Comment of existence of advanced nursing roles default"
+                                "NHWA_Comment of existence of advanced nursing roles default"
+                        },
+                        {
+                            deuid: "rYm7I91K6Je",
+                            cocuid: "Xr12mI7VPn3",
+                            cell_no: "E14",
+                            total: false,
+                            name:
+                                "NHWA_Comment of Availability of human resources to implement IHR default"
+                        },
+                        {
+                            deuid: "PBUMZvqh0r2",
+                            cocuid: "Xr12mI7VPn3",
+                            cell_no: "E15",
+                            total: false,
+                            name:
+                                "NHWA_Comment of Applied epidemiology training programme default"
                         },
                         {
                             deuid: "EVairjAiRv6",
@@ -28029,7 +28047,7 @@ var whoTemplate = {
                             cell_no: "V23",
                             total: false,
                             name:
-                                "Availability of human resources to implement IHR default"
+                                "NHWA_Availability of human resources to implement IHR default"
                         },
                         {
                             deuid: "u6F6nBWeomT",
@@ -28037,7 +28055,7 @@ var whoTemplate = {
                             cell_no: "W23",
                             total: false,
                             name:
-                                "Applied epidemiology training programme default"
+                                "NHWA_Applied epidemiology training programme default"
                         }
                     ]
                 },
@@ -28058,7 +28076,7 @@ var whoTemplate = {
                             cell_no: "Q9",
                             total: false,
                             name:
-                                "Existence of institutional mechanisms to coordinate an intersectoral health workforce agenda Yes"
+                                "NHWA_Existence of institutional mechanisms to coordinate an intersectoral health workforce agenda Yes"
                         },
                         {
                             deuid: "ROVoulCcT0j",
@@ -28066,7 +28084,7 @@ var whoTemplate = {
                             cell_no: "R9",
                             total: false,
                             name:
-                                "Existence of institutional mechanisms to coordinate an intersectoral health workforce agenda Partial"
+                                "NHWA_Existence of institutional mechanisms to coordinate an intersectoral health workforce agenda Partial"
                         },
                         {
                             deuid: "ROVoulCcT0j",
@@ -28074,7 +28092,7 @@ var whoTemplate = {
                             cell_no: "S9",
                             total: false,
                             name:
-                                "Existence of institutional mechanisms to coordinate an intersectoral health workforce agenda No"
+                                "NHWA_Existence of institutional mechanisms to coordinate an intersectoral health workforce agenda No"
                         },
                         {
                             deuid: "yqQBUxeuga4",
@@ -28082,7 +28100,7 @@ var whoTemplate = {
                             cell_no: "Q10",
                             total: false,
                             name:
-                                "Existence of a health workforce unit responsible for developing and monitoring policies and plans on health workforce Yes"
+                                "NHWA_Existence of a health workforce unit responsible for developing and monitoring policies and plans on health workforce Yes"
                         },
                         {
                             deuid: "yqQBUxeuga4",
@@ -28090,7 +28108,7 @@ var whoTemplate = {
                             cell_no: "R10",
                             total: false,
                             name:
-                                "Existence of a health workforce unit responsible for developing and monitoring policies and plans on health workforce Partial"
+                                "NHWA_Existence of a health workforce unit responsible for developing and monitoring policies and plans on health workforce Partial"
                         },
                         {
                             deuid: "yqQBUxeuga4",
@@ -28098,7 +28116,7 @@ var whoTemplate = {
                             cell_no: "S10",
                             total: false,
                             name:
-                                "Existence of a health workforce unit responsible for developing and monitoring policies and plans on health workforce No"
+                                "NHWA_Existence of a health workforce unit responsible for developing and monitoring policies and plans on health workforce No"
                         },
                         {
                             deuid: "tdwemEgGckz",
@@ -28106,7 +28124,7 @@ var whoTemplate = {
                             cell_no: "Q11",
                             total: false,
                             name:
-                                "Existence of mechanisms and models for health workforce planning Yes"
+                                "NHWA_Existence of mechanisms and models for health workforce planning Yes"
                         },
                         {
                             deuid: "tdwemEgGckz",
@@ -28114,7 +28132,7 @@ var whoTemplate = {
                             cell_no: "R11",
                             total: false,
                             name:
-                                "Existence of mechanisms and models for health workforce planning Partial"
+                                "NHWA_Existence of mechanisms and models for health workforce planning Partial"
                         },
                         {
                             deuid: "tdwemEgGckz",
@@ -28122,7 +28140,7 @@ var whoTemplate = {
                             cell_no: "S11",
                             total: false,
                             name:
-                                "Existence of mechanisms and models for health workforce planning No"
+                                "NHWA_Existence of mechanisms and models for health workforce planning No"
                         },
                         {
                             deuid: "wDaqByzsz7p",
@@ -28130,7 +28148,7 @@ var whoTemplate = {
                             cell_no: "Q12",
                             total: false,
                             name:
-                                "Existence of national education plans for the health workforce, aligned with the national health plan and the national health workforce strategy Yes"
+                                "NHWA_Existence of national education plans for the health workforce, aligned with the national health plan and the national health workforce strategy Yes"
                         },
                         {
                             deuid: "wDaqByzsz7p",
@@ -28138,7 +28156,7 @@ var whoTemplate = {
                             cell_no: "R12",
                             total: false,
                             name:
-                                "Existence of national education plans for the health workforce, aligned with the national health plan and the national health workforce strategy Partial"
+                                "NHWA_Existence of national education plans for the health workforce, aligned with the national health plan and the national health workforce strategy Partial"
                         },
                         {
                             deuid: "wDaqByzsz7p",
@@ -28146,7 +28164,7 @@ var whoTemplate = {
                             cell_no: "S12",
                             total: false,
                             name:
-                                "Existence of national education plans for the health workforce, aligned with the national health plan and the national health workforce strategy No"
+                                "NHWA_Existence of national education plans for the health workforce, aligned with the national health plan and the national health workforce strategy No"
                         },
                         {
                             deuid: "HgQ76w0VONy",
@@ -28154,7 +28172,7 @@ var whoTemplate = {
                             cell_no: "Q13",
                             total: false,
                             name:
-                                "Existence of institutional models for assessing and monitoring staffing needs for health services delivery Yes"
+                                "NHWA_Existence of institutional models for assessing and monitoring staffing needs for health services delivery Yes"
                         },
                         {
                             deuid: "HgQ76w0VONy",
@@ -28162,7 +28180,7 @@ var whoTemplate = {
                             cell_no: "R13",
                             total: false,
                             name:
-                                "Existence of institutional models for assessing and monitoring staffing needs for health services delivery Partial"
+                                "NHWA_Existence of institutional models for assessing and monitoring staffing needs for health services delivery Partial"
                         },
                         {
                             deuid: "HgQ76w0VONy",
@@ -28170,7 +28188,7 @@ var whoTemplate = {
                             cell_no: "S13",
                             total: false,
                             name:
-                                "Existence of institutional models for assessing and monitoring staffing needs for health services delivery No"
+                                "NHWA_Existence of institutional models for assessing and monitoring staffing needs for health services delivery No"
                         },
                         {
                             deuid: "xtrKmZJKljq",
@@ -28178,7 +28196,7 @@ var whoTemplate = {
                             cell_no: "E9",
                             total: false,
                             name:
-                                "Comment of existence of institutional mechanisms to coordinate an intersectoral health workforce agenda default"
+                                "NHWA_Comment of existence of institutional mechanisms to coordinate an intersectoral health workforce agenda default"
                         },
                         {
                             deuid: "R6JXOAVTsay",
@@ -28186,7 +28204,7 @@ var whoTemplate = {
                             cell_no: "E10",
                             total: false,
                             name:
-                                "Comment of existence of a health workforce unit responsible for developing and monitoring policies and plans on health workforce default"
+                                "NHWA_Comment of existence of a health workforce unit responsible for developing and monitoring policies and plans on health workforce default"
                         },
                         {
                             deuid: "risbLwkLwW5",
@@ -28194,7 +28212,7 @@ var whoTemplate = {
                             cell_no: "E11",
                             total: false,
                             name:
-                                "Comment of existence of mechanisms and models for health workforce planning default"
+                                "NHWA_Comment of existence of mechanisms and models for health workforce planning default"
                         },
                         {
                             deuid: "oLpoOT6tO7g",
@@ -28202,7 +28220,7 @@ var whoTemplate = {
                             cell_no: "E12",
                             total: false,
                             name:
-                                "Comment of national education plans for the health workforce, aligned with the national health plan and the national health workforce strategy default"
+                                "NHWA_Comment of national education plans for the health workforce, aligned with the national health plan and the national health workforce strategy default"
                         },
                         {
                             deuid: "RM1vy8bSPE8",
@@ -28210,7 +28228,7 @@ var whoTemplate = {
                             cell_no: "E13",
                             total: false,
                             name:
-                                "Comment of Existence of institutional models for assessing and monitoring staffing needs for health service delivery default"
+                                "NHWA_Comment of Existence of institutional models for assessing and monitoring staffing needs for health service delivery default"
                         }
                     ]
                 },
@@ -28231,7 +28249,7 @@ var whoTemplate = {
                             cell_no: "Q9",
                             total: false,
                             name:
-                                "Existence of HRHIS for reporting on International Health Regulations Yes"
+                                "NHWA_Existence of HRHIS for reporting on International Health Regulations Yes"
                         },
                         {
                             deuid: "f87mpByuPub",
@@ -28239,7 +28257,7 @@ var whoTemplate = {
                             cell_no: "R9",
                             total: false,
                             name:
-                                "Existence of HRHIS for reporting on International Health Regulations Partial"
+                                "NHWA_Existence of HRHIS for reporting on International Health Regulations Partial"
                         },
                         {
                             deuid: "f87mpByuPub",
@@ -28247,7 +28265,7 @@ var whoTemplate = {
                             cell_no: "S9",
                             total: false,
                             name:
-                                "Existence of HRHIS for reporting on International Health Regulations No"
+                                "NHWA_Existence of HRHIS for reporting on International Health Regulations No"
                         },
                         {
                             deuid: "RHokurJAbjS",
@@ -28255,7 +28273,7 @@ var whoTemplate = {
                             cell_no: "Q10",
                             total: false,
                             name:
-                                "Existence of HRHIS for reporting on  the WHO Global Code of Practice on the International Recruitment of Health Personnel  Yes"
+                                "NHWA_Existence of HRHIS for reporting on  the WHO Global Code of Practice on the International Recruitment of Health Personnel  Yes"
                         },
                         {
                             deuid: "RHokurJAbjS",
@@ -28263,7 +28281,7 @@ var whoTemplate = {
                             cell_no: "R10",
                             total: false,
                             name:
-                                "Existence of HRHIS for reporting on  the WHO Global Code of Practice on the International Recruitment of Health Personnel  Partial"
+                                "NHWA_Existence of HRHIS for reporting on  the WHO Global Code of Practice on the International Recruitment of Health Personnel  Partial"
                         },
                         {
                             deuid: "RHokurJAbjS",
@@ -28271,7 +28289,7 @@ var whoTemplate = {
                             cell_no: "S10",
                             total: false,
                             name:
-                                "Existence of HRHIS for reporting on  the WHO Global Code of Practice on the International Recruitment of Health Personnel  No"
+                                "NHWA_Existence of HRHIS for reporting on  the WHO Global Code of Practice on the International Recruitment of Health Personnel  No"
                         },
                         {
                             deuid: "w8SWd1reRm8",
@@ -28279,7 +28297,7 @@ var whoTemplate = {
                             cell_no: "Q11",
                             total: false,
                             name:
-                                "Existence of HRHIS for reporting on Skilled Attendance at Birth requirements Yes"
+                                "NHWA_Existence of HRHIS for reporting on Skilled Attendance at Birth requirements Yes"
                         },
                         {
                             deuid: "w8SWd1reRm8",
@@ -28287,7 +28305,7 @@ var whoTemplate = {
                             cell_no: "R11",
                             total: false,
                             name:
-                                "Existence of HRHIS for reporting on Skilled Attendance at Birth requirements Partial"
+                                "NHWA_Existence of HRHIS for reporting on Skilled Attendance at Birth requirements Partial"
                         },
                         {
                             deuid: "w8SWd1reRm8",
@@ -28295,7 +28313,7 @@ var whoTemplate = {
                             cell_no: "S11",
                             total: false,
                             name:
-                                "Existence of HRHIS for reporting on Skilled Attendance at Birth requirements No"
+                                "NHWA_Existence of HRHIS for reporting on Skilled Attendance at Birth requirements No"
                         },
                         {
                             deuid: "IidAimBSgEf",
@@ -28303,7 +28321,7 @@ var whoTemplate = {
                             cell_no: "Q12",
                             total: false,
                             name:
-                                "Existence of HRHIS for reporting on outputs from education and training institutions Yes"
+                                "NHWA_Existence of HRHIS for reporting on outputs from education and training institutions Yes"
                         },
                         {
                             deuid: "IidAimBSgEf",
@@ -28311,7 +28329,7 @@ var whoTemplate = {
                             cell_no: "R12",
                             total: false,
                             name:
-                                "Existence of HRHIS for reporting on outputs from education and training institutions Partial"
+                                "NHWA_Existence of HRHIS for reporting on outputs from education and training institutions Partial"
                         },
                         {
                             deuid: "IidAimBSgEf",
@@ -28319,7 +28337,7 @@ var whoTemplate = {
                             cell_no: "S12",
                             total: false,
                             name:
-                                "Existence of HRHIS for reporting on outputs from education and training institutions No"
+                                "NHWA_Existence of HRHIS for reporting on outputs from education and training institutions No"
                         },
                         {
                             deuid: "q8CUMlpFLtJ",
@@ -28327,7 +28345,7 @@ var whoTemplate = {
                             cell_no: "Q13",
                             total: false,
                             name:
-                                "Existence of HRHIS to track entrants to the labour market Yes"
+                                "NHWA_Existence of HRHIS to track entrants to the labour market Yes"
                         },
                         {
                             deuid: "q8CUMlpFLtJ",
@@ -28335,7 +28353,7 @@ var whoTemplate = {
                             cell_no: "R13",
                             total: false,
                             name:
-                                "Existence of HRHIS to track entrants to the labour market Partial"
+                                "NHWA_Existence of HRHIS to track entrants to the labour market Partial"
                         },
                         {
                             deuid: "q8CUMlpFLtJ",
@@ -28343,7 +28361,7 @@ var whoTemplate = {
                             cell_no: "S13",
                             total: false,
                             name:
-                                "Existence of HRHIS to track entrants to the labour market No"
+                                "NHWA_Existence of HRHIS to track entrants to the labour market No"
                         },
                         {
                             deuid: "hR7B1ITcCMe",
@@ -28351,7 +28369,7 @@ var whoTemplate = {
                             cell_no: "Q14",
                             total: false,
                             name:
-                                "Existence of HRHIS to track the number of active stock per year Yes"
+                                "NHWA_Existence of HRHIS to track the number of active stock per year Yes"
                         },
                         {
                             deuid: "hR7B1ITcCMe",
@@ -28359,7 +28377,7 @@ var whoTemplate = {
                             cell_no: "R14",
                             total: false,
                             name:
-                                "Existence of HRHIS to track the number of active stock per year Partial"
+                                "NHWA_Existence of HRHIS to track the number of active stock per year Partial"
                         },
                         {
                             deuid: "hR7B1ITcCMe",
@@ -28367,7 +28385,7 @@ var whoTemplate = {
                             cell_no: "S14",
                             total: false,
                             name:
-                                "Existence of HRHIS to track the number of active stock per year No"
+                                "NHWA_Existence of HRHIS to track the number of active stock per year No"
                         },
                         {
                             deuid: "qNxAIa6jvmm",
@@ -28375,7 +28393,7 @@ var whoTemplate = {
                             cell_no: "Q15",
                             total: false,
                             name:
-                                "Existence of HRHIS to track the number of exits per year Yes"
+                                "NHWA_Existence of HRHIS to track the number of exits per year Yes"
                         },
                         {
                             deuid: "qNxAIa6jvmm",
@@ -28383,7 +28401,7 @@ var whoTemplate = {
                             cell_no: "R15",
                             total: false,
                             name:
-                                "Existence of HRHIS to track the number of exits per year Partial"
+                                "NHWA_Existence of HRHIS to track the number of exits per year Partial"
                         },
                         {
                             deuid: "qNxAIa6jvmm",
@@ -28391,7 +28409,7 @@ var whoTemplate = {
                             cell_no: "S15",
                             total: false,
                             name:
-                                "Existence of HRHIS to track the number of exits per year No"
+                                "NHWA_Existence of HRHIS to track the number of exits per year No"
                         },
                         {
                             deuid: "FZYvE3Jdf8L",
@@ -28399,7 +28417,7 @@ var whoTemplate = {
                             cell_no: "Q16",
                             total: false,
                             name:
-                                "Existence of HRHIS to produce geo-coded location of health facilities Yes"
+                                "NHWA_Existence of HRHIS to produce geo-coded location of health facilities Yes"
                         },
                         {
                             deuid: "FZYvE3Jdf8L",
@@ -28407,7 +28425,7 @@ var whoTemplate = {
                             cell_no: "R16",
                             total: false,
                             name:
-                                "Existence of HRHIS to produce geo-coded location of health facilities Partial"
+                                "NHWA_Existence of HRHIS to produce geo-coded location of health facilities Partial"
                         },
                         {
                             deuid: "FZYvE3Jdf8L",
@@ -28415,7 +28433,7 @@ var whoTemplate = {
                             cell_no: "S16",
                             total: false,
                             name:
-                                "Existence of HRHIS to produce geo-coded location of health facilities No"
+                                "NHWA_Existence of HRHIS to produce geo-coded location of health facilities No"
                         },
                         {
                             deuid: "jieOOtItEQg",
@@ -28423,7 +28441,7 @@ var whoTemplate = {
                             cell_no: "E9",
                             total: false,
                             name:
-                                "Comment of Existence of HRHIS for reporting on International Health Regulations default"
+                                "NHWA_Comment of Existence of HRHIS for reporting on International Health Regulations default"
                         },
                         {
                             deuid: "tASpRJWiyvN",
@@ -28431,7 +28449,7 @@ var whoTemplate = {
                             cell_no: "E10",
                             total: false,
                             name:
-                                "Comment of Existence of HRHIS for reporting on  the WHO Global Code of Practice on the International Recruitment of Health Personnel default"
+                                "NHWA_Comment of Existence of HRHIS for reporting on  the WHO Global Code of Practice on the International Recruitment of Health Personnel default"
                         },
                         {
                             deuid: "aAaUMHvUPv1",
@@ -28439,7 +28457,7 @@ var whoTemplate = {
                             cell_no: "E11",
                             total: false,
                             name:
-                                "Comment of Existence of HRHIS for reporting on Skilled Attendance at Birth requirements default"
+                                "NHWA_Comment of Existence of HRHIS for reporting on Skilled Attendance at Birth requirements default"
                         },
                         {
                             deuid: "mwwpy9cyOGy",
@@ -28447,7 +28465,7 @@ var whoTemplate = {
                             cell_no: "E12",
                             total: false,
                             name:
-                                "Comment of Existence of HRHIS for reporting on outputs from education and training institutions default"
+                                "NHWA_Comment of Existence of HRHIS for reporting on outputs from education and training institutions default"
                         },
                         {
                             deuid: "AK5r5VIXYOW",
@@ -28455,7 +28473,7 @@ var whoTemplate = {
                             cell_no: "E13",
                             total: false,
                             name:
-                                "Comment of Existence of HRHIS to track entrants to the labour market default"
+                                "NHWA_Comment of Existence of HRHIS to track entrants to the labour market default"
                         },
                         {
                             deuid: "QuUK6IgR9oZ",
@@ -28463,7 +28481,7 @@ var whoTemplate = {
                             cell_no: "E14",
                             total: false,
                             name:
-                                "Comment of Existence of HRHIS to track the number of active stock per year default"
+                                "NHWA_Comment of Existence of HRHIS to track the number of active stock per year default"
                         },
                         {
                             deuid: "bGA2GtwhrC9",
@@ -28471,7 +28489,7 @@ var whoTemplate = {
                             cell_no: "E15",
                             total: false,
                             name:
-                                "Comment of Existence of HRHIS to track the number of exits per year default"
+                                "NHWA_Comment of Existence of HRHIS to track the number of exits per year default"
                         },
                         {
                             deuid: "cWUu9JeMtg7",
@@ -28479,7 +28497,7 @@ var whoTemplate = {
                             cell_no: "E16",
                             total: false,
                             name:
-                                "Comment of Existence of HRHIS to produce geo-coded location of health facilities default"
+                                "NHWA_Comment of Existence of HRHIS to produce geo-coded location of health facilities default"
                         }
                     ]
                 }
