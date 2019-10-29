@@ -27947,7 +27947,7 @@ var whoTemplate = {
                 {
                     sheet_type: "AGGREGATE_STATIC",
                     sheet_no: 1,
-                    sheet_name: "Cost per program",
+                    sheet_name: "M8 - Skill mix composition",
                     orgUnitIdScheme: "UID",
                     dataElementIdScheme: "UID",
                     idScheme: "UID",
@@ -28020,7 +28020,7 @@ var whoTemplate = {
                         {
                             deuid: "jlJcFRt3mmg",
                             cocuid: "Xr12mI7VPn3",
-                            cell_no: "E13",
+                            cell_no: "E16",
                             total: false,
                             name:
                                 "NHWA_Comment of existence of advanced nursing roles default"
@@ -28028,7 +28028,7 @@ var whoTemplate = {
                         {
                             deuid: "rYm7I91K6Je",
                             cocuid: "Xr12mI7VPn3",
-                            cell_no: "E14",
+                            cell_no: "E17",
                             total: false,
                             name:
                                 "NHWA_Comment of Availability of human resources to implement IHR default"
@@ -28036,7 +28036,7 @@ var whoTemplate = {
                         {
                             deuid: "PBUMZvqh0r2",
                             cocuid: "Xr12mI7VPn3",
-                            cell_no: "E15",
+                            cell_no: "E18",
                             total: false,
                             name:
                                 "NHWA_Comment of Applied epidemiology training programme default"

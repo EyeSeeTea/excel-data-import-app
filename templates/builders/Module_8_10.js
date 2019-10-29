@@ -95,7 +95,7 @@ let dataTab1Checks = getDataElements(
   "entrytrueonly"
 );
 
-let dataTab1Comments = getDataElements("#tab0", ["E"], 13, "textarea");
+let dataTab1Comments = getDataElements("#tab0", ["E"], 16, "textarea");
 
 let dataTab1OptionSets = getDataElements("#tab0", ["V", "W"], 23, "input", "entryoptionset");
 
@@ -109,7 +109,7 @@ const dataElementsSheet1 = [
 let sheet1 = {
   sheet_type: "AGGREGATE_STATIC",
   sheet_no: 1,
-  sheet_name: "Cost per program",
+  sheet_name: "M8 - Skill mix composition",
   orgUnitIdScheme: "UID",
   dataElementIdScheme: "UID",
   idScheme: "UID",
